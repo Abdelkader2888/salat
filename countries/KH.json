@@ -1,0 +1,737 @@
+{
+  "iso2": "KH",
+  "name": "Cambodia",
+  "nativeName": "Cambodia",
+  "lat": 13,
+  "lon": 105,
+  "states": [
+    {
+      "name": "Banteay Meanchey",
+      "stateCode": "1",
+      "lat": 13.7531914,
+      "lon": 102.989615,
+      "cities": [
+        {
+          "name": "Mongkol Borei",
+          "lat": 13.45531,
+          "lon": 102.99186
+        },
+        {
+          "name": "Paoy Paet",
+          "lat": 13.65805,
+          "lon": 102.56365
+        },
+        {
+          "name": "Sisophon",
+          "lat": 13.58588,
+          "lon": 102.97369
+        },
+        {
+          "name": "Srŏk Malai",
+          "lat": 13.49902,
+          "lon": 102.60164
+        },
+        {
+          "name": "Srŏk Svay Chék",
+          "lat": 13.81305,
+          "lon": 102.95269
+        }
+      ]
+    },
+    {
+      "name": "Battambang",
+      "stateCode": "2",
+      "lat": 13.0286971,
+      "lon": 102.989615,
+      "cities": [
+        {
+          "name": "Battambang",
+          "lat": 13.10271,
+          "lon": 103.19822
+        },
+        {
+          "name": "Srŏk Âk Phnŭm",
+          "lat": 13.23621,
+          "lon": 103.45894
+        },
+        {
+          "name": "Srŏk Banăn",
+          "lat": 12.97067,
+          "lon": 103.04742
+        },
+        {
+          "name": "Srŏk Bâvĭl",
+          "lat": 13.23601,
+          "lon": 102.8291
+        },
+        {
+          "name": "Srŏk Rotanak Mondol",
+          "lat": 12.84048,
+          "lon": 102.887
+        }
+      ]
+    },
+    {
+      "name": "Kampong Cham",
+      "stateCode": "3",
+      "lat": 12.0982918,
+      "lon": 105.3131185,
+      "cities": [
+        {
+          "name": "Cheung Prey",
+          "lat": 12.1,
+          "lon": 105.07
+        },
+        {
+          "name": "Kampong Cham",
+          "lat": 11.98,
+          "lon": 105.445
+        },
+        {
+          "name": "Srŏk Bathéay",
+          "lat": 12.02986,
+          "lon": 104.93171
+        }
+      ]
+    },
+    {
+      "name": "Kampong Chhnang",
+      "stateCode": "4",
+      "lat": 12.1392352,
+      "lon": 104.5655273,
+      "cities": [
+        {
+          "name": "Baribour",
+          "lat": 12.43,
+          "lon": 104.47
+        },
+        {
+          "name": "Kampong Chhnang",
+          "lat": 12.26,
+          "lon": 104.67
+        },
+        {
+          "name": "Rolea B'ier",
+          "lat": 12.21,
+          "lon": 104.61
+        },
+        {
+          "name": "Srŏk Chol Kiri",
+          "lat": 12.15861,
+          "lon": 104.82287
+        },
+        {
+          "name": "Srŏk Sameakki Mean Chey",
+          "lat": 11.86788,
+          "lon": 104.55549
+        }
+      ]
+    },
+    {
+      "name": "Kampong Speu",
+      "stateCode": "5",
+      "lat": 11.6155109,
+      "lon": 104.3791912,
+      "cities": [
+        {
+          "name": "Kampong Speu",
+          "lat": 11.45332,
+          "lon": 104.52085
+        },
+        {
+          "name": "Krŏng Chbar Mon",
+          "lat": 11.47091,
+          "lon": 104.50655
+        },
+        {
+          "name": "Srŏk Basedth",
+          "lat": 11.18432,
+          "lon": 104.53584
+        },
+        {
+          "name": "Srŏk Kông Pĭsei",
+          "lat": 11.31648,
+          "lon": 104.65992
+        },
+        {
+          "name": "Srŏk Ŏdŏngk",
+          "lat": 11.66845,
+          "lon": 104.61224
+        }
+      ]
+    },
+    {
+      "name": "Kampong Thom",
+      "stateCode": "6",
+      "lat": 12.8167485,
+      "lon": 103.8413104,
+      "cities": []
+    },
+    {
+      "name": "Kampot",
+      "stateCode": "7",
+      "lat": 10.7325351,
+      "lon": 104.3791912,
+      "cities": [
+        {
+          "name": "Angkor Chey",
+          "lat": 10.76667,
+          "lon": 104.65
+        },
+        {
+          "name": "Banteay Meas",
+          "lat": 10.61667,
+          "lon": 104.53333
+        },
+        {
+          "name": "Chhouk District",
+          "lat": 10.81667,
+          "lon": 104.45
+        },
+        {
+          "name": "Kampong Bay",
+          "lat": 10.59554,
+          "lon": 104.17136
+        },
+        {
+          "name": "Kampong Tranch",
+          "lat": 10.55,
+          "lon": 104.46667
+        },
+        {
+          "name": "Kampot",
+          "lat": 10.61041,
+          "lon": 104.18145
+        },
+        {
+          "name": "Srŏk Chŭm Kiri",
+          "lat": 11.0054,
+          "lon": 104.44207
+        },
+        {
+          "name": "Srŏk Dângtóng",
+          "lat": 10.70733,
+          "lon": 104.42229
+        },
+        {
+          "name": "Srok Tuek Chhou",
+          "lat": 10.74557,
+          "lon": 104.11013
+        }
+      ]
+    },
+    {
+      "name": "Kandal",
+      "stateCode": "8",
+      "lat": 11.2237383,
+      "lon": 105.1258955,
+      "cities": [
+        {
+          "name": "Krŏng Ta Khmau",
+          "lat": 11.45474,
+          "lon": 104.9435
+        },
+        {
+          "name": "Srŏk Khsăch Kândal",
+          "lat": 11.69224,
+          "lon": 105.03732
+        },
+        {
+          "name": "Ta Khmau",
+          "lat": 11.48333,
+          "lon": 104.95
+        }
+      ]
+    },
+    {
+      "name": "Kep",
+      "stateCode": "23",
+      "lat": 10.536089,
+      "lon": 104.3559158,
+      "cities": [
+        {
+          "name": "Krong Kep",
+          "lat": 10.48291,
+          "lon": 104.31672
+        },
+        {
+          "name": "Srŏk Dâmnăk Châng’aeur",
+          "lat": 10.53394,
+          "lon": 104.34855
+        }
+      ]
+    },
+    {
+      "name": "Koh Kong",
+      "stateCode": "9",
+      "lat": 11.5762804,
+      "lon": 103.3587288,
+      "cities": [
+        {
+          "name": "Koh Kong",
+          "lat": 11.61531,
+          "lon": 102.9838
+        },
+        {
+          "name": "Smach Mean Chey",
+          "lat": 11.54665,
+          "lon": 103.03569
+        },
+        {
+          "name": "Srae Ambel",
+          "lat": 11.10968,
+          "lon": 103.76226
+        },
+        {
+          "name": "Srŏk Batum Sakôr",
+          "lat": 11.11465,
+          "lon": 103.38993
+        },
+        {
+          "name": "Srŏk Môndôl Seima",
+          "lat": 11.81292,
+          "lon": 103.01159
+        }
+      ]
+    },
+    {
+      "name": "Kratie",
+      "stateCode": "10",
+      "lat": 12.5043608,
+      "lon": 105.9699878,
+      "cities": [
+        {
+          "name": "Kracheh",
+          "lat": 12.57,
+          "lon": 106.2
+        },
+        {
+          "name": "Kratié",
+          "lat": 12.48811,
+          "lon": 106.01879
+        },
+        {
+          "name": "Snuol",
+          "lat": 12.19373,
+          "lon": 106.47361
+        }
+      ]
+    },
+    {
+      "name": "Mondulkiri",
+      "stateCode": "11",
+      "lat": 12.7879427,
+      "lon": 107.1011931,
+      "cities": [
+        {
+          "name": "Krŏng Sênmônoŭrôm",
+          "lat": 12.5048,
+          "lon": 107.15525
+        },
+        {
+          "name": "Sen Monorom",
+          "lat": 12.45583,
+          "lon": 107.18811
+        },
+        {
+          "name": "Srŏk Kaev Seima",
+          "lat": 12.41722,
+          "lon": 106.77025
+        },
+        {
+          "name": "Srŏk Pech Chreada",
+          "lat": 12.7278,
+          "lon": 107.0948
+        }
+      ]
+    },
+    {
+      "name": "Oddar Meanchey",
+      "stateCode": "22",
+      "lat": 14.1609738,
+      "lon": 103.8216261,
+      "cities": [
+        {
+          "name": "Samraong",
+          "lat": 14.18175,
+          "lon": 103.51761
+        },
+        {
+          "name": "Srŏk Bântéay Âmpĭl",
+          "lat": 14.1859,
+          "lon": 103.25925
+        },
+        {
+          "name": "Srŏk Sâmraông",
+          "lat": 14.25039,
+          "lon": 103.62739
+        },
+        {
+          "name": "Srŏk Trâpeăng Prasat",
+          "lat": 14.25809,
+          "lon": 104.30835
+        }
+      ]
+    },
+    {
+      "name": "Pailin",
+      "stateCode": "24",
+      "lat": 12.9092962,
+      "lon": 102.6675575,
+      "cities": [
+        {
+          "name": "Khan Sala Krau",
+          "lat": 12.97984,
+          "lon": 102.63957
+        },
+        {
+          "name": "Pailin",
+          "lat": 12.84895,
+          "lon": 102.60928
+        }
+      ]
+    },
+    {
+      "name": "Phnom Penh",
+      "stateCode": "12",
+      "lat": 11.5563738,
+      "lon": 104.9282099,
+      "cities": [
+        {
+          "name": "Khan 7 Makara",
+          "lat": 11.56254,
+          "lon": 104.91405
+        },
+        {
+          "name": "Khan Châmkar Mon",
+          "lat": 11.5439,
+          "lon": 104.92175
+        },
+        {
+          "name": "Khan Dângkaô",
+          "lat": 11.52457,
+          "lon": 104.83944
+        },
+        {
+          "name": "Khan Duŏn Pénh",
+          "lat": 11.57561,
+          "lon": 104.92025
+        },
+        {
+          "name": "Khan Méan Chey",
+          "lat": 11.51976,
+          "lon": 104.95467
+        },
+        {
+          "name": "Khan Russey Keo",
+          "lat": 11.61946,
+          "lon": 104.9099
+        },
+        {
+          "name": "Khan Saen Sokh",
+          "lat": 11.61289,
+          "lon": 104.86078
+        },
+        {
+          "name": "Phnom Penh",
+          "lat": 11.56245,
+          "lon": 104.91601
+        }
+      ]
+    },
+    {
+      "name": "Preah Vihear",
+      "stateCode": "13",
+      "lat": 14.0085797,
+      "lon": 104.8454619,
+      "cities": [
+        {
+          "name": "Sangkom Thmei",
+          "lat": 13.47395,
+          "lon": 104.77051
+        },
+        {
+          "name": "Srŏk Ch’êh Sên",
+          "lat": 13.58215,
+          "lon": 105.34533
+        },
+        {
+          "name": "Srŏk Chhêb",
+          "lat": 13.91077,
+          "lon": 105.4618
+        },
+        {
+          "name": "Srŏk Kulén",
+          "lat": 13.78597,
+          "lon": 104.61052
+        },
+        {
+          "name": "Srŏk Rôviĕng",
+          "lat": 13.35105,
+          "lon": 105.09956
+        },
+        {
+          "name": "Srŏk Tbêng Méanchey",
+          "lat": 13.78622,
+          "lon": 105.01586
+        },
+        {
+          "name": "Tbeng Meanchey",
+          "lat": 13.80731,
+          "lon": 104.98046
+        }
+      ]
+    },
+    {
+      "name": "Prey Veng",
+      "stateCode": "14",
+      "lat": 11.3802442,
+      "lon": 105.5005483,
+      "cities": [
+        {
+          "name": "Prey Veng",
+          "lat": 11.48682,
+          "lon": 105.32533
+        },
+        {
+          "name": "Srŏk Kâmpóng Léav",
+          "lat": 11.5097,
+          "lon": 105.3011
+        },
+        {
+          "name": "Srŏk Mésang",
+          "lat": 11.35528,
+          "lon": 105.57235
+        },
+        {
+          "name": "Srŏk Preăh Sdéch",
+          "lat": 11.0869,
+          "lon": 105.37497
+        }
+      ]
+    },
+    {
+      "name": "Pursat",
+      "stateCode": "15",
+      "lat": 12.2720956,
+      "lon": 103.7289167,
+      "cities": [
+        {
+          "name": "Bakan",
+          "lat": 12.78,
+          "lon": 103.79
+        },
+        {
+          "name": "Krakor",
+          "lat": 12.48,
+          "lon": 104.19
+        },
+        {
+          "name": "Pursat",
+          "lat": 12.53878,
+          "lon": 103.9192
+        },
+        {
+          "name": "Sampov Meas",
+          "lat": 12.47055,
+          "lon": 103.91817
+        },
+        {
+          "name": "Srŏk Kândiĕng",
+          "lat": 12.71245,
+          "lon": 104.02592
+        },
+        {
+          "name": "Srŏk Véal Vêng",
+          "lat": 12.2423,
+          "lon": 103.13444
+        }
+      ]
+    },
+    {
+      "name": "Ratanakiri",
+      "stateCode": "16",
+      "lat": 13.8576607,
+      "lon": 107.1011931,
+      "cities": [
+        {
+          "name": "Banlung",
+          "lat": 13.73939,
+          "lon": 106.98727
+        },
+        {
+          "name": "Lumphat",
+          "lat": 13.49146,
+          "lon": 106.98022
+        },
+        {
+          "name": "Srŏk Ândong Méas",
+          "lat": 13.93352,
+          "lon": 107.31155
+        },
+        {
+          "name": "Srŏk Bâ Kêv",
+          "lat": 13.70749,
+          "lon": 107.19442
+        },
+        {
+          "name": "Srŏk Ban Lŭng",
+          "lat": 13.682,
+          "lon": 107.03025
+        },
+        {
+          "name": "Srŏk Koun Mom",
+          "lat": 13.51772,
+          "lon": 106.75142
+        },
+        {
+          "name": "Srŏk Ou Chum",
+          "lat": 13.84069,
+          "lon": 107.03469
+        },
+        {
+          "name": "Srŏk Ou Ya Dav",
+          "lat": 13.54328,
+          "lon": 107.44636
+        },
+        {
+          "name": "Srŏk Ta Vêng",
+          "lat": 14.29192,
+          "lon": 107.24031
+        }
+      ]
+    },
+    {
+      "name": "Siem Reap",
+      "stateCode": "17",
+      "lat": 13.330266,
+      "lon": 104.1001326,
+      "cities": [
+        {
+          "name": "Siem Reap",
+          "lat": 13.36179,
+          "lon": 103.86056
+        },
+        {
+          "name": "Srŏk Ângkôr Thum",
+          "lat": 13.57881,
+          "lon": 103.85645
+        },
+        {
+          "name": "Srŏk Prasat Bakong",
+          "lat": 13.21031,
+          "lon": 103.97689
+        },
+        {
+          "name": "Svay Leu",
+          "lat": 13.69168,
+          "lon": 104.27446
+        },
+        {
+          "name": "Varin",
+          "lat": 13.83574,
+          "lon": 103.89968
+        }
+      ]
+    },
+    {
+      "name": "Sihanoukville",
+      "stateCode": "18",
+      "lat": 10.7581899,
+      "lon": 103.8216261,
+      "cities": [
+        {
+          "name": "Sihanoukville",
+          "lat": 10.60932,
+          "lon": 103.52958
+        },
+        {
+          "name": "Srok Stueng Hav",
+          "lat": 10.85249,
+          "lon": 103.74016
+        }
+      ]
+    },
+    {
+      "name": "Stung Treng",
+      "stateCode": "19",
+      "lat": 13.576473,
+      "lon": 105.9699878,
+      "cities": [
+        {
+          "name": "Srŏk Srêsén",
+          "lat": 13.6053,
+          "lon": 106.35819
+        },
+        {
+          "name": "Stueng Traeng",
+          "lat": 13.65,
+          "lon": 106.07
+        },
+        {
+          "name": "Stung Treng",
+          "lat": 13.52586,
+          "lon": 105.9683
+        }
+      ]
+    },
+    {
+      "name": "Svay Rieng",
+      "stateCode": "20",
+      "lat": 11.142722,
+      "lon": 105.8290298,
+      "cities": [
+        {
+          "name": "Srŏk Svay Chrŭm",
+          "lat": 11.1116,
+          "lon": 105.69814
+        },
+        {
+          "name": "Svay Rieng",
+          "lat": 11.08785,
+          "lon": 105.79935
+        }
+      ]
+    },
+    {
+      "name": "Tai Po District",
+      "stateCode": "NTP",
+      "lat": 22.45085,
+      "lon": 114.16422,
+      "cities": []
+    },
+    {
+      "name": "Takeo",
+      "stateCode": "21",
+      "lat": 10.9321519,
+      "lon": 104.798771,
+      "cities": [
+        {
+          "name": "Krŏng Doun Kaev",
+          "lat": 10.99459,
+          "lon": 104.7955
+        },
+        {
+          "name": "Phumĭ Véal Srê",
+          "lat": 10.98081,
+          "lon": 104.77828
+        },
+        {
+          "name": "Srŏk Ângkôr Borei",
+          "lat": 10.99291,
+          "lon": 104.95177
+        },
+        {
+          "name": "Srŏk Borei Cholsar",
+          "lat": 10.81414,
+          "lon": 104.98994
+        },
+        {
+          "name": "Takeo",
+          "lat": 10.99081,
+          "lon": 104.78498
+        }
+      ]
+    }
+  ]
+}

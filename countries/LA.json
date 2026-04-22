@@ -1,0 +1,540 @@
+{
+  "iso2": "LA",
+  "name": "Laos",
+  "nativeName": "Laos",
+  "lat": 18,
+  "lon": 105,
+  "states": [
+    {
+      "name": "Attapeu Province",
+      "stateCode": "AT",
+      "lat": 14.93634,
+      "lon": 107.1011931,
+      "cities": [
+        {
+          "name": "Attapeu",
+          "lat": 14.81071,
+          "lon": 106.83184
+        },
+        {
+          "name": "Muang Phouvong",
+          "lat": 14.56821,
+          "lon": 107.01087
+        },
+        {
+          "name": "Muang Samakhixai",
+          "lat": 14.80539,
+          "lon": 106.78164
+        },
+        {
+          "name": "Muang Sanamxai",
+          "lat": 14.73807,
+          "lon": 106.41328
+        },
+        {
+          "name": "Muang Sanxai",
+          "lat": 15.02944,
+          "lon": 107.23158
+        },
+        {
+          "name": "Muang Xaiséttha",
+          "lat": 14.90594,
+          "lon": 106.97894
+        }
+      ]
+    },
+    {
+      "name": "Bokeo Province",
+      "stateCode": "BK",
+      "lat": 20.2872662,
+      "lon": 100.7097867,
+      "cities": [
+        {
+          "name": "Ban Houakhoua",
+          "lat": 20.2467,
+          "lon": 100.45401
+        },
+        {
+          "name": "Ban Houayxay",
+          "lat": 20.27,
+          "lon": 100.4178
+        },
+        {
+          "name": "Muang Houayxay",
+          "lat": 20.38763,
+          "lon": 100.62687
+        },
+        {
+          "name": "Muang Meung",
+          "lat": 20.67585,
+          "lon": 100.52639
+        },
+        {
+          "name": "Muang Paktha",
+          "lat": 20.09108,
+          "lon": 100.5994
+        },
+        {
+          "name": "Muang Pha Oudôm",
+          "lat": 20.18744,
+          "lon": 100.926
+        },
+        {
+          "name": "Muang Tônpheung",
+          "lat": 20.53465,
+          "lon": 100.29624
+        }
+      ]
+    },
+    {
+      "name": "Bolikhamsai Province",
+      "stateCode": "BL",
+      "lat": 18.4362924,
+      "lon": 104.4723301,
+      "cities": [
+        {
+          "name": "Ban Nahin",
+          "lat": 18.24253,
+          "lon": 104.21281
+        },
+        {
+          "name": "Pakxan",
+          "lat": 18.3942,
+          "lon": 103.6611
+        }
+      ]
+    },
+    {
+      "name": "Champasak Province",
+      "stateCode": "CH",
+      "lat": 14.6578664,
+      "lon": 105.9699878,
+      "cities": [
+        {
+          "name": "Champasak",
+          "lat": 14.89204,
+          "lon": 105.87787
+        },
+        {
+          "name": "Muang Bachiangchaleunsook",
+          "lat": 15.24426,
+          "lon": 105.96716
+        },
+        {
+          "name": "Muang Champasak",
+          "lat": 14.85704,
+          "lon": 105.75334
+        },
+        {
+          "name": "Muang Không",
+          "lat": 14.14696,
+          "lon": 105.95938
+        },
+        {
+          "name": "Muang Mounlapamôk",
+          "lat": 14.28922,
+          "lon": 105.56832
+        },
+        {
+          "name": "Muang Pakxé",
+          "lat": 15.13139,
+          "lon": 105.81612
+        },
+        {
+          "name": "Muang Pakxong",
+          "lat": 15.0981,
+          "lon": 106.43398
+        },
+        {
+          "name": "Muang Pathoumphon",
+          "lat": 14.68453,
+          "lon": 106.06357
+        },
+        {
+          "name": "Muang Phônthong",
+          "lat": 15.10669,
+          "lon": 105.6489
+        },
+        {
+          "name": "Muang Soukhouma",
+          "lat": 14.6256,
+          "lon": 105.6752
+        },
+        {
+          "name": "Muang Xanasômboun",
+          "lat": 15.34107,
+          "lon": 105.73703
+        },
+        {
+          "name": "Pakse",
+          "lat": 15.12022,
+          "lon": 105.79898
+        },
+        {
+          "name": "Pakxong",
+          "lat": 15.18154,
+          "lon": 106.23038
+        }
+      ]
+    },
+    {
+      "name": "Houaphanh Province",
+      "stateCode": "HO",
+      "lat": 20.3254175,
+      "lon": 104.1001326,
+      "cities": [
+        {
+          "name": "Xam Neua",
+          "lat": 20.40764,
+          "lon": 104.0656
+        },
+        {
+          "name": "Xam Nua",
+          "lat": 20.4164,
+          "lon": 104.045
+        }
+      ]
+    },
+    {
+      "name": "Khammouane Province",
+      "stateCode": "KH",
+      "lat": 17.6384066,
+      "lon": 105.2194808,
+      "cities": [
+        {
+          "name": "Muang Thakhèk",
+          "lat": 17.4088,
+          "lon": 104.82639
+        },
+        {
+          "name": "Thakhèk",
+          "lat": 17.41027,
+          "lon": 104.83068
+        }
+      ]
+    },
+    {
+      "name": "Luang Namtha Province",
+      "stateCode": "LM",
+      "lat": 20.9170187,
+      "lon": 101.1617356,
+      "cities": [
+        {
+          "name": "Luang Namtha",
+          "lat": 20.9486,
+          "lon": 101.40188
+        },
+        {
+          "name": "Muang Louang Namtha",
+          "lat": 21.00424,
+          "lon": 101.44785
+        }
+      ]
+    },
+    {
+      "name": "Luang Prabang Province",
+      "stateCode": "LP",
+      "lat": 20.0656229,
+      "lon": 102.6216211,
+      "cities": [
+        {
+          "name": "Luang Prabang",
+          "lat": 19.88601,
+          "lon": 102.13503
+        }
+      ]
+    },
+    {
+      "name": "Oudomxay Province",
+      "stateCode": "OU",
+      "lat": 20.4921929,
+      "lon": 101.8891721,
+      "cities": [
+        {
+          "name": "Muang Xay",
+          "lat": 20.69229,
+          "lon": 101.98368
+        }
+      ]
+    },
+    {
+      "name": "Phongsaly Province",
+      "stateCode": "PH",
+      "lat": 21.5919377,
+      "lon": 102.2547919,
+      "cities": [
+        {
+          "name": "Phôngsali",
+          "lat": 21.6808,
+          "lon": 102.1003
+        }
+      ]
+    },
+    {
+      "name": "Sainyabuli Province",
+      "stateCode": "XA",
+      "lat": 19.3907886,
+      "lon": 101.5248055,
+      "cities": [
+        {
+          "name": "Sainyabuli",
+          "lat": 19.25756,
+          "lon": 101.71032
+        }
+      ]
+    },
+    {
+      "name": "Salavan Province",
+      "stateCode": "SL",
+      "lat": 15.8171073,
+      "lon": 106.2522143,
+      "cities": [
+        {
+          "name": "Muang Khôngxédôn",
+          "lat": 15.54626,
+          "lon": 105.77051
+        },
+        {
+          "name": "Muang Lakhonphéng",
+          "lat": 15.83308,
+          "lon": 105.59745
+        },
+        {
+          "name": "Muang Laongam",
+          "lat": 15.47745,
+          "lon": 106.14111
+        },
+        {
+          "name": "Muang Samouay",
+          "lat": 16.35868,
+          "lon": 106.8748
+        },
+        {
+          "name": "Muang Saravan",
+          "lat": 15.71587,
+          "lon": 106.36158
+        },
+        {
+          "name": "Muang Ta-Ôy",
+          "lat": 16.07765,
+          "lon": 106.70304
+        },
+        {
+          "name": "Muang Toumlan",
+          "lat": 16.02236,
+          "lon": 106.23837
+        },
+        {
+          "name": "Muang Vapi",
+          "lat": 15.75005,
+          "lon": 105.95529
+        },
+        {
+          "name": "Salavan",
+          "lat": 15.71652,
+          "lon": 106.41744
+        }
+      ]
+    },
+    {
+      "name": "Savannakhet Province",
+      "stateCode": "SV",
+      "lat": 16.5065381,
+      "lon": 105.5943388,
+      "cities": [
+        {
+          "name": "Kaysone Phomvihane",
+          "lat": 16.54943,
+          "lon": 104.82339
+        },
+        {
+          "name": "Muang Alsaphangthong",
+          "lat": 16.72645,
+          "lon": 105.39326
+        },
+        {
+          "name": "Muang Atsaphan",
+          "lat": 16.9474,
+          "lon": 105.4029
+        },
+        {
+          "name": "Muang Champhon",
+          "lat": 16.49363,
+          "lon": 105.2202
+        },
+        {
+          "name": "Muang Nong",
+          "lat": 16.38458,
+          "lon": 106.50419
+        },
+        {
+          "name": "Muang Outhoumphon",
+          "lat": 16.66667,
+          "lon": 105.05
+        },
+        {
+          "name": "Muang Phin",
+          "lat": 16.44316,
+          "lon": 106.03019
+        },
+        {
+          "name": "Muang Songkhon",
+          "lat": 16.17116,
+          "lon": 105.30729
+        },
+        {
+          "name": "Muang Thapangthong",
+          "lat": 16.09132,
+          "lon": 105.81038
+        },
+        {
+          "name": "Muang Vilabouli",
+          "lat": 16.94067,
+          "lon": 105.93677
+        },
+        {
+          "name": "Muang Xaibouli",
+          "lat": 16.94432,
+          "lon": 104.92312
+        },
+        {
+          "name": "Muang Xayphoothong",
+          "lat": 16.3737,
+          "lon": 105.02165
+        },
+        {
+          "name": "Muang Xônbouli",
+          "lat": 16.40036,
+          "lon": 105.57388
+        },
+        {
+          "name": "Savannakhet",
+          "lat": 16.5703,
+          "lon": 104.7622
+        },
+        {
+          "name": "Thaphalanxay",
+          "lat": 16.7,
+          "lon": 105.6
+        }
+      ]
+    },
+    {
+      "name": "Sekong Province",
+      "stateCode": "XE",
+      "lat": 15.5767446,
+      "lon": 107.0067031,
+      "cities": [
+        {
+          "name": "Ban Thatèng",
+          "lat": 15.43317,
+          "lon": 106.38272
+        },
+        {
+          "name": "Lamam",
+          "lat": 15.41705,
+          "lon": 106.69461
+        },
+        {
+          "name": "Muang Dakchung",
+          "lat": 15.38199,
+          "lon": 107.31847
+        },
+        {
+          "name": "Muang Khaleum",
+          "lat": 15.79886,
+          "lon": 107.04529
+        },
+        {
+          "name": "Muang Laman",
+          "lat": 15.41273,
+          "lon": 106.81706
+        },
+        {
+          "name": "Muang Thatèng",
+          "lat": 15.42745,
+          "lon": 106.48149
+        }
+      ]
+    },
+    {
+      "name": "Vientiane Prefecture",
+      "stateCode": "VT",
+      "lat": 18.110541,
+      "lon": 102.5298028,
+      "cities": [
+        {
+          "name": "Vientiane",
+          "lat": 17.96667,
+          "lon": 102.6
+        }
+      ]
+    },
+    {
+      "name": "Vientiane Province",
+      "stateCode": "VI",
+      "lat": 18.5705063,
+      "lon": 102.6216211,
+      "cities": [
+        {
+          "name": "Muang Phôn-Hông",
+          "lat": 18.4953,
+          "lon": 102.4153
+        },
+        {
+          "name": "Vangviang",
+          "lat": 18.9235,
+          "lon": 102.44784
+        }
+      ]
+    },
+    {
+      "name": "Xaisomboun",
+      "stateCode": "XN",
+      "lat": 0,
+      "lon": 0,
+      "cities": []
+    },
+    {
+      "name": "Xaisomboun Province",
+      "stateCode": "XS",
+      "lat": 18.4362924,
+      "lon": 104.4723301,
+      "cities": [
+        {
+          "name": "Anouvong district",
+          "lat": 18.89731,
+          "lon": 103.09274
+        },
+        {
+          "name": "Longchaeng",
+          "lat": 18.89394,
+          "lon": 103.14274
+        },
+        {
+          "name": "Muang Longxan",
+          "lat": 18.61782,
+          "lon": 102.88079
+        },
+        {
+          "name": "Muang Thathôm",
+          "lat": 19.0013,
+          "lon": 103.61572
+        }
+      ]
+    },
+    {
+      "name": "Xiangkhouang Province",
+      "stateCode": "XI",
+      "lat": 19.6093003,
+      "lon": 103.7289167,
+      "cities": [
+        {
+          "name": "Muang Phônsavan",
+          "lat": 19.4494,
+          "lon": 103.1917
+        }
+      ]
+    }
+  ]
+}

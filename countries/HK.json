@@ -1,0 +1,128 @@
+{
+  "iso2": "HK",
+  "name": "Hong Kong S.A.R.",
+  "nativeName": "Hong Kong S.A.R.",
+  "lat": 22.25,
+  "lon": 114.16666666,
+  "states": [
+    {
+      "name": "Central and Western District",
+      "stateCode": "HCW",
+      "lat": 22.28666,
+      "lon": 114.15497,
+      "cities": []
+    },
+    {
+      "name": "Eastern",
+      "stateCode": "HEA",
+      "lat": 22.28411,
+      "lon": 114.22414,
+      "cities": []
+    },
+    {
+      "name": "Islands District",
+      "stateCode": "NIS",
+      "lat": 22.26114,
+      "lon": 113.94608,
+      "cities": []
+    },
+    {
+      "name": "Kowloon City",
+      "stateCode": "KKC",
+      "lat": 22.3282,
+      "lon": 114.19155,
+      "cities": []
+    },
+    {
+      "name": "Kwai Tsing",
+      "stateCode": "NKT",
+      "lat": 22.35488,
+      "lon": 114.08401,
+      "cities": []
+    },
+    {
+      "name": "Kwun Tong",
+      "stateCode": "KKT",
+      "lat": 22.31326,
+      "lon": 114.22581,
+      "cities": []
+    },
+    {
+      "name": "North",
+      "stateCode": "NNO",
+      "lat": 22.49471,
+      "lon": 114.13812,
+      "cities": []
+    },
+    {
+      "name": "Sai Kung District",
+      "stateCode": "NSK",
+      "lat": 22.38143,
+      "lon": 114.27052,
+      "cities": []
+    },
+    {
+      "name": "Sha Tin",
+      "stateCode": "NST",
+      "lat": 22.38715,
+      "lon": 114.19534,
+      "cities": []
+    },
+    {
+      "name": "Sham Shui Po",
+      "stateCode": "KSS",
+      "lat": 22.33074,
+      "lon": 114.1622,
+      "cities": []
+    },
+    {
+      "name": "Southern",
+      "stateCode": "HSO",
+      "lat": 22.24725,
+      "lon": 114.15884,
+      "cities": []
+    },
+    {
+      "name": "Tsuen Wan District",
+      "stateCode": "NTW",
+      "lat": 22.36281,
+      "lon": 114.12907,
+      "cities": []
+    },
+    {
+      "name": "Tuen Mun",
+      "stateCode": "NTM",
+      "lat": 22.39163,
+      "lon": 113.9770885,
+      "cities": []
+    },
+    {
+      "name": "Wan Chai",
+      "stateCode": "HWC",
+      "lat": 22.27968,
+      "lon": 114.17168,
+      "cities": []
+    },
+    {
+      "name": "Wong Tai Sin",
+      "stateCode": "KWT",
+      "lat": 22.33353,
+      "lon": 114.19686,
+      "cities": []
+    },
+    {
+      "name": "Yau Tsim Mong",
+      "stateCode": "KYT",
+      "lat": 22.32138,
+      "lon": 114.1726,
+      "cities": []
+    },
+    {
+      "name": "Yuen Long District",
+      "stateCode": "NYL",
+      "lat": 22.44559,
+      "lon": 114.02218,
+      "cities": []
+    }
+  ]
+}

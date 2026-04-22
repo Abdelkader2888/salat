@@ -1,0 +1,182 @@
+{
+  "iso2": "KW",
+  "name": "Kuwait",
+  "nativeName": "Kuwait",
+  "lat": 29.5,
+  "lon": 45.75,
+  "states": [
+    {
+      "name": "Al Ahmadi Governorate",
+      "stateCode": "AH",
+      "lat": 28.5745125,
+      "lon": 48.1024743,
+      "cities": [
+        {
+          "name": "Al Aḩmadī",
+          "lat": 29.07694,
+          "lon": 48.08389
+        },
+        {
+          "name": "Al Faḩāḩīl",
+          "lat": 29.0825,
+          "lon": 48.13028
+        },
+        {
+          "name": "Al Finţās",
+          "lat": 29.17389,
+          "lon": 48.12111
+        },
+        {
+          "name": "Al Mahbūlah",
+          "lat": 29.145,
+          "lon": 48.13028
+        },
+        {
+          "name": "Al Manqaf",
+          "lat": 29.09611,
+          "lon": 48.13278
+        },
+        {
+          "name": "Al Wafrah",
+          "lat": 28.63917,
+          "lon": 47.93056
+        },
+        {
+          "name": "Ar Riqqah",
+          "lat": 29.14583,
+          "lon": 48.09472
+        }
+      ]
+    },
+    {
+      "name": "Al Farwaniyah Governorate",
+      "stateCode": "FA",
+      "lat": 29.273357,
+      "lon": 47.9400154,
+      "cities": [
+        {
+          "name": "Al Farwānīyah",
+          "lat": 29.2775,
+          "lon": 47.95861
+        },
+        {
+          "name": "Janūb as Surrah",
+          "lat": 29.26917,
+          "lon": 47.97806
+        }
+      ]
+    },
+    {
+      "name": "Al Jahra Governorate",
+      "stateCode": "JA",
+      "lat": 29.9931831,
+      "lon": 47.7634731,
+      "cities": [
+        {
+          "name": "Al Jahrā’",
+          "lat": 29.3375,
+          "lon": 47.65806
+        }
+      ]
+    },
+    {
+      "name": "Capital Governorate",
+      "stateCode": "KU",
+      "lat": 26.2285161,
+      "lon": 50.5860497,
+      "cities": [
+        {
+          "name": "Ad Dasmah",
+          "lat": 29.365,
+          "lon": 48.00139
+        },
+        {
+          "name": "Ar Rābiyah",
+          "lat": 29.295,
+          "lon": 47.93306
+        },
+        {
+          "name": "Ash Shāmīyah",
+          "lat": 29.34722,
+          "lon": 47.96167
+        },
+        {
+          "name": "Az Zawr",
+          "lat": 29.4425,
+          "lon": 48.27472
+        },
+        {
+          "name": "Kuwait City",
+          "lat": 29.36972,
+          "lon": 47.97833
+        }
+      ]
+    },
+    {
+      "name": "Hawalli Governorate",
+      "stateCode": "HA",
+      "lat": 29.3056716,
+      "lon": 48.0307613,
+      "cities": [
+        {
+          "name": "Ar Rumaythīyah",
+          "lat": 29.31167,
+          "lon": 48.07417
+        },
+        {
+          "name": "As Sālimīyah",
+          "lat": 29.33389,
+          "lon": 48.07611
+        },
+        {
+          "name": "Bayān",
+          "lat": 29.3032,
+          "lon": 48.04881
+        },
+        {
+          "name": "Ḩawallī",
+          "lat": 29.33278,
+          "lon": 48.02861
+        },
+        {
+          "name": "Salwá",
+          "lat": 29.29583,
+          "lon": 48.07861
+        }
+      ]
+    },
+    {
+      "name": "Mubarak Al-Kabeer Governorate",
+      "stateCode": "MU",
+      "lat": 29.21224,
+      "lon": 48.0605108,
+      "cities": [
+        {
+          "name": "Abu Al Hasaniya",
+          "lat": 29.19076,
+          "lon": 48.11355
+        },
+        {
+          "name": "Abu Fatira",
+          "lat": 29.19746,
+          "lon": 48.10278
+        },
+        {
+          "name": "Al Funayţīs",
+          "lat": 29.22528,
+          "lon": 48.10167
+        },
+        {
+          "name": "Al-Masayel",
+          "lat": 29.2393,
+          "lon": 48.08862
+        },
+        {
+          "name": "Şabāḩ as Sālim",
+          "lat": 29.25722,
+          "lon": 48.05722
+        }
+      ]
+    }
+  ]
+}

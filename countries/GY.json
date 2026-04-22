@@ -1,0 +1,159 @@
+{
+  "iso2": "GY",
+  "name": "Guyana",
+  "nativeName": "Guyana",
+  "lat": 5,
+  "lon": -59,
+  "states": [
+    {
+      "name": "Barima-Waini",
+      "stateCode": "BA",
+      "lat": 7.4882419,
+      "lon": -59.6564494,
+      "cities": [
+        {
+          "name": "Mabaruma",
+          "lat": 8.2,
+          "lon": -59.78333
+        }
+      ]
+    },
+    {
+      "name": "Cuyuni-Mazaruni",
+      "stateCode": "CU",
+      "lat": 6.4642141,
+      "lon": -60.2110752,
+      "cities": [
+        {
+          "name": "Bartica",
+          "lat": 6.40799,
+          "lon": -58.62192
+        }
+      ]
+    },
+    {
+      "name": "Demerara-Mahaica",
+      "stateCode": "DE",
+      "lat": 6.546426,
+      "lon": -58.0982046,
+      "cities": [
+        {
+          "name": "Georgetown",
+          "lat": 6.80448,
+          "lon": -58.15527
+        },
+        {
+          "name": "Mahaica Village",
+          "lat": 6.68405,
+          "lon": -57.92181
+        }
+      ]
+    },
+    {
+      "name": "East Berbice-Corentyne",
+      "stateCode": "EB",
+      "lat": 2.7477922,
+      "lon": -57.4627259,
+      "cities": [
+        {
+          "name": "New Amsterdam",
+          "lat": 6.24793,
+          "lon": -57.5171
+        },
+        {
+          "name": "Skeldon",
+          "lat": 5.88333,
+          "lon": -57.13333
+        }
+      ]
+    },
+    {
+      "name": "Essequibo Islands-West Demerara",
+      "stateCode": "ES",
+      "lat": 6.5720132,
+      "lon": -58.4629997,
+      "cities": [
+        {
+          "name": "Parika",
+          "lat": 6.83712,
+          "lon": -58.42941
+        },
+        {
+          "name": "Vreed-en-Hoop",
+          "lat": 6.80927,
+          "lon": -58.19798
+        }
+      ]
+    },
+    {
+      "name": "Mahaica-Berbice",
+      "stateCode": "MA",
+      "lat": 6.238496,
+      "lon": -57.9162555,
+      "cities": [
+        {
+          "name": "Mahaicony Village",
+          "lat": 6.57633,
+          "lon": -57.80486
+        },
+        {
+          "name": "Rosignol",
+          "lat": 6.27095,
+          "lon": -57.53697
+        }
+      ]
+    },
+    {
+      "name": "Pomeroon-Supenaam",
+      "stateCode": "PM",
+      "lat": 7.1294166,
+      "lon": -58.9206295,
+      "cities": [
+        {
+          "name": "Anna Regina",
+          "lat": 7.26439,
+          "lon": -58.50769
+        }
+      ]
+    },
+    {
+      "name": "Potaro-Siparuni",
+      "stateCode": "PT",
+      "lat": 4.7855853,
+      "lon": -59.2879977,
+      "cities": [
+        {
+          "name": "Mahdia",
+          "lat": 5.26667,
+          "lon": -59.15
+        }
+      ]
+    },
+    {
+      "name": "Upper Demerara-Berbice",
+      "stateCode": "UD",
+      "lat": 5.3064879,
+      "lon": -58.1892921,
+      "cities": [
+        {
+          "name": "Linden",
+          "lat": 6.00809,
+          "lon": -58.30714
+        }
+      ]
+    },
+    {
+      "name": "Upper Takutu-Upper Essequibo",
+      "stateCode": "UT",
+      "lat": 2.9239595,
+      "lon": -58.7373634,
+      "cities": [
+        {
+          "name": "Lethem",
+          "lat": 3.38333,
+          "lon": -59.8
+        }
+      ]
+    }
+  ]
+}

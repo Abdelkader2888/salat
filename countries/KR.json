@@ -1,0 +1,1690 @@
+{
+  "iso2": "KR",
+  "name": "South Korea",
+  "nativeName": "South Korea",
+  "lat": 37,
+  "lon": 127.5,
+  "states": [
+    {
+      "name": "Busan",
+      "stateCode": "26",
+      "lat": 35.1795543,
+      "lon": 129.0756416,
+      "cities": [
+        {
+          "name": "Buk-gu",
+          "lat": 35.19724,
+          "lon": 128.99134
+        },
+        {
+          "name": "Busan",
+          "lat": 35.10168,
+          "lon": 129.03004
+        },
+        {
+          "name": "Dongnae-gu",
+          "lat": 35.20447,
+          "lon": 129.078
+        },
+        {
+          "name": "Gangseo-gu",
+          "lat": 35.1593,
+          "lon": 128.933
+        },
+        {
+          "name": "Geumjeong-gu",
+          "lat": 35.25863,
+          "lon": 129.0901
+        },
+        {
+          "name": "Gijang",
+          "lat": 35.24417,
+          "lon": 129.21389
+        },
+        {
+          "name": "Gijang-gun",
+          "lat": 35.29721,
+          "lon": 129.20076
+        },
+        {
+          "name": "Haeundae-gu",
+          "lat": 35.16665,
+          "lon": 129.16792
+        },
+        {
+          "name": "Jung-gu",
+          "lat": 35.10594,
+          "lon": 129.03331
+        },
+        {
+          "name": "Nam-gu",
+          "lat": 35.13648,
+          "lon": 129.08266
+        },
+        {
+          "name": "Saha-gu",
+          "lat": 35.08552,
+          "lon": 128.98725
+        },
+        {
+          "name": "Sasang-gu",
+          "lat": 35.14479,
+          "lon": 128.97986
+        },
+        {
+          "name": "Seo-gu",
+          "lat": 35.12529,
+          "lon": 129.01946
+        },
+        {
+          "name": "Suyeong-gu",
+          "lat": 35.15627,
+          "lon": 129.11253
+        },
+        {
+          "name": "Yeongdo-gu",
+          "lat": 35.07849,
+          "lon": 129.06483
+        }
+      ]
+    },
+    {
+      "name": "Daegu",
+      "stateCode": "27",
+      "lat": 35.8714354,
+      "lon": 128.601445,
+      "cities": [
+        {
+          "name": "Daegu",
+          "lat": 35.87028,
+          "lon": 128.59111
+        },
+        {
+          "name": "Dalseo-gu",
+          "lat": 35.82569,
+          "lon": 128.52403
+        },
+        {
+          "name": "Dalseong-gun",
+          "lat": 35.77467,
+          "lon": 128.42955
+        },
+        {
+          "name": "Dong-gu",
+          "lat": 35.88566,
+          "lon": 128.63296
+        },
+        {
+          "name": "Hwawŏn",
+          "lat": 35.80167,
+          "lon": 128.50083
+        },
+        {
+          "name": "Jung-gu",
+          "lat": 35.86678,
+          "lon": 128.59538
+        },
+        {
+          "name": "Seo-gu",
+          "lat": 35.87465,
+          "lon": 128.55109
+        },
+        {
+          "name": "Suseong-gu",
+          "lat": 35.85905,
+          "lon": 128.62625
+        }
+      ]
+    },
+    {
+      "name": "Daejeon",
+      "stateCode": "30",
+      "lat": 36.3504119,
+      "lon": 127.3845475,
+      "cities": [
+        {
+          "name": "Daejeon",
+          "lat": 36.34913,
+          "lon": 127.38493
+        },
+        {
+          "name": "Seo-gu",
+          "lat": 36.27211,
+          "lon": 127.331
+        },
+        {
+          "name": "Sintansin",
+          "lat": 36.45361,
+          "lon": 127.43111
+        },
+        {
+          "name": "Songgangdong",
+          "lat": 36.43387,
+          "lon": 127.37587
+        },
+        {
+          "name": "Yuseong-gu",
+          "lat": 36.36685,
+          "lon": 127.327
+        }
+      ]
+    },
+    {
+      "name": "Gangwon Province",
+      "stateCode": "42",
+      "lat": 37.8228,
+      "lon": 128.1555,
+      "cities": [
+        {
+          "name": "Cheorwon-gun",
+          "lat": 38.24391,
+          "lon": 127.44522
+        },
+        {
+          "name": "Chuncheon",
+          "lat": 37.87472,
+          "lon": 127.73417
+        },
+        {
+          "name": "Chuncheon-si",
+          "lat": 37.88048,
+          "lon": 127.72776
+        },
+        {
+          "name": "Donghae-si",
+          "lat": 37.52345,
+          "lon": 129.11357
+        },
+        {
+          "name": "Gangneung",
+          "lat": 37.75266,
+          "lon": 128.87239
+        },
+        {
+          "name": "Gangneung-si",
+          "lat": 37.7519,
+          "lon": 128.87825
+        },
+        {
+          "name": "Goseong-gun",
+          "lat": 38.37945,
+          "lon": 128.46755
+        },
+        {
+          "name": "Hoengseong-gun",
+          "lat": 37.48817,
+          "lon": 127.9857
+        },
+        {
+          "name": "Hongch’ŏn",
+          "lat": 37.6918,
+          "lon": 127.8857
+        },
+        {
+          "name": "Hongcheon-gun",
+          "lat": 37.76058,
+          "lon": 128.02823
+        },
+        {
+          "name": "Hwacheon",
+          "lat": 38.10705,
+          "lon": 127.70632
+        },
+        {
+          "name": "Hwacheon-gun",
+          "lat": 38.14212,
+          "lon": 127.67615
+        },
+        {
+          "name": "Inje-gun",
+          "lat": 38.04416,
+          "lon": 128.27876
+        },
+        {
+          "name": "Jeongseon-gun",
+          "lat": 37.38911,
+          "lon": 128.72995
+        },
+        {
+          "name": "Kosong",
+          "lat": 38.37881,
+          "lon": 128.4676
+        },
+        {
+          "name": "Neietsu",
+          "lat": 37.18447,
+          "lon": 128.46821
+        },
+        {
+          "name": "Pyeongchang",
+          "lat": 37.37028,
+          "lon": 128.39306
+        },
+        {
+          "name": "Pyeongchang-gun",
+          "lat": 37.3682,
+          "lon": 128.3955
+        },
+        {
+          "name": "Samcheok-si",
+          "lat": 37.45013,
+          "lon": 129.16626
+        },
+        {
+          "name": "Santyoku",
+          "lat": 37.44056,
+          "lon": 129.17083
+        },
+        {
+          "name": "Sokcho",
+          "lat": 38.20701,
+          "lon": 128.59181
+        },
+        {
+          "name": "Sokcho-si",
+          "lat": 38.20725,
+          "lon": 128.59275
+        },
+        {
+          "name": "T’aebaek",
+          "lat": 37.1759,
+          "lon": 128.9889
+        },
+        {
+          "name": "Taebaek-si",
+          "lat": 37.1652,
+          "lon": 128.9857
+        },
+        {
+          "name": "Tonghae",
+          "lat": 37.54389,
+          "lon": 129.10694
+        },
+        {
+          "name": "Wŏnju",
+          "lat": 37.35139,
+          "lon": 127.94528
+        },
+        {
+          "name": "Wonju-si",
+          "lat": 37.32104,
+          "lon": 127.92132
+        },
+        {
+          "name": "Yanggu",
+          "lat": 38.10583,
+          "lon": 127.98944
+        },
+        {
+          "name": "Yanggu-gun",
+          "lat": 38.1016,
+          "lon": 127.98555
+        },
+        {
+          "name": "Yangyang-gun",
+          "lat": 38.06215,
+          "lon": 128.61471
+        }
+      ]
+    },
+    {
+      "name": "Gwangju",
+      "stateCode": "29",
+      "lat": 35.1595454,
+      "lon": 126.8526012,
+      "cities": [
+        {
+          "name": "Gwangju",
+          "lat": 35.15472,
+          "lon": 126.91556
+        },
+        {
+          "name": "Gwangsan-gu",
+          "lat": 35.16158,
+          "lon": 126.8081
+        },
+        {
+          "name": "Masan",
+          "lat": 35.12725,
+          "lon": 126.83149
+        }
+      ]
+    },
+    {
+      "name": "Gyeonggi Province",
+      "stateCode": "41",
+      "lat": 37.4138,
+      "lon": 127.5183,
+      "cities": [
+        {
+          "name": "Ansan-si",
+          "lat": 37.32361,
+          "lon": 126.82194
+        },
+        {
+          "name": "Anseong",
+          "lat": 37.01083,
+          "lon": 127.27028
+        },
+        {
+          "name": "Anyang-si",
+          "lat": 37.3925,
+          "lon": 126.92694
+        },
+        {
+          "name": "Bucheon-si",
+          "lat": 37.5044,
+          "lon": 126.76625
+        },
+        {
+          "name": "Dongducheon",
+          "lat": 37.91889,
+          "lon": 127.06897
+        },
+        {
+          "name": "Gapyeong",
+          "lat": 37.83101,
+          "lon": 127.51059
+        },
+        {
+          "name": "Gapyeong-gun",
+          "lat": 37.8308,
+          "lon": 127.51522
+        },
+        {
+          "name": "Gimpo-si",
+          "lat": 37.63637,
+          "lon": 126.6927
+        },
+        {
+          "name": "Goyang-si",
+          "lat": 37.65639,
+          "lon": 126.835
+        },
+        {
+          "name": "Gunpo-si",
+          "lat": 37.34261,
+          "lon": 126.92149
+        },
+        {
+          "name": "Guri-si",
+          "lat": 37.5986,
+          "lon": 127.1394
+        },
+        {
+          "name": "Gwacheon-si",
+          "lat": 37.43407,
+          "lon": 126.99989
+        },
+        {
+          "name": "Gwangju",
+          "lat": 37.41,
+          "lon": 127.25722
+        },
+        {
+          "name": "Gwangju-si",
+          "lat": 37.40329,
+          "lon": 127.29855
+        },
+        {
+          "name": "Gwangmyeong-si",
+          "lat": 37.44435,
+          "lon": 126.86499
+        },
+        {
+          "name": "Hanam",
+          "lat": 37.54,
+          "lon": 127.20556
+        },
+        {
+          "name": "Hanam-si",
+          "lat": 37.53895,
+          "lon": 127.2125
+        },
+        {
+          "name": "Hwado",
+          "lat": 37.6525,
+          "lon": 127.3075
+        },
+        {
+          "name": "Hwaseong-si",
+          "lat": 37.20682,
+          "lon": 126.8169
+        },
+        {
+          "name": "Icheon-si",
+          "lat": 37.27642,
+          "lon": 127.43692
+        },
+        {
+          "name": "Kwangmyŏng",
+          "lat": 37.47722,
+          "lon": 126.86639
+        },
+        {
+          "name": "Munsan",
+          "lat": 37.85944,
+          "lon": 126.785
+        },
+        {
+          "name": "Namyangju",
+          "lat": 37.63667,
+          "lon": 127.21417
+        },
+        {
+          "name": "Namyangju-si",
+          "lat": 37.65217,
+          "lon": 127.2401
+        },
+        {
+          "name": "Osan",
+          "lat": 37.15222,
+          "lon": 127.07056
+        },
+        {
+          "name": "Osan-si",
+          "lat": 37.1623,
+          "lon": 127.05246
+        },
+        {
+          "name": "Paju-si",
+          "lat": 37.75952,
+          "lon": 126.77772
+        },
+        {
+          "name": "Pocheon-si",
+          "lat": 37.8937,
+          "lon": 127.20028
+        },
+        {
+          "name": "Pubal",
+          "lat": 37.29167,
+          "lon": 127.50778
+        },
+        {
+          "name": "Pyeongtaek",
+          "lat": 37.01372,
+          "lon": 126.98748
+        },
+        {
+          "name": "Seongnam-si",
+          "lat": 37.41875,
+          "lon": 127.12877
+        },
+        {
+          "name": "Siheung",
+          "lat": 37.39067,
+          "lon": 126.7888
+        },
+        {
+          "name": "Suwon",
+          "lat": 37.29111,
+          "lon": 127.00889
+        },
+        {
+          "name": "Uijeongbu-si",
+          "lat": 37.73865,
+          "lon": 127.0477
+        },
+        {
+          "name": "Uiwang-si",
+          "lat": 37.345,
+          "lon": 126.97575
+        },
+        {
+          "name": "Wabu",
+          "lat": 37.58972,
+          "lon": 127.22028
+        },
+        {
+          "name": "Yangju",
+          "lat": 37.83311,
+          "lon": 127.06169
+        },
+        {
+          "name": "Yangju-si",
+          "lat": 37.81732,
+          "lon": 127.046
+        },
+        {
+          "name": "Yangp'yŏng",
+          "lat": 37.48972,
+          "lon": 127.49056
+        },
+        {
+          "name": "Yangpyeong-gun",
+          "lat": 37.4888,
+          "lon": 127.49222
+        },
+        {
+          "name": "Yeoju-si",
+          "lat": 37.29562,
+          "lon": 127.63668
+        },
+        {
+          "name": "Yeoncheon-gun",
+          "lat": 38.09404,
+          "lon": 127.07577
+        },
+        {
+          "name": "Yongin-si",
+          "lat": 37.23825,
+          "lon": 127.17795
+        }
+      ]
+    },
+    {
+      "name": "Incheon",
+      "stateCode": "28",
+      "lat": 37.4562557,
+      "lon": 126.7052062,
+      "cities": [
+        {
+          "name": "Bupyeong-gu",
+          "lat": 37.4972,
+          "lon": 126.71107
+        },
+        {
+          "name": "Incheon",
+          "lat": 37.45646,
+          "lon": 126.70515
+        },
+        {
+          "name": "Michuhol",
+          "lat": 37.46362,
+          "lon": 126.65
+        },
+        {
+          "name": "Yeonsu-gu",
+          "lat": 37.41911,
+          "lon": 126.66489
+        }
+      ]
+    },
+    {
+      "name": "Jeju",
+      "stateCode": "49",
+      "lat": 33.9568278,
+      "lon": -84.13135,
+      "cities": [
+        {
+          "name": "Gaigeturi",
+          "lat": 33.46444,
+          "lon": 126.31833
+        },
+        {
+          "name": "Jeju City",
+          "lat": 33.50972,
+          "lon": 126.52194
+        },
+        {
+          "name": "Jeju-si",
+          "lat": 33.45578,
+          "lon": 126.53928
+        },
+        {
+          "name": "Seogwipo",
+          "lat": 33.25333,
+          "lon": 126.56181
+        }
+      ]
+    },
+    {
+      "name": "North Chungcheong Province",
+      "stateCode": "43",
+      "lat": 36.8,
+      "lon": 127.7,
+      "cities": [
+        {
+          "name": "Boeun-gun",
+          "lat": 36.49489,
+          "lon": 127.72865
+        },
+        {
+          "name": "Cheongju-si",
+          "lat": 36.63722,
+          "lon": 127.48972
+        },
+        {
+          "name": "Chinch'ŏn",
+          "lat": 36.85667,
+          "lon": 127.44333
+        },
+        {
+          "name": "Chungju-si",
+          "lat": 37.01791,
+          "lon": 127.87713
+        },
+        {
+          "name": "Danyang-gun",
+          "lat": 36.98615,
+          "lon": 128.36945
+        },
+        {
+          "name": "Eumseong-gun",
+          "lat": 36.92602,
+          "lon": 127.6807
+        },
+        {
+          "name": "Goesan-gun",
+          "lat": 36.77179,
+          "lon": 127.81426
+        },
+        {
+          "name": "Jecheon-si",
+          "lat": 37.06206,
+          "lon": 128.14065
+        },
+        {
+          "name": "Jeungpyeong-gun",
+          "lat": 36.78377,
+          "lon": 127.59858
+        },
+        {
+          "name": "Jincheon-gun",
+          "lat": 36.88281,
+          "lon": 127.42768
+        },
+        {
+          "name": "Koesan",
+          "lat": 36.81083,
+          "lon": 127.79472
+        },
+        {
+          "name": "Okcheon",
+          "lat": 36.3012,
+          "lon": 127.568
+        },
+        {
+          "name": "Okcheon-gun",
+          "lat": 36.26642,
+          "lon": 127.58324
+        },
+        {
+          "name": "Yeongdong",
+          "lat": 36.175,
+          "lon": 127.77639
+        },
+        {
+          "name": "Yeongdong-gun",
+          "lat": 36.21658,
+          "lon": 127.79374
+        }
+      ]
+    },
+    {
+      "name": "North Gyeongsang Province",
+      "stateCode": "47",
+      "lat": 36.4919,
+      "lon": 128.8889,
+      "cities": [
+        {
+          "name": "Andong",
+          "lat": 36.56636,
+          "lon": 128.72275
+        },
+        {
+          "name": "Andong-si",
+          "lat": 36.56667,
+          "lon": 128.71667
+        },
+        {
+          "name": "Bonghwa-gun",
+          "lat": 36.88951,
+          "lon": 128.73573
+        },
+        {
+          "name": "Cheongdo-gun",
+          "lat": 35.67166,
+          "lon": 128.78509
+        },
+        {
+          "name": "Cheongsong gun",
+          "lat": 36.43351,
+          "lon": 129.057
+        },
+        {
+          "name": "Cheongsong-gun",
+          "lat": 36.43288,
+          "lon": 129.05159
+        },
+        {
+          "name": "Chilgok-gun",
+          "lat": 36.01512,
+          "lon": 128.46138
+        },
+        {
+          "name": "Eisen",
+          "lat": 36.82167,
+          "lon": 128.63083
+        },
+        {
+          "name": "Gimcheon",
+          "lat": 36.12176,
+          "lon": 128.11981
+        },
+        {
+          "name": "Gimcheon-si",
+          "lat": 36.14481,
+          "lon": 128.11157
+        },
+        {
+          "name": "Goryeong-gun",
+          "lat": 35.74959,
+          "lon": 128.29707
+        },
+        {
+          "name": "Gumi-si",
+          "lat": 36.21009,
+          "lon": 128.35442
+        },
+        {
+          "name": "Gunwi-gun",
+          "lat": 36.16995,
+          "lon": 128.64705
+        },
+        {
+          "name": "Gyeongju",
+          "lat": 35.84278,
+          "lon": 129.21167
+        },
+        {
+          "name": "Gyeongsan-si",
+          "lat": 35.83333,
+          "lon": 128.8
+        },
+        {
+          "name": "Hayang",
+          "lat": 35.91333,
+          "lon": 128.82
+        },
+        {
+          "name": "Heunghae",
+          "lat": 36.10945,
+          "lon": 129.34517
+        },
+        {
+          "name": "Jenzan",
+          "lat": 36.24083,
+          "lon": 128.2975
+        },
+        {
+          "name": "Kunwi",
+          "lat": 36.23472,
+          "lon": 128.57278
+        },
+        {
+          "name": "Mungyeong",
+          "lat": 36.59458,
+          "lon": 128.19946
+        },
+        {
+          "name": "Mungyeong-si",
+          "lat": 36.58755,
+          "lon": 128.18624
+        },
+        {
+          "name": "Pohang",
+          "lat": 36.02917,
+          "lon": 129.36481
+        },
+        {
+          "name": "Pohang-si",
+          "lat": 36.08333,
+          "lon": 129.36667
+        },
+        {
+          "name": "Sangju",
+          "lat": 36.41528,
+          "lon": 128.16056
+        },
+        {
+          "name": "Seongju-gun",
+          "lat": 35.91888,
+          "lon": 128.28838
+        },
+        {
+          "name": "Uiseong-gun",
+          "lat": 36.36122,
+          "lon": 128.61517
+        },
+        {
+          "name": "Uljin-gun",
+          "lat": 36.91968,
+          "lon": 129.31966
+        },
+        {
+          "name": "Ulleung-gun",
+          "lat": 37.50442,
+          "lon": 130.86084
+        },
+        {
+          "name": "Waegwan",
+          "lat": 35.99251,
+          "lon": 128.39785
+        },
+        {
+          "name": "Yecheon-gun",
+          "lat": 36.65272,
+          "lon": 128.43007
+        },
+        {
+          "name": "Yeongcheon-si",
+          "lat": 36,
+          "lon": 129
+        },
+        {
+          "name": "Yeongdeok-gun",
+          "lat": 36.48125,
+          "lon": 129.31078
+        },
+        {
+          "name": "Yeongju-si",
+          "lat": 36.87459,
+          "lon": 128.58631
+        },
+        {
+          "name": "Yeongyang-gun",
+          "lat": 36.69592,
+          "lon": 129.14196
+        },
+        {
+          "name": "Yeonil",
+          "lat": 35.99526,
+          "lon": 129.35162
+        }
+      ]
+    },
+    {
+      "name": "North Jeolla Province",
+      "stateCode": "45",
+      "lat": 35.7175,
+      "lon": 127.153,
+      "cities": [
+        {
+          "name": "Buan-gun",
+          "lat": 35.7,
+          "lon": 126.66667
+        },
+        {
+          "name": "Changsu",
+          "lat": 35.64842,
+          "lon": 127.51523
+        },
+        {
+          "name": "Gimje-si",
+          "lat": 35.80701,
+          "lon": 126.90755
+        },
+        {
+          "name": "Gochang-gun",
+          "lat": 35.43483,
+          "lon": 126.70047
+        },
+        {
+          "name": "Gunsan",
+          "lat": 35.97861,
+          "lon": 126.71139
+        },
+        {
+          "name": "Gunsan-si",
+          "lat": 35.93583,
+          "lon": 126.68338
+        },
+        {
+          "name": "Iksan",
+          "lat": 35.94389,
+          "lon": 126.95444
+        },
+        {
+          "name": "Iksan-si",
+          "lat": 36.03718,
+          "lon": 126.98897
+        },
+        {
+          "name": "Imsil",
+          "lat": 35.61306,
+          "lon": 127.27944
+        },
+        {
+          "name": "Imsil-gun",
+          "lat": 35.6216,
+          "lon": 127.23187
+        },
+        {
+          "name": "Jangsu-gun",
+          "lat": 35.62504,
+          "lon": 127.56358
+        },
+        {
+          "name": "Jeongeup",
+          "lat": 35.60004,
+          "lon": 126.91699
+        },
+        {
+          "name": "Jeongeup-si",
+          "lat": 35.6,
+          "lon": 126.91667
+        },
+        {
+          "name": "Jeonju",
+          "lat": 35.82194,
+          "lon": 127.14889
+        },
+        {
+          "name": "Jeonju-si",
+          "lat": 35.83333,
+          "lon": 127.15
+        },
+        {
+          "name": "Jinan-gun",
+          "lat": 35.80472,
+          "lon": 127.47579
+        },
+        {
+          "name": "Kimje",
+          "lat": 35.80167,
+          "lon": 126.88889
+        },
+        {
+          "name": "Koch'ang",
+          "lat": 35.43333,
+          "lon": 126.7
+        },
+        {
+          "name": "Muju-gun",
+          "lat": 35.93172,
+          "lon": 127.71118
+        },
+        {
+          "name": "Namwon",
+          "lat": 35.44821,
+          "lon": 127.38007
+        },
+        {
+          "name": "Nangen",
+          "lat": 35.41,
+          "lon": 127.38583
+        },
+        {
+          "name": "Puan",
+          "lat": 35.72806,
+          "lon": 126.73194
+        },
+        {
+          "name": "Sunchang-gun",
+          "lat": 35.37651,
+          "lon": 127.14967
+        },
+        {
+          "name": "Wanju",
+          "lat": 35.84509,
+          "lon": 127.14752
+        }
+      ]
+    },
+    {
+      "name": "Sejong City",
+      "stateCode": "50",
+      "lat": 34.0523323,
+      "lon": -118.3084897,
+      "cities": [
+        {
+          "name": "Sejong",
+          "lat": 36.59245,
+          "lon": 127.29223
+        }
+      ]
+    },
+    {
+      "name": "Seoul",
+      "stateCode": "11",
+      "lat": 37.566535,
+      "lon": 126.9779692,
+      "cities": [
+        {
+          "name": "Dobong-gu",
+          "lat": 37.65066,
+          "lon": 127.03011
+        },
+        {
+          "name": "Dongdaemun-gu",
+          "lat": 37.58189,
+          "lon": 127.05408
+        },
+        {
+          "name": "Dongjak-gu",
+          "lat": 37.50056,
+          "lon": 126.95149
+        },
+        {
+          "name": "Eunpyeong-gu",
+          "lat": 37.61846,
+          "lon": 126.9278
+        },
+        {
+          "name": "Gangbuk-gu",
+          "lat": 37.6349,
+          "lon": 127.02015
+        },
+        {
+          "name": "Gangdong-gu",
+          "lat": 37.55274,
+          "lon": 127.14546
+        },
+        {
+          "name": "Gangnam-gu",
+          "lat": 37.4951,
+          "lon": 127.06278
+        },
+        {
+          "name": "Gangseo-gu",
+          "lat": 37.56227,
+          "lon": 126.81622
+        },
+        {
+          "name": "Geumcheon-gu",
+          "lat": 37.47486,
+          "lon": 126.89106
+        },
+        {
+          "name": "Guro-gu",
+          "lat": 37.49447,
+          "lon": 126.8502
+        },
+        {
+          "name": "Gwanak-gu",
+          "lat": 37.47876,
+          "lon": 126.95235
+        },
+        {
+          "name": "Gwangjin-gu",
+          "lat": 37.53913,
+          "lon": 127.08366
+        },
+        {
+          "name": "Jongno-gu",
+          "lat": 37.5729,
+          "lon": 126.97928
+        },
+        {
+          "name": "Jung-gu",
+          "lat": 37.55986,
+          "lon": 126.99398
+        },
+        {
+          "name": "Jungnang-gu",
+          "lat": 37.60199,
+          "lon": 127.10461
+        },
+        {
+          "name": "Mapo-gu",
+          "lat": 37.55438,
+          "lon": 126.90926
+        },
+        {
+          "name": "Nowon-gu",
+          "lat": 37.66045,
+          "lon": 127.06718
+        },
+        {
+          "name": "Seocho-gu",
+          "lat": 37.49447,
+          "lon": 127.01088
+        },
+        {
+          "name": "Seodaemun-gu",
+          "lat": 37.57809,
+          "lon": 126.93506
+        },
+        {
+          "name": "Seongbuk-gu",
+          "lat": 37.60267,
+          "lon": 127.01448
+        },
+        {
+          "name": "Seongdong-gu",
+          "lat": 37.54784,
+          "lon": 127.02461
+        },
+        {
+          "name": "Seoul",
+          "lat": 37.566,
+          "lon": 126.9784
+        },
+        {
+          "name": "Songpa-gu",
+          "lat": 37.5021,
+          "lon": 127.11113
+        },
+        {
+          "name": "Yangcheon-gu",
+          "lat": 37.52157,
+          "lon": 126.85827
+        },
+        {
+          "name": "Yeongdeungpo-gu",
+          "lat": 37.52606,
+          "lon": 126.90308
+        },
+        {
+          "name": "Yongsan-dong",
+          "lat": 37.5445,
+          "lon": 126.9837
+        },
+        {
+          "name": "Yongsan-gu",
+          "lat": 37.53391,
+          "lon": 126.9775
+        }
+      ]
+    },
+    {
+      "name": "South Chungcheong Province",
+      "stateCode": "44",
+      "lat": 36.5184,
+      "lon": 126.8,
+      "cities": [
+        {
+          "name": "Asan",
+          "lat": 36.78361,
+          "lon": 127.00417
+        },
+        {
+          "name": "Asan-si",
+          "lat": 36.80791,
+          "lon": 126.97769
+        },
+        {
+          "name": "Boryeong",
+          "lat": 36.34931,
+          "lon": 126.59772
+        },
+        {
+          "name": "Boryeong-si",
+          "lat": 36.35649,
+          "lon": 126.59444
+        },
+        {
+          "name": "Buyeo",
+          "lat": 36.27472,
+          "lon": 126.90906
+        },
+        {
+          "name": "Buyeo-gun",
+          "lat": 36.26257,
+          "lon": 126.85802
+        },
+        {
+          "name": "Cheonan",
+          "lat": 36.8065,
+          "lon": 127.1522
+        },
+        {
+          "name": "Cheonan-si",
+          "lat": 36.80488,
+          "lon": 127.19431
+        },
+        {
+          "name": "Cheongyang-gun",
+          "lat": 36.41676,
+          "lon": 126.79419
+        },
+        {
+          "name": "Geumsan-gun",
+          "lat": 36.13381,
+          "lon": 127.48062
+        },
+        {
+          "name": "Gongju",
+          "lat": 36.45556,
+          "lon": 127.12472
+        },
+        {
+          "name": "Gongju-si",
+          "lat": 36.5,
+          "lon": 127.08333
+        },
+        {
+          "name": "Gyeryong-si",
+          "lat": 36.29304,
+          "lon": 127.22575
+        },
+        {
+          "name": "Hongseong",
+          "lat": 36.6009,
+          "lon": 126.665
+        },
+        {
+          "name": "Hongseong-gun",
+          "lat": 36.56705,
+          "lon": 126.62626
+        },
+        {
+          "name": "Kinzan",
+          "lat": 36.10306,
+          "lon": 127.48889
+        },
+        {
+          "name": "Nonsan",
+          "lat": 36.20389,
+          "lon": 127.08472
+        },
+        {
+          "name": "Nonsan-si",
+          "lat": 36.19774,
+          "lon": 127.12143
+        },
+        {
+          "name": "Seocheon-gun",
+          "lat": 36.106,
+          "lon": 126.69716
+        },
+        {
+          "name": "Seonghwan",
+          "lat": 36.91556,
+          "lon": 127.13139
+        },
+        {
+          "name": "Seosan",
+          "lat": 36.78167,
+          "lon": 126.45222
+        },
+        {
+          "name": "Seosan-si",
+          "lat": 36.78518,
+          "lon": 126.46568
+        },
+        {
+          "name": "Taean-gun",
+          "lat": 36.70036,
+          "lon": 126.28391
+        },
+        {
+          "name": "Taesal-li",
+          "lat": 36.9714,
+          "lon": 126.4542
+        },
+        {
+          "name": "Tangjin",
+          "lat": 36.89444,
+          "lon": 126.62972
+        },
+        {
+          "name": "Yesan",
+          "lat": 36.67756,
+          "lon": 126.84272
+        },
+        {
+          "name": "Yesan-gun",
+          "lat": 36.68218,
+          "lon": 126.79592
+        },
+        {
+          "name": "Yŏnmu",
+          "lat": 36.12944,
+          "lon": 127.1
+        }
+      ]
+    },
+    {
+      "name": "South Gyeongsang Province",
+      "stateCode": "48",
+      "lat": 35.4606,
+      "lon": 128.2132,
+      "cities": [
+        {
+          "name": "Changnyeong",
+          "lat": 35.54145,
+          "lon": 128.49506
+        },
+        {
+          "name": "Changnyeong-gun",
+          "lat": 35.50822,
+          "lon": 128.4902
+        },
+        {
+          "name": "Changwon",
+          "lat": 35.22806,
+          "lon": 128.68111
+        },
+        {
+          "name": "Changwon-si",
+          "lat": 35.27533,
+          "lon": 128.65152
+        },
+        {
+          "name": "Chinju",
+          "lat": 35.19278,
+          "lon": 128.08472
+        },
+        {
+          "name": "Geochang-gun",
+          "lat": 35.73034,
+          "lon": 127.90149
+        },
+        {
+          "name": "Geoje-si",
+          "lat": 34.9,
+          "lon": 128.66666
+        },
+        {
+          "name": "Gimhae-si",
+          "lat": 35.25,
+          "lon": 128.86667
+        },
+        {
+          "name": "Goseong",
+          "lat": 34.97631,
+          "lon": 128.32361
+        },
+        {
+          "name": "Goseong-gun",
+          "lat": 35.01478,
+          "lon": 128.28244
+        },
+        {
+          "name": "Hadong-gun",
+          "lat": 35.13628,
+          "lon": 127.77291
+        },
+        {
+          "name": "Haman-gun",
+          "lat": 35.29117,
+          "lon": 128.4297
+        },
+        {
+          "name": "Hapcheon-gun",
+          "lat": 35.5741,
+          "lon": 128.13841
+        },
+        {
+          "name": "Jinju-si",
+          "lat": 35.20445,
+          "lon": 128.12408
+        },
+        {
+          "name": "Kimhae",
+          "lat": 35.23417,
+          "lon": 128.88111
+        },
+        {
+          "name": "Kyosai",
+          "lat": 34.85028,
+          "lon": 128.58861
+        },
+        {
+          "name": "Miryang",
+          "lat": 35.49333,
+          "lon": 128.74889
+        },
+        {
+          "name": "Miryang-si",
+          "lat": 35.4975,
+          "lon": 128.7869
+        },
+        {
+          "name": "Naesŏ",
+          "lat": 35.24972,
+          "lon": 128.52
+        },
+        {
+          "name": "Namhae-gun",
+          "lat": 34.80433,
+          "lon": 127.92708
+        },
+        {
+          "name": "Sacheon-si",
+          "lat": 35.00385,
+          "lon": 128.06857
+        },
+        {
+          "name": "Sancheong-gun",
+          "lat": 35.36625,
+          "lon": 127.87065
+        },
+        {
+          "name": "Sinhyeon",
+          "lat": 34.8825,
+          "lon": 128.62667
+        },
+        {
+          "name": "Uiryeong-gun",
+          "lat": 35.3923,
+          "lon": 128.26917
+        },
+        {
+          "name": "Ungsang",
+          "lat": 35.40611,
+          "lon": 129.16861
+        },
+        {
+          "name": "Yangsan",
+          "lat": 35.34199,
+          "lon": 129.03358
+        }
+      ]
+    },
+    {
+      "name": "South Jeolla Province",
+      "stateCode": "46",
+      "lat": 34.8679,
+      "lon": 126.991,
+      "cities": [
+        {
+          "name": "Beolgyo",
+          "lat": 34.84897,
+          "lon": 127.34052
+        },
+        {
+          "name": "Boseong-gun",
+          "lat": 34.84622,
+          "lon": 127.22189
+        },
+        {
+          "name": "Damyang-gun",
+          "lat": 35.33976,
+          "lon": 126.99125
+        },
+        {
+          "name": "Gangjin-gun",
+          "lat": 34.61787,
+          "lon": 126.76758
+        },
+        {
+          "name": "Goheung-gun",
+          "lat": 34.58333,
+          "lon": 127.33333
+        },
+        {
+          "name": "Gokseong-gun",
+          "lat": 35.21449,
+          "lon": 127.2628
+        },
+        {
+          "name": "Gurye-gun",
+          "lat": 35.23616,
+          "lon": 127.50129
+        },
+        {
+          "name": "Gwangyang",
+          "lat": 34.9414,
+          "lon": 127.69569
+        },
+        {
+          "name": "Gwangyang-si",
+          "lat": 35.04007,
+          "lon": 127.60949
+        },
+        {
+          "name": "Haenam",
+          "lat": 34.57111,
+          "lon": 126.59889
+        },
+        {
+          "name": "Haenam-gun",
+          "lat": 34.54047,
+          "lon": 126.5187
+        },
+        {
+          "name": "Hampyeong-gun",
+          "lat": 35.14988,
+          "lon": 126.53337
+        },
+        {
+          "name": "Hwasun",
+          "lat": 35.06125,
+          "lon": 126.98746
+        },
+        {
+          "name": "Hwasun-gun",
+          "lat": 35.00468,
+          "lon": 127.02648
+        },
+        {
+          "name": "Jangheung-gun",
+          "lat": 34.70555,
+          "lon": 126.94905
+        },
+        {
+          "name": "Jangseong-gun",
+          "lat": 35.32734,
+          "lon": 126.76817
+        },
+        {
+          "name": "Jindo-gun",
+          "lat": 34.41958,
+          "lon": 126.22599
+        },
+        {
+          "name": "Kurye",
+          "lat": 35.20944,
+          "lon": 127.46444
+        },
+        {
+          "name": "Kwangyang",
+          "lat": 34.97528,
+          "lon": 127.58917
+        },
+        {
+          "name": "Mokpo",
+          "lat": 34.81282,
+          "lon": 126.39181
+        },
+        {
+          "name": "Mokpo-si",
+          "lat": 34.81226,
+          "lon": 126.39179
+        },
+        {
+          "name": "Muan",
+          "lat": 34.99014,
+          "lon": 126.47899
+        },
+        {
+          "name": "Muan-gun",
+          "lat": 34.95642,
+          "lon": 126.44041
+        },
+        {
+          "name": "Naju",
+          "lat": 35.0292,
+          "lon": 126.7175
+        },
+        {
+          "name": "Naju-si",
+          "lat": 35.05683,
+          "lon": 126.67362
+        },
+        {
+          "name": "Sinan",
+          "lat": 34.8262,
+          "lon": 126.10863
+        },
+        {
+          "name": "Sinan-gun",
+          "lat": 34.83107,
+          "lon": 126.09872
+        },
+        {
+          "name": "Suncheon",
+          "lat": 34.9505,
+          "lon": 127.48784
+        },
+        {
+          "name": "Suncheon-si",
+          "lat": 34.97162,
+          "lon": 127.46096
+        },
+        {
+          "name": "Wando-gun",
+          "lat": 34.31182,
+          "lon": 126.73845
+        },
+        {
+          "name": "Yeongam",
+          "lat": 34.80059,
+          "lon": 126.69669
+        },
+        {
+          "name": "Yeongam-gun",
+          "lat": 34.7979,
+          "lon": 126.62651
+        },
+        {
+          "name": "Yeonggwang",
+          "lat": 35.27814,
+          "lon": 126.51181
+        },
+        {
+          "name": "Yeonggwang-gun",
+          "lat": 35.28711,
+          "lon": 126.43616
+        },
+        {
+          "name": "Yeosu",
+          "lat": 34.76062,
+          "lon": 127.66215
+        }
+      ]
+    },
+    {
+      "name": "Ulsan",
+      "stateCode": "31",
+      "lat": 35.5383773,
+      "lon": 129.3113596,
+      "cities": [
+        {
+          "name": "Buk-gu",
+          "lat": 35.58243,
+          "lon": 129.36049
+        },
+        {
+          "name": "Dong-gu",
+          "lat": 35.5047,
+          "lon": 129.4186
+        },
+        {
+          "name": "Jung-gu",
+          "lat": 35.5684,
+          "lon": 129.33226
+        },
+        {
+          "name": "Nam-gu",
+          "lat": 35.54382,
+          "lon": 129.32917
+        },
+        {
+          "name": "Ulju-gun",
+          "lat": 35.56233,
+          "lon": 129.1269
+        },
+        {
+          "name": "Ulsan",
+          "lat": 35.53722,
+          "lon": 129.31667
+        }
+      ]
+    }
+  ]
+}

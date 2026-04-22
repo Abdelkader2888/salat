@@ -1,0 +1,515 @@
+{
+  "iso2": "JO",
+  "name": "Jordan",
+  "nativeName": "Jordan",
+  "lat": 31,
+  "lon": 36,
+  "states": [
+    {
+      "name": "Ajloun Governorate",
+      "stateCode": "AJ",
+      "lat": 32.3325584,
+      "lon": 35.7516844,
+      "cities": [
+        {
+          "name": "‘Ajlūn",
+          "lat": 32.33326,
+          "lon": 35.75279
+        },
+        {
+          "name": "‘Anjarah",
+          "lat": 32.3063,
+          "lon": 35.75653
+        },
+        {
+          "name": "‘Ayn Jannah",
+          "lat": 32.33466,
+          "lon": 35.7637
+        },
+        {
+          "name": "Ḩalāwah",
+          "lat": 32.38433,
+          "lon": 35.66167
+        },
+        {
+          "name": "Şakhrah",
+          "lat": 32.37087,
+          "lon": 35.84267
+        }
+      ]
+    },
+    {
+      "name": "Amman Governorate",
+      "stateCode": "AM",
+      "lat": 31.9453633,
+      "lon": 35.9283895,
+      "cities": [
+        {
+          "name": "Al Jīzah",
+          "lat": 31.69893,
+          "lon": 35.9553
+        },
+        {
+          "name": "Al Jubayhah",
+          "lat": 32.01071,
+          "lon": 35.89802
+        },
+        {
+          "name": "Amman",
+          "lat": 31.95522,
+          "lon": 35.94503
+        },
+        {
+          "name": "Ḩayy al Bunayyāt",
+          "lat": 31.89603,
+          "lon": 35.88465
+        },
+        {
+          "name": "Ḩayy al Quwaysimah",
+          "lat": 31.91037,
+          "lon": 35.94975
+        },
+        {
+          "name": "Jāwā",
+          "lat": 31.85247,
+          "lon": 35.93928
+        },
+        {
+          "name": "Saḩāb",
+          "lat": 31.87032,
+          "lon": 36.00479
+        },
+        {
+          "name": "Umm as Summāq",
+          "lat": 31.88542,
+          "lon": 35.8543
+        },
+        {
+          "name": "Wādī as Sīr",
+          "lat": 31.9545,
+          "lon": 35.81831
+        }
+      ]
+    },
+    {
+      "name": "Aqaba Governorate",
+      "stateCode": "AQ",
+      "lat": 29.532086,
+      "lon": 35.0062821,
+      "cities": [
+        {
+          "name": "Aqaba",
+          "lat": 29.52667,
+          "lon": 35.00778
+        },
+        {
+          "name": "Tala Bay",
+          "lat": 29.40842,
+          "lon": 34.97918
+        }
+      ]
+    },
+    {
+      "name": "Balqa Governorate",
+      "stateCode": "BA",
+      "lat": 32.0366806,
+      "lon": 35.728848,
+      "cities": [
+        {
+          "name": "Al Karāmah",
+          "lat": 31.95439,
+          "lon": 35.58033
+        },
+        {
+          "name": "As Salţ",
+          "lat": 32.03917,
+          "lon": 35.72722
+        },
+        {
+          "name": "Yarqā",
+          "lat": 31.97583,
+          "lon": 35.69638
+        }
+      ]
+    },
+    {
+      "name": "Irbid Governorate",
+      "stateCode": "IR",
+      "lat": 32.5569636,
+      "lon": 35.8478965,
+      "cities": [
+        {
+          "name": "Ar Ramthā",
+          "lat": 32.55873,
+          "lon": 36.00816
+        },
+        {
+          "name": "Ash Shajarah",
+          "lat": 32.64391,
+          "lon": 35.94175
+        },
+        {
+          "name": "Aţ Ţayyibah",
+          "lat": 32.54304,
+          "lon": 35.71756
+        },
+        {
+          "name": "Aţ Ţurrah",
+          "lat": 32.63979,
+          "lon": 35.98943
+        },
+        {
+          "name": "Aydūn",
+          "lat": 32.50528,
+          "lon": 35.85809
+        },
+        {
+          "name": "Bayt Īdis",
+          "lat": 32.43775,
+          "lon": 35.69765
+        },
+        {
+          "name": "Bayt Yāfā",
+          "lat": 32.52253,
+          "lon": 35.78618
+        },
+        {
+          "name": "Dayr Yūsuf",
+          "lat": 32.48701,
+          "lon": 35.79635
+        },
+        {
+          "name": "Ḩakamā",
+          "lat": 32.59354,
+          "lon": 35.8832
+        },
+        {
+          "name": "Ḩātim",
+          "lat": 32.64492,
+          "lon": 35.77771
+        },
+        {
+          "name": "Irbid",
+          "lat": 32.55556,
+          "lon": 35.85
+        },
+        {
+          "name": "Judita",
+          "lat": 32.40792,
+          "lon": 35.70802
+        },
+        {
+          "name": "Kafr Abīl",
+          "lat": 32.41752,
+          "lon": 35.66305
+        },
+        {
+          "name": "Kafr Asad",
+          "lat": 32.598,
+          "lon": 35.71266
+        },
+        {
+          "name": "Kafr Sawm",
+          "lat": 32.68527,
+          "lon": 35.80102
+        },
+        {
+          "name": "Kharjā",
+          "lat": 32.65988,
+          "lon": 35.88782
+        },
+        {
+          "name": "Kitim",
+          "lat": 32.43834,
+          "lon": 35.89677
+        },
+        {
+          "name": "Kurayyimah",
+          "lat": 32.27639,
+          "lon": 35.59938
+        },
+        {
+          "name": "Malkā",
+          "lat": 32.67645,
+          "lon": 35.74851
+        },
+        {
+          "name": "Qumaym",
+          "lat": 32.57174,
+          "lon": 35.73452
+        },
+        {
+          "name": "Saḩam al Kaffārāt",
+          "lat": 32.69848,
+          "lon": 35.77438
+        },
+        {
+          "name": "Sāl",
+          "lat": 32.56897,
+          "lon": 35.91185
+        },
+        {
+          "name": "Şammā",
+          "lat": 32.57102,
+          "lon": 35.68984
+        },
+        {
+          "name": "Tibnah",
+          "lat": 32.47521,
+          "lon": 35.73056
+        },
+        {
+          "name": "Umm Qays",
+          "lat": 32.65348,
+          "lon": 35.68457
+        },
+        {
+          "name": "Waqqāş",
+          "lat": 32.54214,
+          "lon": 35.60508
+        },
+        {
+          "name": "Zaḩar",
+          "lat": 32.5667,
+          "lon": 35.77811
+        }
+      ]
+    },
+    {
+      "name": "Jerash Governorate",
+      "stateCode": "JA",
+      "lat": 32.2747237,
+      "lon": 35.8960954,
+      "cities": [
+        {
+          "name": "Al Kittah",
+          "lat": 32.27685,
+          "lon": 35.84114
+        },
+        {
+          "name": "Balīlā",
+          "lat": 32.39109,
+          "lon": 35.93832
+        },
+        {
+          "name": "Burmā",
+          "lat": 32.2193,
+          "lon": 35.78507
+        },
+        {
+          "name": "Jarash",
+          "lat": 32.28082,
+          "lon": 35.89929
+        },
+        {
+          "name": "Qafqafā",
+          "lat": 32.34851,
+          "lon": 35.93864
+        },
+        {
+          "name": "Raymūn",
+          "lat": 32.28202,
+          "lon": 35.82779
+        },
+        {
+          "name": "Sakib",
+          "lat": 32.28431,
+          "lon": 35.80909
+        },
+        {
+          "name": "Sūf",
+          "lat": 32.31372,
+          "lon": 35.83713
+        }
+      ]
+    },
+    {
+      "name": "Karak Governorate",
+      "stateCode": "KA",
+      "lat": 31.1853527,
+      "lon": 35.7047682,
+      "cities": [
+        {
+          "name": "‘Ayy",
+          "lat": 31.13371,
+          "lon": 35.64375
+        },
+        {
+          "name": "‘Izrā",
+          "lat": 31.15889,
+          "lon": 35.69278
+        },
+        {
+          "name": "Adir",
+          "lat": 31.20217,
+          "lon": 35.76155
+        },
+        {
+          "name": "Al Khinzīrah",
+          "lat": 31.05056,
+          "lon": 35.60606
+        },
+        {
+          "name": "Al Mazār al Janūbī",
+          "lat": 31.06722,
+          "lon": 35.69486
+        },
+        {
+          "name": "Al Qaşr",
+          "lat": 31.31407,
+          "lon": 35.74393
+        },
+        {
+          "name": "Ar Rabbah",
+          "lat": 31.26923,
+          "lon": 35.73829
+        },
+        {
+          "name": "Karak City",
+          "lat": 31.16368,
+          "lon": 35.76204
+        },
+        {
+          "name": "Safi",
+          "lat": 31.03608,
+          "lon": 35.46544
+        }
+      ]
+    },
+    {
+      "name": "Ma'an Governorate",
+      "stateCode": "MN",
+      "lat": 30.1926789,
+      "lon": 35.7249319,
+      "cities": [
+        {
+          "name": "Al Jafr",
+          "lat": 30.3184,
+          "lon": 36.17775
+        },
+        {
+          "name": "Al Quwayrah",
+          "lat": 29.80045,
+          "lon": 35.3116
+        },
+        {
+          "name": "Ash Shawbak",
+          "lat": 30.52134,
+          "lon": 35.57135
+        },
+        {
+          "name": "Aţ Ţayyibah",
+          "lat": 30.25125,
+          "lon": 35.4657
+        },
+        {
+          "name": "Ma'an",
+          "lat": 30.19624,
+          "lon": 35.73405
+        },
+        {
+          "name": "Petra",
+          "lat": 30.32096,
+          "lon": 35.47895
+        },
+        {
+          "name": "Qīr Moāv",
+          "lat": 31.18248,
+          "lon": 35.69999
+        }
+      ]
+    },
+    {
+      "name": "Madaba Governorate",
+      "stateCode": "MD",
+      "lat": 31.7196097,
+      "lon": 35.7932754,
+      "cities": [
+        {
+          "name": "Mādabā",
+          "lat": 31.71599,
+          "lon": 35.79392
+        }
+      ]
+    },
+    {
+      "name": "Mafraq Governorate",
+      "stateCode": "MA",
+      "lat": 32.3416923,
+      "lon": 36.2020175,
+      "cities": [
+        {
+          "name": "Al Ḩamrā’",
+          "lat": 32.44017,
+          "lon": 36.15265
+        },
+        {
+          "name": "Mafraq",
+          "lat": 32.34289,
+          "lon": 36.20804
+        },
+        {
+          "name": "Rehab",
+          "lat": 32.32341,
+          "lon": 36.09087
+        },
+        {
+          "name": "Rukban",
+          "lat": 33.31405,
+          "lon": 38.70342
+        },
+        {
+          "name": "Şabḩā",
+          "lat": 32.32696,
+          "lon": 36.50159
+        },
+        {
+          "name": "Umm al Qiţţayn",
+          "lat": 32.31449,
+          "lon": 36.62826
+        }
+      ]
+    },
+    {
+      "name": "Tafilah Governorate",
+      "stateCode": "AT",
+      "lat": 30.8338063,
+      "lon": 35.6160513,
+      "cities": [
+        {
+          "name": "Aţ Ţafīlah",
+          "lat": 30.83752,
+          "lon": 35.60442
+        },
+        {
+          "name": "Buşayrā",
+          "lat": 30.73256,
+          "lon": 35.60943
+        }
+      ]
+    },
+    {
+      "name": "Zarqa Governorate",
+      "stateCode": "AZ",
+      "lat": 32.0608505,
+      "lon": 36.0942121,
+      "cities": [
+        {
+          "name": "Al Azraq ash Shamālī",
+          "lat": 31.88209,
+          "lon": 36.83017
+        },
+        {
+          "name": "Russeifa",
+          "lat": 32.01778,
+          "lon": 36.04639
+        },
+        {
+          "name": "Zarqa",
+          "lat": 32.07275,
+          "lon": 36.08796
+        }
+      ]
+    }
+  ]
+}

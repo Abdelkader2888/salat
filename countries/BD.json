@@ -1,0 +1,1212 @@
+{
+  "iso2": "BD",
+  "name": "Bangladesh",
+  "nativeName": "Bangladesh",
+  "lat": 24,
+  "lon": 90,
+  "states": [
+    {
+      "name": "Bagerhat District",
+      "stateCode": "05",
+      "lat": 22.6602436,
+      "lon": 89.7895478,
+      "cities": []
+    },
+    {
+      "name": "Bahadia",
+      "stateCode": "33",
+      "lat": 23.7898712,
+      "lon": 90.1671483,
+      "cities": []
+    },
+    {
+      "name": "Bandarban District",
+      "stateCode": "01",
+      "lat": 21.8311002,
+      "lon": 92.3686321,
+      "cities": []
+    },
+    {
+      "name": "Barguna District",
+      "stateCode": "02",
+      "lat": 22.0952915,
+      "lon": 90.1120696,
+      "cities": []
+    },
+    {
+      "name": "Barisal District",
+      "stateCode": "06",
+      "lat": 22.7022098,
+      "lon": 90.3696316,
+      "cities": [
+        {
+          "name": "Barguna",
+          "lat": 22.13333,
+          "lon": 90.13333
+        },
+        {
+          "name": "Barisal",
+          "lat": 22.8,
+          "lon": 90.5
+        },
+        {
+          "name": "Bhāndāria",
+          "lat": 22.48898,
+          "lon": 90.06273
+        },
+        {
+          "name": "Bhola",
+          "lat": 22.36667,
+          "lon": 90.81667
+        },
+        {
+          "name": "Burhānuddin",
+          "lat": 22.49518,
+          "lon": 90.72391
+        },
+        {
+          "name": "Gaurnadi",
+          "lat": 22.97372,
+          "lon": 90.22376
+        },
+        {
+          "name": "Jhalokati",
+          "lat": 22.6,
+          "lon": 90.2
+        },
+        {
+          "name": "Lālmohan",
+          "lat": 22.33774,
+          "lon": 90.73708
+        },
+        {
+          "name": "Mathba",
+          "lat": 22.28616,
+          "lon": 89.95883
+        },
+        {
+          "name": "Mehendiganj",
+          "lat": 22.82257,
+          "lon": 90.52859
+        },
+        {
+          "name": "Nālchiti",
+          "lat": 22.63696,
+          "lon": 90.27195
+        },
+        {
+          "name": "Patuakhali",
+          "lat": 22.33333,
+          "lon": 90.33333
+        },
+        {
+          "name": "Pirojpur",
+          "lat": 22.53671,
+          "lon": 90.00033
+        }
+      ]
+    },
+    {
+      "name": "Barisal Division",
+      "stateCode": "A",
+      "lat": 22.3811131,
+      "lon": 90.3371889,
+      "cities": []
+    },
+    {
+      "name": "Bhola District",
+      "stateCode": "07",
+      "lat": 22.1785315,
+      "lon": 90.7101023,
+      "cities": []
+    },
+    {
+      "name": "Bogra District",
+      "stateCode": "03",
+      "lat": 24.8510402,
+      "lon": 89.3697225,
+      "cities": []
+    },
+    {
+      "name": "Brahmanbaria District",
+      "stateCode": "04",
+      "lat": 23.9608181,
+      "lon": 91.1115014,
+      "cities": []
+    },
+    {
+      "name": "Chandpur District",
+      "stateCode": "09",
+      "lat": 23.2513148,
+      "lon": 90.8517846,
+      "cities": []
+    },
+    {
+      "name": "Chapai Nawabganj District",
+      "stateCode": "45",
+      "lat": 24.7413111,
+      "lon": 88.2912069,
+      "cities": []
+    },
+    {
+      "name": "Chittagong District",
+      "stateCode": "10",
+      "lat": 22.5150105,
+      "lon": 91.7538817,
+      "cities": []
+    },
+    {
+      "name": "Chittagong Division",
+      "stateCode": "B",
+      "lat": 23.1793157,
+      "lon": 91.9881527,
+      "cities": [
+        {
+          "name": "Bandarban",
+          "lat": 22,
+          "lon": 92.33333
+        },
+        {
+          "name": "Bibir Hat",
+          "lat": 22.68347,
+          "lon": 91.79058
+        },
+        {
+          "name": "Brahmanbaria",
+          "lat": 23.98333,
+          "lon": 91.16667
+        },
+        {
+          "name": "Chandpur",
+          "lat": 23.25,
+          "lon": 90.83333
+        },
+        {
+          "name": "Chhāgalnāiya",
+          "lat": 23.02475,
+          "lon": 91.51091
+        },
+        {
+          "name": "Chittagong",
+          "lat": 22.4875,
+          "lon": 91.96333
+        },
+        {
+          "name": "Comilla",
+          "lat": 23.4417,
+          "lon": 91.00987
+        },
+        {
+          "name": "Cox's Bazar",
+          "lat": 21.58389,
+          "lon": 92.01528
+        },
+        {
+          "name": "Cox’s Bāzār",
+          "lat": 21.43973,
+          "lon": 92.00955
+        },
+        {
+          "name": "Feni",
+          "lat": 22.96667,
+          "lon": 91.31667
+        },
+        {
+          "name": "Hājīganj",
+          "lat": 23.25191,
+          "lon": 90.85508
+        },
+        {
+          "name": "Khagrachhari",
+          "lat": 23.16667,
+          "lon": 91.9
+        },
+        {
+          "name": "Lākshām",
+          "lat": 23.24018,
+          "lon": 91.12143
+        },
+        {
+          "name": "Lakshmipur",
+          "lat": 22.91667,
+          "lon": 90.83333
+        },
+        {
+          "name": "Manikchari",
+          "lat": 22.83957,
+          "lon": 91.84128
+        },
+        {
+          "name": "Nabīnagar",
+          "lat": 23.88791,
+          "lon": 90.96792
+        },
+        {
+          "name": "Noakhali",
+          "lat": 22.75,
+          "lon": 91.16667
+        },
+        {
+          "name": "Patiya",
+          "lat": 22.29543,
+          "lon": 91.979
+        },
+        {
+          "name": "Rāipur",
+          "lat": 23.0391,
+          "lon": 90.76808
+        },
+        {
+          "name": "Rāmganj",
+          "lat": 23.1006,
+          "lon": 90.84989
+        },
+        {
+          "name": "Rangamati",
+          "lat": 22.63333,
+          "lon": 92.2
+        },
+        {
+          "name": "Raojān",
+          "lat": 22.53511,
+          "lon": 91.91919
+        },
+        {
+          "name": "Sandwīp",
+          "lat": 22.51409,
+          "lon": 91.45491
+        },
+        {
+          "name": "Sātkania",
+          "lat": 22.07639,
+          "lon": 92.04955
+        },
+        {
+          "name": "Teknāf",
+          "lat": 20.85829,
+          "lon": 92.29773
+        }
+      ]
+    },
+    {
+      "name": "Chuadanga District",
+      "stateCode": "12",
+      "lat": 23.6160512,
+      "lon": 88.8263006,
+      "cities": []
+    },
+    {
+      "name": "Comilla District",
+      "stateCode": "08",
+      "lat": 23.4575667,
+      "lon": 91.1808996,
+      "cities": []
+    },
+    {
+      "name": "Cox's Bazar District",
+      "stateCode": "11",
+      "lat": 21.5640626,
+      "lon": 92.0282129,
+      "cities": []
+    },
+    {
+      "name": "Dhaka District",
+      "stateCode": "13",
+      "lat": 23.810514,
+      "lon": 90.3371889,
+      "cities": [
+        {
+          "name": "Azimpur",
+          "lat": 23.7298,
+          "lon": 90.3854
+        },
+        {
+          "name": "Bājitpur",
+          "lat": 24.21623,
+          "lon": 90.95002
+        },
+        {
+          "name": "Bhairab Bāzār",
+          "lat": 24.0524,
+          "lon": 90.9764
+        },
+        {
+          "name": "Char Bhadrāsan",
+          "lat": 23.30916,
+          "lon": 90.22698
+        },
+        {
+          "name": "Char Golora",
+          "lat": 23.82037,
+          "lon": 90.12175
+        },
+        {
+          "name": "Dhaka",
+          "lat": 23.81093,
+          "lon": 90.36542
+        },
+        {
+          "name": "Dohār",
+          "lat": 23.59311,
+          "lon": 90.14251
+        },
+        {
+          "name": "Faridpur",
+          "lat": 23.59419,
+          "lon": 89.82147
+        },
+        {
+          "name": "Gazipur",
+          "lat": 24.20689,
+          "lon": 90.47241
+        },
+        {
+          "name": "Gopalganj",
+          "lat": 23.16667,
+          "lon": 89.91667
+        },
+        {
+          "name": "Joymontop",
+          "lat": 23.78789,
+          "lon": 90.16472
+        },
+        {
+          "name": "Khanbaniara",
+          "lat": 23.78225,
+          "lon": 90.18382
+        },
+        {
+          "name": "Kishoregonj",
+          "lat": 24.41667,
+          "lon": 90.95
+        },
+        {
+          "name": "Kishorganj",
+          "lat": 24.43944,
+          "lon": 90.78291
+        },
+        {
+          "name": "Madaripur",
+          "lat": 23.25,
+          "lon": 90.2
+        },
+        {
+          "name": "Manikganj",
+          "lat": 23.86667,
+          "lon": 89.95
+        },
+        {
+          "name": "Mirzāpur",
+          "lat": 24.10287,
+          "lon": 90.09841
+        },
+        {
+          "name": "Munshiganj",
+          "lat": 23.55,
+          "lon": 90.36667
+        },
+        {
+          "name": "Nāgarpur",
+          "lat": 24.05783,
+          "lon": 89.87696
+        },
+        {
+          "name": "Narayanganj",
+          "lat": 23.75,
+          "lon": 90.58333
+        },
+        {
+          "name": "Narsingdi",
+          "lat": 23.92298,
+          "lon": 90.71768
+        },
+        {
+          "name": "Pālang",
+          "lat": 23.21824,
+          "lon": 90.35076
+        },
+        {
+          "name": "Paltan",
+          "lat": 23.73625,
+          "lon": 90.41426
+        },
+        {
+          "name": "Parvez Ali",
+          "lat": 23.81741,
+          "lon": 90.11921
+        },
+        {
+          "name": "Parvez Ali Hossain",
+          "lat": 23.78758,
+          "lon": 90.16487
+        },
+        {
+          "name": "Rajbari",
+          "lat": 23.66667,
+          "lon": 89.55
+        },
+        {
+          "name": "Ramnagar",
+          "lat": 23.7772,
+          "lon": 90.17604
+        },
+        {
+          "name": "Sakhipur",
+          "lat": 24.31988,
+          "lon": 90.16943
+        },
+        {
+          "name": "Sayani",
+          "lat": 23.79119,
+          "lon": 90.16972
+        },
+        {
+          "name": "Shariatpur",
+          "lat": 23.25,
+          "lon": 90.36667
+        },
+        {
+          "name": "Sonārgaon",
+          "lat": 23.65,
+          "lon": 90.61667
+        },
+        {
+          "name": "Tangail",
+          "lat": 24.33853,
+          "lon": 89.98667
+        },
+        {
+          "name": "Tungi",
+          "lat": 23.89154,
+          "lon": 90.40232
+        },
+        {
+          "name": "Tungipāra",
+          "lat": 22.89983,
+          "lon": 89.90326
+        }
+      ]
+    },
+    {
+      "name": "Dhaka Division",
+      "stateCode": "C",
+      "lat": 23.9535742,
+      "lon": 90.1494988,
+      "cities": []
+    },
+    {
+      "name": "Dinajpur District",
+      "stateCode": "14",
+      "lat": 25.6279123,
+      "lon": 88.6331758,
+      "cities": []
+    },
+    {
+      "name": "Faridpur District",
+      "stateCode": "15",
+      "lat": 23.5423919,
+      "lon": 89.6308921,
+      "cities": []
+    },
+    {
+      "name": "Feni District",
+      "stateCode": "16",
+      "lat": 22.9408784,
+      "lon": 91.4066646,
+      "cities": []
+    },
+    {
+      "name": "Gaibandha District",
+      "stateCode": "19",
+      "lat": 25.3296928,
+      "lon": 89.5429652,
+      "cities": []
+    },
+    {
+      "name": "Gazipur District",
+      "stateCode": "18",
+      "lat": 24.0958171,
+      "lon": 90.4125181,
+      "cities": []
+    },
+    {
+      "name": "Gopalganj District",
+      "stateCode": "17",
+      "lat": 26.4831584,
+      "lon": 84.43655,
+      "cities": []
+    },
+    {
+      "name": "Habiganj District",
+      "stateCode": "20",
+      "lat": 24.4771236,
+      "lon": 91.4506565,
+      "cities": []
+    },
+    {
+      "name": "Jamalpur District",
+      "stateCode": "21",
+      "lat": 25.0830926,
+      "lon": 89.7853218,
+      "cities": []
+    },
+    {
+      "name": "Jessore District",
+      "stateCode": "22",
+      "lat": 23.1634014,
+      "lon": 89.2181664,
+      "cities": []
+    },
+    {
+      "name": "Jhalokati District",
+      "stateCode": "25",
+      "lat": 22.57208,
+      "lon": 90.1869644,
+      "cities": []
+    },
+    {
+      "name": "Jhenaidah District",
+      "stateCode": "23",
+      "lat": 23.5449873,
+      "lon": 89.1726031,
+      "cities": []
+    },
+    {
+      "name": "Joypurhat District",
+      "stateCode": "24",
+      "lat": 25.0947349,
+      "lon": 89.0944937,
+      "cities": []
+    },
+    {
+      "name": "Khagrachari District",
+      "stateCode": "29",
+      "lat": 23.1321751,
+      "lon": 91.949021,
+      "cities": []
+    },
+    {
+      "name": "Khulna District",
+      "stateCode": "27",
+      "lat": 22.6737735,
+      "lon": 89.3966581,
+      "cities": [
+        {
+          "name": "Bagerhat",
+          "lat": 22.4,
+          "lon": 89.75
+        },
+        {
+          "name": "Bhātpāra Abhaynagar",
+          "lat": 23.01472,
+          "lon": 89.43936
+        },
+        {
+          "name": "Bherāmāra",
+          "lat": 24.02452,
+          "lon": 88.99234
+        },
+        {
+          "name": "Chuadanga",
+          "lat": 23.63333,
+          "lon": 88.85
+        },
+        {
+          "name": "Jessore",
+          "lat": 23.08333,
+          "lon": 89.16667
+        },
+        {
+          "name": "Jhenaidah",
+          "lat": 23.5,
+          "lon": 89.16667
+        },
+        {
+          "name": "Jhingergācha",
+          "lat": 23.11134,
+          "lon": 89.09061
+        },
+        {
+          "name": "Kālia",
+          "lat": 23.043,
+          "lon": 89.63094
+        },
+        {
+          "name": "Kālīganj",
+          "lat": 23.40964,
+          "lon": 89.13801
+        },
+        {
+          "name": "Kesabpur",
+          "lat": 22.90725,
+          "lon": 89.21954
+        },
+        {
+          "name": "Khulna",
+          "lat": 22.5,
+          "lon": 89.33333
+        },
+        {
+          "name": "Kushtia",
+          "lat": 23.83333,
+          "lon": 88.91667
+        },
+        {
+          "name": "Magura",
+          "lat": 23.43333,
+          "lon": 89.43333
+        },
+        {
+          "name": "Meherpur",
+          "lat": 23.75,
+          "lon": 88.7
+        },
+        {
+          "name": "Morrelgonj",
+          "lat": 22.45566,
+          "lon": 89.85584
+        },
+        {
+          "name": "Narail",
+          "lat": 23.13333,
+          "lon": 89.6
+        },
+        {
+          "name": "Nowlamary",
+          "lat": 23.67346,
+          "lon": 88.98885
+        },
+        {
+          "name": "Phultala",
+          "lat": 22.71673,
+          "lon": 89.51194
+        },
+        {
+          "name": "Sarankhola",
+          "lat": 22.31006,
+          "lon": 89.79113
+        },
+        {
+          "name": "Satkhira",
+          "lat": 22.35,
+          "lon": 89.15
+        },
+        {
+          "name": "Ujalpur",
+          "lat": 23.80562,
+          "lon": 88.62444
+        },
+        {
+          "name": "Uttar Char Fasson",
+          "lat": 22.22647,
+          "lon": 90.71275
+        }
+      ]
+    },
+    {
+      "name": "Khulna Division",
+      "stateCode": "D",
+      "lat": 22.8087816,
+      "lon": 89.2467191,
+      "cities": []
+    },
+    {
+      "name": "Kishoreganj District",
+      "stateCode": "26",
+      "lat": 24.4260457,
+      "lon": 90.9820668,
+      "cities": []
+    },
+    {
+      "name": "Kurigram District",
+      "stateCode": "28",
+      "lat": 25.8072414,
+      "lon": 89.6294746,
+      "cities": []
+    },
+    {
+      "name": "Kushtia District",
+      "stateCode": "30",
+      "lat": 23.8906995,
+      "lon": 89.1099368,
+      "cities": []
+    },
+    {
+      "name": "Lakshmipur District",
+      "stateCode": "31",
+      "lat": 22.9446744,
+      "lon": 90.8281907,
+      "cities": []
+    },
+    {
+      "name": "Lalmonirhat District",
+      "stateCode": "32",
+      "lat": 25.9923398,
+      "lon": 89.2847251,
+      "cities": []
+    },
+    {
+      "name": "Madaripur District",
+      "stateCode": "36",
+      "lat": 23.2393346,
+      "lon": 90.1869644,
+      "cities": []
+    },
+    {
+      "name": "Meherpur District",
+      "stateCode": "39",
+      "lat": 23.8051991,
+      "lon": 88.6723578,
+      "cities": []
+    },
+    {
+      "name": "Moulvibazar District",
+      "stateCode": "38",
+      "lat": 24.3095344,
+      "lon": 91.7314903,
+      "cities": []
+    },
+    {
+      "name": "Munshiganj District",
+      "stateCode": "35",
+      "lat": 23.4980931,
+      "lon": 90.4126621,
+      "cities": []
+    },
+    {
+      "name": "Mymensingh District",
+      "stateCode": "34",
+      "lat": 24.7538575,
+      "lon": 90.4072919,
+      "cities": [
+        {
+          "name": "Gafargaon",
+          "lat": 24.432,
+          "lon": 90.5585
+        },
+        {
+          "name": "Jamalpur",
+          "lat": 25,
+          "lon": 89.83333
+        },
+        {
+          "name": "Muktāgācha",
+          "lat": 24.76484,
+          "lon": 90.25698
+        },
+        {
+          "name": "Mymensingh",
+          "lat": 24.75,
+          "lon": 90.4
+        },
+        {
+          "name": "Netrakona",
+          "lat": 24.86667,
+          "lon": 90.86667
+        },
+        {
+          "name": "Sarishābāri",
+          "lat": 24.75127,
+          "lon": 89.83126
+        },
+        {
+          "name": "Sherpur",
+          "lat": 25.08333,
+          "lon": 90.08333
+        }
+      ]
+    },
+    {
+      "name": "Mymensingh Division",
+      "stateCode": "H",
+      "lat": 24.71362,
+      "lon": 90.4502368,
+      "cities": []
+    },
+    {
+      "name": "Naogaon District",
+      "stateCode": "48",
+      "lat": 24.9131597,
+      "lon": 88.7530952,
+      "cities": []
+    },
+    {
+      "name": "Narail District",
+      "stateCode": "43",
+      "lat": 23.1162929,
+      "lon": 89.5840404,
+      "cities": []
+    },
+    {
+      "name": "Narayanganj District",
+      "stateCode": "40",
+      "lat": 23.7146601,
+      "lon": 90.563609,
+      "cities": []
+    },
+    {
+      "name": "Natore District",
+      "stateCode": "44",
+      "lat": 24.410243,
+      "lon": 89.0076177,
+      "cities": []
+    },
+    {
+      "name": "Netrokona District",
+      "stateCode": "41",
+      "lat": 24.8103284,
+      "lon": 90.8656415,
+      "cities": []
+    },
+    {
+      "name": "Nilphamari District",
+      "stateCode": "46",
+      "lat": 25.8482798,
+      "lon": 88.9414134,
+      "cities": []
+    },
+    {
+      "name": "Noakhali District",
+      "stateCode": "47",
+      "lat": 22.8723789,
+      "lon": 91.0973184,
+      "cities": []
+    },
+    {
+      "name": "Pabna District",
+      "stateCode": "49",
+      "lat": 24.158505,
+      "lon": 89.4480718,
+      "cities": []
+    },
+    {
+      "name": "Panchagarh District",
+      "stateCode": "52",
+      "lat": 26.2708705,
+      "lon": 88.5951751,
+      "cities": []
+    },
+    {
+      "name": "Patuakhali District",
+      "stateCode": "51",
+      "lat": 22.2248632,
+      "lon": 90.4547503,
+      "cities": []
+    },
+    {
+      "name": "Pirojpur District",
+      "stateCode": "50",
+      "lat": 22.5790744,
+      "lon": 89.9759264,
+      "cities": []
+    },
+    {
+      "name": "Rajbari District",
+      "stateCode": "53",
+      "lat": 23.715134,
+      "lon": 89.5874819,
+      "cities": []
+    },
+    {
+      "name": "Rajshahi District",
+      "stateCode": "54",
+      "lat": 24.3733087,
+      "lon": 88.6048716,
+      "cities": [
+        {
+          "name": "Bera",
+          "lat": 24.07821,
+          "lon": 89.63262
+        },
+        {
+          "name": "Bogra",
+          "lat": 24.78333,
+          "lon": 89.35
+        },
+        {
+          "name": "Chapai Nababganj",
+          "lat": 24.68333,
+          "lon": 88.25
+        },
+        {
+          "name": "Ishurdi",
+          "lat": 24.12858,
+          "lon": 89.06573
+        },
+        {
+          "name": "Joypur Hāt",
+          "lat": 25.10147,
+          "lon": 89.02734
+        },
+        {
+          "name": "Joypurhat",
+          "lat": 25.08333,
+          "lon": 89.1
+        },
+        {
+          "name": "Mahasthangarh",
+          "lat": 24.96111,
+          "lon": 89.34278
+        },
+        {
+          "name": "Naogaon",
+          "lat": 24.8118,
+          "lon": 88.94657
+        },
+        {
+          "name": "Natore",
+          "lat": 24.35,
+          "lon": 89.08333
+        },
+        {
+          "name": "Nawābganj",
+          "lat": 24.59025,
+          "lon": 88.27444
+        },
+        {
+          "name": "Pabna",
+          "lat": 24.00633,
+          "lon": 89.33533
+        },
+        {
+          "name": "Pār Naogaon",
+          "lat": 24.80418,
+          "lon": 88.94875
+        },
+        {
+          "name": "Puthia",
+          "lat": 24.36537,
+          "lon": 88.83431
+        },
+        {
+          "name": "Rajshahi",
+          "lat": 24.36962,
+          "lon": 88.60748
+        },
+        {
+          "name": "Saidpur",
+          "lat": 25.77769,
+          "lon": 88.89169
+        },
+        {
+          "name": "Shāhzādpur",
+          "lat": 24.17687,
+          "lon": 89.5988
+        },
+        {
+          "name": "Shibganj",
+          "lat": 25.00146,
+          "lon": 89.32266
+        },
+        {
+          "name": "Sirajganj",
+          "lat": 24.33333,
+          "lon": 89.61667
+        }
+      ]
+    },
+    {
+      "name": "Rajshahi Division",
+      "stateCode": "E",
+      "lat": 24.7105776,
+      "lon": 88.9413865,
+      "cities": []
+    },
+    {
+      "name": "Rangamati Hill District",
+      "stateCode": "56",
+      "lat": 22.7324173,
+      "lon": 92.2985134,
+      "cities": []
+    },
+    {
+      "name": "Rangpur District",
+      "stateCode": "55",
+      "lat": 25.7467925,
+      "lon": 89.2508335,
+      "cities": [
+        {
+          "name": "Badarganj",
+          "lat": 25.67419,
+          "lon": 89.05377
+        },
+        {
+          "name": "Chilmāri",
+          "lat": 25.55613,
+          "lon": 89.67097
+        },
+        {
+          "name": "Dinajpur",
+          "lat": 25.61667,
+          "lon": 88.75
+        },
+        {
+          "name": "Gaibandha",
+          "lat": 25.25,
+          "lon": 89.5
+        },
+        {
+          "name": "Kurigram",
+          "lat": 25.75,
+          "lon": 89.66667
+        },
+        {
+          "name": "Lalmonirhat",
+          "lat": 25.91719,
+          "lon": 89.44595
+        },
+        {
+          "name": "Lalmonirhat District",
+          "lat": 26,
+          "lon": 89.25
+        },
+        {
+          "name": "Nageswari",
+          "lat": 25.96817,
+          "lon": 89.69153
+        },
+        {
+          "name": "Nilphamari Zila",
+          "lat": 25.96667,
+          "lon": 88.95
+        },
+        {
+          "name": "Panchagarh",
+          "lat": 26.33333,
+          "lon": 88.56667
+        },
+        {
+          "name": "Parbatipur",
+          "lat": 25.66369,
+          "lon": 88.93093
+        },
+        {
+          "name": "Pīrgaaj",
+          "lat": 25.85587,
+          "lon": 88.35943
+        },
+        {
+          "name": "Rangpur",
+          "lat": 25.73333,
+          "lon": 89.25
+        },
+        {
+          "name": "Thakurgaon",
+          "lat": 25.96667,
+          "lon": 88.33333
+        }
+      ]
+    },
+    {
+      "name": "Rangpur Division",
+      "stateCode": "F",
+      "lat": 25.8483388,
+      "lon": 88.9413865,
+      "cities": []
+    },
+    {
+      "name": "Satkhira District",
+      "stateCode": "58",
+      "lat": 22.3154812,
+      "lon": 89.1114525,
+      "cities": []
+    },
+    {
+      "name": "Shariatpur District",
+      "stateCode": "62",
+      "lat": 23.2423214,
+      "lon": 90.4347711,
+      "cities": []
+    },
+    {
+      "name": "Sherpur District",
+      "stateCode": "57",
+      "lat": 25.0746235,
+      "lon": 90.1494904,
+      "cities": []
+    },
+    {
+      "name": "Sirajganj District",
+      "stateCode": "59",
+      "lat": 24.3141115,
+      "lon": 89.5699615,
+      "cities": []
+    },
+    {
+      "name": "Sunamganj District",
+      "stateCode": "61",
+      "lat": 25.0714535,
+      "lon": 91.3991627,
+      "cities": []
+    },
+    {
+      "name": "Sylhet District",
+      "stateCode": "60",
+      "lat": 24.8993357,
+      "lon": 91.8700473,
+      "cities": [
+        {
+          "name": "Baniachang",
+          "lat": 24.51863,
+          "lon": 91.35787
+        },
+        {
+          "name": "Chhātak",
+          "lat": 25.03852,
+          "lon": 91.66958
+        },
+        {
+          "name": "Habiganj",
+          "lat": 24.43333,
+          "lon": 91.41667
+        },
+        {
+          "name": "Jahedpur",
+          "lat": 24.83333,
+          "lon": 91.65
+        },
+        {
+          "name": "Maulavi Bāzār",
+          "lat": 24.48888,
+          "lon": 91.77075
+        },
+        {
+          "name": "Maulvibazar",
+          "lat": 24.5,
+          "lon": 91.83333
+        },
+        {
+          "name": "Sunamganj",
+          "lat": 24.86667,
+          "lon": 91.41667
+        },
+        {
+          "name": "Sylhet",
+          "lat": 24.91667,
+          "lon": 91.76667
+        }
+      ]
+    },
+    {
+      "name": "Sylhet Division",
+      "stateCode": "G",
+      "lat": 24.7049811,
+      "lon": 91.6760691,
+      "cities": []
+    },
+    {
+      "name": "Tangail District",
+      "stateCode": "63",
+      "lat": 24.3917427,
+      "lon": 89.9948257,
+      "cities": []
+    },
+    {
+      "name": "Thakurgaon District",
+      "stateCode": "64",
+      "lat": 26.0418392,
+      "lon": 88.4282616,
+      "cities": []
+    }
+  ]
+}

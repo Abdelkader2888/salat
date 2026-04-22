@@ -1,0 +1,93 @@
+{
+  "iso2": "BH",
+  "name": "Bahrain",
+  "nativeName": "Bahrain",
+  "lat": 26,
+  "lon": 50.55,
+  "states": [
+    {
+      "name": "Capital Governorate",
+      "stateCode": "13",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Jidd Ḩafş",
+          "lat": 26.21861,
+          "lon": 50.54778
+        },
+        {
+          "name": "Manama",
+          "lat": 26.22787,
+          "lon": 50.58565
+        },
+        {
+          "name": "Sitrah",
+          "lat": 26.15472,
+          "lon": 50.62056
+        }
+      ]
+    },
+    {
+      "name": "Central Governorate",
+      "stateCode": "16",
+      "lat": 26.1426093,
+      "lon": 50.5653294,
+      "cities": [
+        {
+          "name": "Madīnat Ḩamad",
+          "lat": 26.11528,
+          "lon": 50.50694
+        }
+      ]
+    },
+    {
+      "name": "Muharraq Governorate",
+      "stateCode": "15",
+      "lat": 26.2685653,
+      "lon": 50.6482517,
+      "cities": [
+        {
+          "name": "Al Ḩadd",
+          "lat": 26.24556,
+          "lon": 50.65417
+        },
+        {
+          "name": "Al Muharraq",
+          "lat": 26.25722,
+          "lon": 50.61194
+        }
+      ]
+    },
+    {
+      "name": "Northern Governorate",
+      "stateCode": "17",
+      "lat": 26.1551914,
+      "lon": 50.4825173,
+      "cities": []
+    },
+    {
+      "name": "Southern Governorate",
+      "stateCode": "14",
+      "lat": 25.9381018,
+      "lon": 50.5756887,
+      "cities": [
+        {
+          "name": "Ar Rifā‘",
+          "lat": 26.13,
+          "lon": 50.555
+        },
+        {
+          "name": "Dār Kulayb",
+          "lat": 26.06861,
+          "lon": 50.50389
+        },
+        {
+          "name": "Madīnat ‘Īsá",
+          "lat": 26.17361,
+          "lon": 50.54778
+        }
+      ]
+    }
+  ]
+}

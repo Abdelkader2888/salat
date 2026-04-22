@@ -1,0 +1,246 @@
+{
+  "iso2": "FJ",
+  "name": "Fiji Islands",
+  "nativeName": "Fiji Islands",
+  "lat": -18,
+  "lon": 175,
+  "states": [
+    {
+      "name": "Ba",
+      "stateCode": "01",
+      "lat": 36.0613893,
+      "lon": -95.8005872,
+      "cities": []
+    },
+    {
+      "name": "Bua",
+      "stateCode": "02",
+      "lat": 43.0964584,
+      "lon": -89.50088,
+      "cities": []
+    },
+    {
+      "name": "Cakaudrove",
+      "stateCode": "03",
+      "lat": -16.5814105,
+      "lon": 179.5120084,
+      "cities": []
+    },
+    {
+      "name": "Central Division",
+      "stateCode": "C",
+      "lat": 34.0440066,
+      "lon": -118.2472738,
+      "cities": [
+        {
+          "name": "Naitasiri Province",
+          "lat": -17.83333,
+          "lon": 178.25
+        },
+        {
+          "name": "Namosi Province",
+          "lat": -18.05,
+          "lon": 178.13333
+        },
+        {
+          "name": "Rewa Province",
+          "lat": -18.08333,
+          "lon": 178.33333
+        },
+        {
+          "name": "Serua Province",
+          "lat": -18.16667,
+          "lon": 178
+        },
+        {
+          "name": "Suva",
+          "lat": -18.14161,
+          "lon": 178.44149
+        },
+        {
+          "name": "Tailevu Province",
+          "lat": -17.83333,
+          "lon": 178.5
+        }
+      ]
+    },
+    {
+      "name": "Eastern Division",
+      "stateCode": "E",
+      "lat": 32.8094305,
+      "lon": -117.1289937,
+      "cities": [
+        {
+          "name": "Kadavu Province",
+          "lat": -18.99331,
+          "lon": 178.22021
+        },
+        {
+          "name": "Lau Province",
+          "lat": -18.20488,
+          "lon": -178.79251
+        },
+        {
+          "name": "Levuka",
+          "lat": -18.06667,
+          "lon": 179.31667
+        },
+        {
+          "name": "Lomaiviti Province",
+          "lat": -17.66667,
+          "lon": 178.8
+        }
+      ]
+    },
+    {
+      "name": "Kadavu",
+      "stateCode": "04",
+      "lat": -19.0127122,
+      "lon": 178.1876676,
+      "cities": []
+    },
+    {
+      "name": "Lau",
+      "stateCode": "05",
+      "lat": 31.6687015,
+      "lon": -106.3955763,
+      "cities": []
+    },
+    {
+      "name": "Lomaiviti",
+      "stateCode": "06",
+      "lat": -17.709,
+      "lon": 179.091,
+      "cities": []
+    },
+    {
+      "name": "Macuata",
+      "stateCode": "07",
+      "lat": -16.4864922,
+      "lon": 179.2847251,
+      "cities": []
+    },
+    {
+      "name": "Nadroga-Navosa",
+      "stateCode": "08",
+      "lat": -17.9865278,
+      "lon": 177.658113,
+      "cities": []
+    },
+    {
+      "name": "Naitasiri",
+      "stateCode": "09",
+      "lat": -17.8975754,
+      "lon": 178.2071598,
+      "cities": []
+    },
+    {
+      "name": "Namosi",
+      "stateCode": "10",
+      "lat": -18.0864176,
+      "lon": 178.1291387,
+      "cities": []
+    },
+    {
+      "name": "Northern Division",
+      "stateCode": "N",
+      "lat": 32.8768766,
+      "lon": -117.2156345,
+      "cities": [
+        {
+          "name": "Bua Province",
+          "lat": -16.83333,
+          "lon": 178.75
+        },
+        {
+          "name": "Cakaudrove Province",
+          "lat": -16.66667,
+          "lon": 179.41667
+        },
+        {
+          "name": "Labasa",
+          "lat": -16.4332,
+          "lon": 179.36451
+        },
+        {
+          "name": "Macuata Province",
+          "lat": -16.5,
+          "lon": 179.25
+        }
+      ]
+    },
+    {
+      "name": "Ra",
+      "stateCode": "11",
+      "lat": 37.1003153,
+      "lon": -95.6744246,
+      "cities": []
+    },
+    {
+      "name": "Rewa",
+      "stateCode": "12",
+      "lat": 34.7923517,
+      "lon": -82.3609264,
+      "cities": []
+    },
+    {
+      "name": "Rotuma",
+      "stateCode": "R",
+      "lat": -12.5025069,
+      "lon": 177.0724164,
+      "cities": []
+    },
+    {
+      "name": "Serua",
+      "stateCode": "13",
+      "lat": -18.1804749,
+      "lon": 178.050979,
+      "cities": []
+    },
+    {
+      "name": "Tailevu",
+      "stateCode": "14",
+      "lat": -17.8269111,
+      "lon": 178.293248,
+      "cities": []
+    },
+    {
+      "name": "Western Division",
+      "stateCode": "W",
+      "lat": 42.9662198,
+      "lon": -78.7021134,
+      "cities": [
+        {
+          "name": "Ba",
+          "lat": -17.5343,
+          "lon": 177.67407
+        },
+        {
+          "name": "Ba Province",
+          "lat": -17.66667,
+          "lon": 177.66667
+        },
+        {
+          "name": "Lautoka",
+          "lat": -17.61686,
+          "lon": 177.45049
+        },
+        {
+          "name": "Nadi",
+          "lat": -17.80309,
+          "lon": 177.41617
+        },
+        {
+          "name": "Nandronga and Navosa Province",
+          "lat": -18,
+          "lon": 177.66667
+        },
+        {
+          "name": "Ra Province",
+          "lat": -17.5,
+          "lon": 178.16667
+        }
+      ]
+    }
+  ]
+}

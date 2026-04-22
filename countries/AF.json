@@ -1,0 +1,733 @@
+{
+  "iso2": "AF",
+  "name": "Afghanistan",
+  "nativeName": "Afghanistan",
+  "lat": 33,
+  "lon": 65,
+  "states": [
+    {
+      "name": "Badakhshan",
+      "stateCode": "BDS",
+      "lat": 36.7347725,
+      "lon": 70.8119953,
+      "cities": [
+        {
+          "name": "Ashkāsham",
+          "lat": 36.68333,
+          "lon": 71.53333
+        },
+        {
+          "name": "Fayzabad",
+          "lat": 37.11664,
+          "lon": 70.58002
+        },
+        {
+          "name": "Jurm",
+          "lat": 36.86477,
+          "lon": 70.83421
+        },
+        {
+          "name": "Khandūd",
+          "lat": 36.95127,
+          "lon": 72.318
+        },
+        {
+          "name": "Rāghistān",
+          "lat": 37.66079,
+          "lon": 70.67346
+        },
+        {
+          "name": "Wākhān",
+          "lat": 37.0571,
+          "lon": 73.34928
+        }
+      ]
+    },
+    {
+      "name": "Badghis",
+      "stateCode": "BDG",
+      "lat": 35.1671339,
+      "lon": 63.7695384,
+      "cities": [
+        {
+          "name": "Ghormach",
+          "lat": 35.73062,
+          "lon": 63.78264
+        },
+        {
+          "name": "Qala i Naw",
+          "lat": 34.98735,
+          "lon": 63.12891
+        }
+      ]
+    },
+    {
+      "name": "Baghlan",
+      "stateCode": "BGL",
+      "lat": 36.1789026,
+      "lon": 68.7453064,
+      "cities": [
+        {
+          "name": "Baghlān",
+          "lat": 36.13068,
+          "lon": 68.70829
+        },
+        {
+          "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+          "lat": 35.90617,
+          "lon": 68.48869
+        },
+        {
+          "name": "Nahrīn",
+          "lat": 36.0649,
+          "lon": 69.13343
+        },
+        {
+          "name": "Pul-e Khumrī",
+          "lat": 35.94458,
+          "lon": 68.71512
+        }
+      ]
+    },
+    {
+      "name": "Balkh",
+      "stateCode": "BAL",
+      "lat": 36.7550603,
+      "lon": 66.8975372,
+      "cities": [
+        {
+          "name": "Balkh",
+          "lat": 36.75635,
+          "lon": 66.8972
+        },
+        {
+          "name": "Dowlatābād",
+          "lat": 36.98821,
+          "lon": 66.82069
+        },
+        {
+          "name": "Khulm",
+          "lat": 36.69736,
+          "lon": 67.69826
+        },
+        {
+          "name": "Lab-Sar",
+          "lat": 36.02634,
+          "lon": 66.83799
+        },
+        {
+          "name": "Mazār-e Sharīf",
+          "lat": 36.70904,
+          "lon": 67.11087
+        },
+        {
+          "name": "Qarchī Gak",
+          "lat": 37.03999,
+          "lon": 66.78891
+        }
+      ]
+    },
+    {
+      "name": "Bamyan",
+      "stateCode": "BAM",
+      "lat": 34.8100067,
+      "lon": 67.8212104,
+      "cities": [
+        {
+          "name": "Bāmyān",
+          "lat": 34.82156,
+          "lon": 67.82734
+        },
+        {
+          "name": "Panjāb",
+          "lat": 34.38795,
+          "lon": 67.02327
+        }
+      ]
+    },
+    {
+      "name": "Daykundi",
+      "stateCode": "DAY",
+      "lat": 33.669495,
+      "lon": 66.0463534,
+      "cities": [
+        {
+          "name": "Nīlī",
+          "lat": 33.76329,
+          "lon": 66.07617
+        }
+      ]
+    },
+    {
+      "name": "Farah",
+      "stateCode": "FRA",
+      "lat": 32.495328,
+      "lon": 62.2626627,
+      "cities": [
+        {
+          "name": "Farah",
+          "lat": 32.37451,
+          "lon": 62.11638
+        }
+      ]
+    },
+    {
+      "name": "Faryab",
+      "stateCode": "FYB",
+      "lat": 36.0795613,
+      "lon": 64.905955,
+      "cities": [
+        {
+          "name": "Andkhoy",
+          "lat": 36.95293,
+          "lon": 65.12376
+        },
+        {
+          "name": "Maymana",
+          "lat": 35.92139,
+          "lon": 64.78361
+        }
+      ]
+    },
+    {
+      "name": "Ghazni",
+      "stateCode": "GHA",
+      "lat": 33.5450587,
+      "lon": 68.4173972,
+      "cities": [
+        {
+          "name": "Ghazni",
+          "lat": 33.55391,
+          "lon": 68.42096
+        }
+      ]
+    },
+    {
+      "name": "Ghōr",
+      "stateCode": "GHO",
+      "lat": 34.0995776,
+      "lon": 64.905955,
+      "cities": [
+        {
+          "name": "Fayrōz Kōh",
+          "lat": 34.51952,
+          "lon": 65.25093
+        },
+        {
+          "name": "Shahrak",
+          "lat": 34.10737,
+          "lon": 64.3052
+        }
+      ]
+    },
+    {
+      "name": "Helmand",
+      "stateCode": "HEL",
+      "lat": 39.2989361,
+      "lon": -76.6160472,
+      "cities": [
+        {
+          "name": "‘Alāqahdārī Dīshū",
+          "lat": 30.43206,
+          "lon": 63.29802
+        },
+        {
+          "name": "Gereshk",
+          "lat": 31.82089,
+          "lon": 64.57005
+        },
+        {
+          "name": "Lashkar Gāh",
+          "lat": 31.59382,
+          "lon": 64.37161
+        },
+        {
+          "name": "Markaz-e Ḩukūmat-e Darwēshān",
+          "lat": 31.13231,
+          "lon": 64.1934
+        },
+        {
+          "name": "Sangīn",
+          "lat": 32.07275,
+          "lon": 64.8359
+        }
+      ]
+    },
+    {
+      "name": "Herat",
+      "stateCode": "HER",
+      "lat": 34.352865,
+      "lon": 62.2040287,
+      "cities": [
+        {
+          "name": "Chahār Burj",
+          "lat": 34.24475,
+          "lon": 62.19165
+        },
+        {
+          "name": "Ghōriyān",
+          "lat": 34.3448,
+          "lon": 61.49321
+        },
+        {
+          "name": "Herāt",
+          "lat": 34.34817,
+          "lon": 62.19967
+        },
+        {
+          "name": "Kafir Qala",
+          "lat": 34.66667,
+          "lon": 61.06667
+        },
+        {
+          "name": "Karukh",
+          "lat": 34.48108,
+          "lon": 62.5863
+        },
+        {
+          "name": "Kuhsān",
+          "lat": 34.65389,
+          "lon": 61.19778
+        },
+        {
+          "name": "Kushk",
+          "lat": 33.29565,
+          "lon": 61.95221
+        },
+        {
+          "name": "Qarah Bāgh",
+          "lat": 34.94023,
+          "lon": 61.77589
+        },
+        {
+          "name": "Shīnḏanḏ",
+          "lat": 33.30294,
+          "lon": 62.1474
+        },
+        {
+          "name": "Tīr Pul",
+          "lat": 34.59431,
+          "lon": 61.26895
+        },
+        {
+          "name": "Zindah Jān",
+          "lat": 34.34264,
+          "lon": 61.74675
+        }
+      ]
+    },
+    {
+      "name": "Jowzjan",
+      "stateCode": "JOW",
+      "lat": 36.8969692,
+      "lon": 65.6658568,
+      "cities": [
+        {
+          "name": "Āqchah",
+          "lat": 36.905,
+          "lon": 66.18341
+        },
+        {
+          "name": "Darzāb",
+          "lat": 35.97744,
+          "lon": 65.37828
+        },
+        {
+          "name": "Qarqīn",
+          "lat": 37.41853,
+          "lon": 66.04358
+        },
+        {
+          "name": "Shibirghān",
+          "lat": 36.66757,
+          "lon": 65.7529
+        }
+      ]
+    },
+    {
+      "name": "Kabul",
+      "stateCode": "KAB",
+      "lat": 34.5553494,
+      "lon": 69.207486,
+      "cities": [
+        {
+          "name": "Kabul",
+          "lat": 34.52813,
+          "lon": 69.17233
+        },
+        {
+          "name": "Mīr Bachah Kōṯ",
+          "lat": 34.74999,
+          "lon": 69.11899
+        },
+        {
+          "name": "Paghmān",
+          "lat": 34.58787,
+          "lon": 68.95091
+        }
+      ]
+    },
+    {
+      "name": "Kandahar",
+      "stateCode": "KAN",
+      "lat": 31.628871,
+      "lon": 65.7371749,
+      "cities": [
+        {
+          "name": "Kandahār",
+          "lat": 31.61332,
+          "lon": 65.71013
+        }
+      ]
+    },
+    {
+      "name": "Kapisa",
+      "stateCode": "KAP",
+      "lat": 34.9810572,
+      "lon": 69.6214562,
+      "cities": [
+        {
+          "name": "Sidqābād",
+          "lat": 35.02298,
+          "lon": 69.35112
+        }
+      ]
+    },
+    {
+      "name": "Khost",
+      "stateCode": "KHO",
+      "lat": 33.3338472,
+      "lon": 69.9371673,
+      "cities": [
+        {
+          "name": "Khōst",
+          "lat": 33.33951,
+          "lon": 69.92041
+        }
+      ]
+    },
+    {
+      "name": "Kunar",
+      "stateCode": "KNR",
+      "lat": 34.8465893,
+      "lon": 71.097317,
+      "cities": [
+        {
+          "name": "Asadabad",
+          "lat": 34.87311,
+          "lon": 71.14697
+        },
+        {
+          "name": "Āsmār",
+          "lat": 35.03333,
+          "lon": 71.35809
+        }
+      ]
+    },
+    {
+      "name": "Kunduz Province",
+      "stateCode": "KDZ",
+      "lat": 36.7285511,
+      "lon": 68.8678982,
+      "cities": [
+        {
+          "name": "Dasht-e Archī",
+          "lat": 37.13333,
+          "lon": 69.16667
+        },
+        {
+          "name": "Imām Şāḩib",
+          "lat": 37.18897,
+          "lon": 68.93644
+        },
+        {
+          "name": "Khanabad",
+          "lat": 36.6825,
+          "lon": 69.11556
+        },
+        {
+          "name": "Kunduz",
+          "lat": 36.72895,
+          "lon": 68.857
+        },
+        {
+          "name": "Qarāwul",
+          "lat": 37.21959,
+          "lon": 68.7802
+        }
+      ]
+    },
+    {
+      "name": "Laghman",
+      "stateCode": "LAG",
+      "lat": 34.6897687,
+      "lon": 70.1455805,
+      "cities": [
+        {
+          "name": "Mehtar Lām",
+          "lat": 34.67139,
+          "lon": 70.20944
+        }
+      ]
+    },
+    {
+      "name": "Logar",
+      "stateCode": "LOG",
+      "lat": 34.0145518,
+      "lon": 69.1923916,
+      "cities": [
+        {
+          "name": "Baraki Barak",
+          "lat": 33.96744,
+          "lon": 68.9492
+        },
+        {
+          "name": "Ḩukūmatī Azrah",
+          "lat": 34.17355,
+          "lon": 69.64573
+        },
+        {
+          "name": "Pul-e ‘Alam",
+          "lat": 33.99529,
+          "lon": 69.02274
+        }
+      ]
+    },
+    {
+      "name": "Nangarhar",
+      "stateCode": "NAN",
+      "lat": 34.1718313,
+      "lon": 70.6216794,
+      "cities": [
+        {
+          "name": "Bāsawul",
+          "lat": 34.24749,
+          "lon": 70.87218
+        },
+        {
+          "name": "Jalālābād",
+          "lat": 34.42647,
+          "lon": 70.45153
+        },
+        {
+          "name": "Markaz-e Woluswalī-ye Āchīn",
+          "lat": 34.12583,
+          "lon": 70.70778
+        }
+      ]
+    },
+    {
+      "name": "Nimruz",
+      "stateCode": "NIM",
+      "lat": 31.0261488,
+      "lon": 62.4504154,
+      "cities": [
+        {
+          "name": "Khāsh",
+          "lat": 31.52919,
+          "lon": 62.79055
+        },
+        {
+          "name": "Mīrābād",
+          "lat": 30.43624,
+          "lon": 61.8383
+        },
+        {
+          "name": "Rūdbār",
+          "lat": 30.15,
+          "lon": 62.6
+        },
+        {
+          "name": "Zaranj",
+          "lat": 30.95962,
+          "lon": 61.86037
+        }
+      ]
+    },
+    {
+      "name": "Nuristan",
+      "stateCode": "NUR",
+      "lat": 35.3250223,
+      "lon": 70.9071236,
+      "cities": [
+        {
+          "name": "Pārūn",
+          "lat": 35.42064,
+          "lon": 70.92261
+        }
+      ]
+    },
+    {
+      "name": "Paktia",
+      "stateCode": "PIA",
+      "lat": 33.706199,
+      "lon": 69.3831079,
+      "cities": [
+        {
+          "name": "Gardez",
+          "lat": 33.59744,
+          "lon": 69.22592
+        }
+      ]
+    },
+    {
+      "name": "Paktika",
+      "stateCode": "PKA",
+      "lat": 32.2645386,
+      "lon": 68.5247149,
+      "cities": [
+        {
+          "name": "Saṟōbī",
+          "lat": 32.75221,
+          "lon": 69.04587
+        },
+        {
+          "name": "Zaṟah Sharan",
+          "lat": 33.14641,
+          "lon": 68.79213
+        },
+        {
+          "name": "Zarghūn Shahr",
+          "lat": 32.84734,
+          "lon": 68.44573
+        }
+      ]
+    },
+    {
+      "name": "Panjshir",
+      "stateCode": "PAN",
+      "lat": 38.8802391,
+      "lon": -77.1717238,
+      "cities": [
+        {
+          "name": "Bāzārak",
+          "lat": 35.31292,
+          "lon": 69.51519
+        }
+      ]
+    },
+    {
+      "name": "Parwan",
+      "stateCode": "PAR",
+      "lat": 34.9630977,
+      "lon": 68.8108849,
+      "cities": [
+        {
+          "name": "Charikar",
+          "lat": 35.01361,
+          "lon": 69.17139
+        },
+        {
+          "name": "Jabal os Saraj",
+          "lat": 35.11833,
+          "lon": 69.23778
+        }
+      ]
+    },
+    {
+      "name": "Samangan",
+      "stateCode": "SAM",
+      "lat": 36.3155506,
+      "lon": 67.9642863,
+      "cities": [
+        {
+          "name": "Aībak",
+          "lat": 36.26468,
+          "lon": 68.01551
+        }
+      ]
+    },
+    {
+      "name": "Sar-e Pol",
+      "stateCode": "SAR",
+      "lat": 36.216628,
+      "lon": 65.93336,
+      "cities": [
+        {
+          "name": "Chīras",
+          "lat": 35.41674,
+          "lon": 65.98234
+        },
+        {
+          "name": "Larkird",
+          "lat": 35.48936,
+          "lon": 66.66409
+        },
+        {
+          "name": "Qal‘ah-ye Shahr",
+          "lat": 35.54729,
+          "lon": 65.5676
+        },
+        {
+          "name": "Sang-e Chārak",
+          "lat": 35.84972,
+          "lon": 66.43694
+        },
+        {
+          "name": "Sar-e Pul",
+          "lat": 36.21544,
+          "lon": 65.93249
+        },
+        {
+          "name": "Tagāw-Bāy",
+          "lat": 35.69941,
+          "lon": 66.06164
+        },
+        {
+          "name": "Tukzār",
+          "lat": 35.94831,
+          "lon": 66.42132
+        }
+      ]
+    },
+    {
+      "name": "Takhar",
+      "stateCode": "TAK",
+      "lat": 36.6698013,
+      "lon": 69.4784541,
+      "cities": [
+        {
+          "name": "Ārt Khwājah",
+          "lat": 37.08571,
+          "lon": 69.47958
+        },
+        {
+          "name": "Taloqan",
+          "lat": 36.73605,
+          "lon": 69.53451
+        }
+      ]
+    },
+    {
+      "name": "Urozgan",
+      "stateCode": "URU",
+      "lat": 32.9271287,
+      "lon": 66.1415263,
+      "cities": [
+        {
+          "name": "Tarinkot",
+          "lat": 32.62998,
+          "lon": 65.87806
+        },
+        {
+          "name": "Uruzgān",
+          "lat": 32.92775,
+          "lon": 66.63253
+        }
+      ]
+    },
+    {
+      "name": "Zabul",
+      "stateCode": "ZAB",
+      "lat": 32.1918782,
+      "lon": 67.1894488,
+      "cities": [
+        {
+          "name": "Qalāt",
+          "lat": 32.10575,
+          "lon": 66.90833
+        }
+      ]
+    }
+  ]
+}

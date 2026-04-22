@@ -1,0 +1,199 @@
+{
+  "iso2": "GQ",
+  "name": "Equatorial Guinea",
+  "nativeName": "Equatorial Guinea",
+  "lat": 2,
+  "lon": 10,
+  "states": [
+    {
+      "name": "Annobón Province",
+      "stateCode": "AN",
+      "lat": -1.4268782,
+      "lon": 5.6352801,
+      "cities": [
+        {
+          "name": "San Antonio de Palé",
+          "lat": -1.4068,
+          "lon": 5.63178
+        }
+      ]
+    },
+    {
+      "name": "Bioko Norte Province",
+      "stateCode": "BN",
+      "lat": 3.6595072,
+      "lon": 8.7921836,
+      "cities": [
+        {
+          "name": "Malabo",
+          "lat": 3.75578,
+          "lon": 8.78166
+        },
+        {
+          "name": "Rebola",
+          "lat": 3.71667,
+          "lon": 8.83333
+        },
+        {
+          "name": "Santiago de Baney",
+          "lat": 3.6992,
+          "lon": 8.9084
+        }
+      ]
+    },
+    {
+      "name": "Bioko Sur Province",
+      "stateCode": "BS",
+      "lat": 3.4209785,
+      "lon": 8.6160674,
+      "cities": [
+        {
+          "name": "Luba",
+          "lat": 3.45683,
+          "lon": 8.55465
+        }
+      ]
+    },
+    {
+      "name": "Centro Sur Province",
+      "stateCode": "CS",
+      "lat": 1.3436084,
+      "lon": 10.439656,
+      "cities": [
+        {
+          "name": "Acurenam",
+          "lat": 1.03225,
+          "lon": 10.64882
+        },
+        {
+          "name": "Bicurga",
+          "lat": 1.58113,
+          "lon": 10.46716
+        },
+        {
+          "name": "Evinayong",
+          "lat": 1.43677,
+          "lon": 10.55124
+        }
+      ]
+    },
+    {
+      "name": "Insular Region",
+      "stateCode": "I",
+      "lat": 37.09024,
+      "lon": -95.712891,
+      "cities": []
+    },
+    {
+      "name": "Kié-Ntem Province",
+      "stateCode": "KN",
+      "lat": 2.028093,
+      "lon": 11.0711758,
+      "cities": [
+        {
+          "name": "Ebebiyin",
+          "lat": 2.15106,
+          "lon": 11.33528
+        },
+        {
+          "name": "Mikomeseng",
+          "lat": 2.13609,
+          "lon": 10.61322
+        },
+        {
+          "name": "Ncue",
+          "lat": 2.01643,
+          "lon": 10.47066
+        },
+        {
+          "name": "Nsang",
+          "lat": 2.02475,
+          "lon": 10.94599
+        }
+      ]
+    },
+    {
+      "name": "Litoral Province",
+      "stateCode": "LI",
+      "lat": 1.5750244,
+      "lon": 9.8124935,
+      "cities": [
+        {
+          "name": "Bata",
+          "lat": 1.86391,
+          "lon": 9.76582
+        },
+        {
+          "name": "Bitica",
+          "lat": 1.4261,
+          "lon": 9.62316
+        },
+        {
+          "name": "Cogo",
+          "lat": 1.08425,
+          "lon": 9.693
+        },
+        {
+          "name": "Machinda",
+          "lat": 1.88262,
+          "lon": 9.95133
+        },
+        {
+          "name": "Mbini",
+          "lat": 1.58267,
+          "lon": 9.61478
+        },
+        {
+          "name": "Río Campo",
+          "lat": 2.33812,
+          "lon": 9.82212
+        }
+      ]
+    },
+    {
+      "name": "Río Muni",
+      "stateCode": "C",
+      "lat": 1.4610606,
+      "lon": 9.6786894,
+      "cities": []
+    },
+    {
+      "name": "Wele-Nzas Province",
+      "stateCode": "WN",
+      "lat": 1.4166162,
+      "lon": 11.0711758,
+      "cities": [
+        {
+          "name": "Aconibe",
+          "lat": 1.29683,
+          "lon": 10.93691
+        },
+        {
+          "name": "Añisoc",
+          "lat": 1.8658,
+          "lon": 10.76892
+        },
+        {
+          "name": "Ayene",
+          "lat": 1.85592,
+          "lon": 10.68994
+        },
+        {
+          "name": "Mengomeyén",
+          "lat": 1.69439,
+          "lon": 11.03422
+        },
+        {
+          "name": "Mongomo",
+          "lat": 1.62742,
+          "lon": 11.31346
+        },
+        {
+          "name": "Nsok",
+          "lat": 1.12985,
+          "lon": 11.26603
+        }
+      ]
+    }
+  ]
+}

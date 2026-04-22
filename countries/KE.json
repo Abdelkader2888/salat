@@ -1,0 +1,932 @@
+{
+  "iso2": "KE",
+  "name": "Kenya",
+  "nativeName": "Kenya",
+  "lat": 1,
+  "lon": 38,
+  "states": [
+    {
+      "name": "Baringo",
+      "stateCode": "01",
+      "lat": 0.8554988,
+      "lon": 36.0893406,
+      "cities": [
+        {
+          "name": "Baringo",
+          "lat": 0.46667,
+          "lon": 35.96667
+        },
+        {
+          "name": "Eldama Ravine",
+          "lat": 0.05196,
+          "lon": 35.72734
+        },
+        {
+          "name": "Kabarnet",
+          "lat": 0.49194,
+          "lon": 35.74303
+        }
+      ]
+    },
+    {
+      "name": "Bomet",
+      "stateCode": "02",
+      "lat": -0.8015009,
+      "lon": 35.3027226,
+      "cities": [
+        {
+          "name": "Sotik",
+          "lat": -0.69069,
+          "lon": 35.11102
+        },
+        {
+          "name": "Sotik Post",
+          "lat": -0.78129,
+          "lon": 35.34156
+        }
+      ]
+    },
+    {
+      "name": "Bungoma",
+      "stateCode": "03",
+      "lat": 0.5695252,
+      "lon": 34.5583766,
+      "cities": [
+        {
+          "name": "Bungoma",
+          "lat": 0.5635,
+          "lon": 34.56055
+        },
+        {
+          "name": "Malikisi",
+          "lat": 0.67694,
+          "lon": 34.42167
+        },
+        {
+          "name": "Webuye",
+          "lat": 0.6004,
+          "lon": 34.77119
+        }
+      ]
+    },
+    {
+      "name": "Busia",
+      "stateCode": "04",
+      "lat": 0.4346506,
+      "lon": 34.2421597,
+      "cities": [
+        {
+          "name": "Busia",
+          "lat": 0.46005,
+          "lon": 34.11169
+        },
+        {
+          "name": "Luanda",
+          "lat": 0.31354,
+          "lon": 34.07146
+        },
+        {
+          "name": "Lugulu",
+          "lat": 0.39337,
+          "lon": 34.30399
+        },
+        {
+          "name": "Malaba",
+          "lat": 0.63513,
+          "lon": 34.28165
+        },
+        {
+          "name": "Nambare",
+          "lat": 0.45813,
+          "lon": 34.25353
+        },
+        {
+          "name": "Port Victoria",
+          "lat": 0.09809,
+          "lon": 33.97248
+        }
+      ]
+    },
+    {
+      "name": "Elgeyo-Marakwet",
+      "stateCode": "05",
+      "lat": 1.0498237,
+      "lon": 35.4781926,
+      "cities": []
+    },
+    {
+      "name": "Embu",
+      "stateCode": "06",
+      "lat": -0.6560477,
+      "lon": 37.7237678,
+      "cities": [
+        {
+          "name": "Embu",
+          "lat": -0.53987,
+          "lon": 37.45743
+        }
+      ]
+    },
+    {
+      "name": "Garissa",
+      "stateCode": "07",
+      "lat": -0.4532293,
+      "lon": 39.6460988,
+      "cities": [
+        {
+          "name": "Garissa",
+          "lat": -0.45275,
+          "lon": 39.64601
+        }
+      ]
+    },
+    {
+      "name": "Homa Bay",
+      "stateCode": "08",
+      "lat": -0.6220655,
+      "lon": 34.3310364,
+      "cities": [
+        {
+          "name": "Homa Bay",
+          "lat": -0.52731,
+          "lon": 34.45714
+        },
+        {
+          "name": "Oyugis",
+          "lat": -0.50974,
+          "lon": 34.73067
+        },
+        {
+          "name": "Rachuonyo District",
+          "lat": -0.44,
+          "lon": 34.739
+        }
+      ]
+    },
+    {
+      "name": "Isiolo",
+      "stateCode": "09",
+      "lat": 0.3524352,
+      "lon": 38.4849923,
+      "cities": [
+        {
+          "name": "Isiolo",
+          "lat": 0.35462,
+          "lon": 37.58218
+        }
+      ]
+    },
+    {
+      "name": "Kajiado",
+      "stateCode": "10",
+      "lat": -2.0980751,
+      "lon": 36.7819505,
+      "cities": [
+        {
+          "name": "Kajiado",
+          "lat": -1.85238,
+          "lon": 36.77683
+        },
+        {
+          "name": "Magadi",
+          "lat": -1.90122,
+          "lon": 36.287
+        },
+        {
+          "name": "Ngong",
+          "lat": -1.3527,
+          "lon": 36.6699
+        }
+      ]
+    },
+    {
+      "name": "Kakamega",
+      "stateCode": "11",
+      "lat": 0.307894,
+      "lon": 34.7740793,
+      "cities": [
+        {
+          "name": "Butere",
+          "lat": 0.20694,
+          "lon": 34.49006
+        },
+        {
+          "name": "Kakamega",
+          "lat": 0.28422,
+          "lon": 34.75229
+        },
+        {
+          "name": "Mumias",
+          "lat": 0.33474,
+          "lon": 34.48796
+        }
+      ]
+    },
+    {
+      "name": "Kericho",
+      "stateCode": "12",
+      "lat": -0.1827913,
+      "lon": 35.4781926,
+      "cities": [
+        {
+          "name": "Kericho",
+          "lat": -0.36774,
+          "lon": 35.28314
+        },
+        {
+          "name": "Kipkelion",
+          "lat": -0.19982,
+          "lon": 35.46735
+        },
+        {
+          "name": "Litein",
+          "lat": -0.58249,
+          "lon": 35.18969
+        },
+        {
+          "name": "Londiani",
+          "lat": -0.16552,
+          "lon": 35.59359
+        }
+      ]
+    },
+    {
+      "name": "Kiambu",
+      "stateCode": "13",
+      "lat": -1.0313701,
+      "lon": 36.8680791,
+      "cities": [
+        {
+          "name": "Kiambu",
+          "lat": -1.17139,
+          "lon": 36.83556
+        },
+        {
+          "name": "Kikuyu",
+          "lat": -1.24627,
+          "lon": 36.66291
+        },
+        {
+          "name": "Limuru",
+          "lat": -1.1136,
+          "lon": 36.64205
+        },
+        {
+          "name": "Pumwani",
+          "lat": -1.28333,
+          "lon": 36.85
+        },
+        {
+          "name": "Thika",
+          "lat": -1.03326,
+          "lon": 37.06933
+        }
+      ]
+    },
+    {
+      "name": "Kilifi",
+      "stateCode": "14",
+      "lat": -3.5106508,
+      "lon": 39.9093269,
+      "cities": [
+        {
+          "name": "Iten",
+          "lat": 0.67028,
+          "lon": 35.50806
+        },
+        {
+          "name": "Kapsowar",
+          "lat": 0.9789,
+          "lon": 35.55854
+        },
+        {
+          "name": "Kilifi",
+          "lat": -3.63045,
+          "lon": 39.84992
+        },
+        {
+          "name": "Malindi",
+          "lat": -3.21799,
+          "lon": 40.11692
+        },
+        {
+          "name": "Mariakani",
+          "lat": -3.86261,
+          "lon": 39.47458
+        },
+        {
+          "name": "Takaungu",
+          "lat": -3.6835,
+          "lon": 39.85687
+        }
+      ]
+    },
+    {
+      "name": "Kirinyaga",
+      "stateCode": "15",
+      "lat": -0.6590565,
+      "lon": 37.3827234,
+      "cities": [
+        {
+          "name": "Kerugoya",
+          "lat": -0.49887,
+          "lon": 37.28031
+        },
+        {
+          "name": "Sagana",
+          "lat": -0.66806,
+          "lon": 37.20875
+        }
+      ]
+    },
+    {
+      "name": "Kisii",
+      "stateCode": "16",
+      "lat": -0.677334,
+      "lon": 34.779603,
+      "cities": [
+        {
+          "name": "Kisii",
+          "lat": -0.68174,
+          "lon": 34.76666
+        },
+        {
+          "name": "Ogembo",
+          "lat": -0.80116,
+          "lon": 34.72579
+        }
+      ]
+    },
+    {
+      "name": "Kisumu",
+      "stateCode": "17",
+      "lat": -0.0917016,
+      "lon": 34.7679568,
+      "cities": [
+        {
+          "name": "Ahero",
+          "lat": -0.17359,
+          "lon": 34.9189
+        },
+        {
+          "name": "Kisumu",
+          "lat": -0.10221,
+          "lon": 34.76171
+        },
+        {
+          "name": "Muhoroni",
+          "lat": -0.15816,
+          "lon": 35.19645
+        }
+      ]
+    },
+    {
+      "name": "Kitui",
+      "stateCode": "18",
+      "lat": -1.6832822,
+      "lon": 38.3165725,
+      "cities": [
+        {
+          "name": "Kitui",
+          "lat": -1.36696,
+          "lon": 38.01055
+        },
+        {
+          "name": "Mwingi",
+          "lat": -0.93605,
+          "lon": 38.05955
+        }
+      ]
+    },
+    {
+      "name": "Kwale",
+      "stateCode": "19",
+      "lat": -4.1816115,
+      "lon": 39.4605612,
+      "cities": [
+        {
+          "name": "Gazi",
+          "lat": -4.42402,
+          "lon": 39.50588
+        },
+        {
+          "name": "Kinango",
+          "lat": -4.13723,
+          "lon": 39.31528
+        },
+        {
+          "name": "Kwale",
+          "lat": -4.17375,
+          "lon": 39.45206
+        },
+        {
+          "name": "Sawa Sawa",
+          "lat": -4.47166,
+          "lon": 39.48463
+        },
+        {
+          "name": "Shimoni",
+          "lat": -4.64756,
+          "lon": 39.38175
+        }
+      ]
+    },
+    {
+      "name": "Laikipia",
+      "stateCode": "20",
+      "lat": 0.3606063,
+      "lon": 36.7819505,
+      "cities": [
+        {
+          "name": "Nanyuki",
+          "lat": 0.00624,
+          "lon": 37.07398
+        },
+        {
+          "name": "Nyahururu",
+          "lat": 0.03813,
+          "lon": 36.36339
+        },
+        {
+          "name": "Rumuruti",
+          "lat": 0.2725,
+          "lon": 36.53806
+        }
+      ]
+    },
+    {
+      "name": "Lamu",
+      "stateCode": "21",
+      "lat": -2.2355058,
+      "lon": 40.4720004,
+      "cities": [
+        {
+          "name": "Lamu",
+          "lat": -2.27169,
+          "lon": 40.90201
+        },
+        {
+          "name": "Witu",
+          "lat": -2.38892,
+          "lon": 40.43827
+        }
+      ]
+    },
+    {
+      "name": "Machakos",
+      "stateCode": "22",
+      "lat": -1.5176837,
+      "lon": 37.2634146,
+      "cities": [
+        {
+          "name": "Athi River",
+          "lat": -1.4563,
+          "lon": 36.97826
+        },
+        {
+          "name": "Kangundo",
+          "lat": -1.30342,
+          "lon": 37.34813
+        },
+        {
+          "name": "Konza",
+          "lat": -1.73947,
+          "lon": 37.13195
+        },
+        {
+          "name": "Machakos",
+          "lat": -1.52233,
+          "lon": 37.26521
+        }
+      ]
+    },
+    {
+      "name": "Makueni",
+      "stateCode": "23",
+      "lat": -2.2558734,
+      "lon": 37.8936663,
+      "cities": [
+        {
+          "name": "Makueni Boma",
+          "lat": -1.80388,
+          "lon": 37.62405
+        },
+        {
+          "name": "Mtito Andei",
+          "lat": -2.68987,
+          "lon": 38.16687
+        },
+        {
+          "name": "Wote",
+          "lat": -1.78079,
+          "lon": 37.62882
+        }
+      ]
+    },
+    {
+      "name": "Mandera",
+      "stateCode": "24",
+      "lat": 3.5737991,
+      "lon": 40.958688,
+      "cities": [
+        {
+          "name": "Mandera",
+          "lat": 3.93726,
+          "lon": 41.85688
+        }
+      ]
+    },
+    {
+      "name": "Marsabit",
+      "stateCode": "25",
+      "lat": 2.4426403,
+      "lon": 37.9784585,
+      "cities": [
+        {
+          "name": "Marsabit",
+          "lat": 2.33468,
+          "lon": 37.99086
+        },
+        {
+          "name": "Moyale",
+          "lat": 3.52661,
+          "lon": 39.0561
+        }
+      ]
+    },
+    {
+      "name": "Meru",
+      "stateCode": "26",
+      "lat": 0.3557174,
+      "lon": 37.8087693,
+      "cities": [
+        {
+          "name": "Maua",
+          "lat": 0.2332,
+          "lon": 37.94086
+        },
+        {
+          "name": "Meru",
+          "lat": 0.04626,
+          "lon": 37.65587
+        }
+      ]
+    },
+    {
+      "name": "Migori",
+      "stateCode": "27",
+      "lat": -0.9365702,
+      "lon": 34.4198243,
+      "cities": [
+        {
+          "name": "Kihancha",
+          "lat": -1.19347,
+          "lon": 34.61967
+        },
+        {
+          "name": "Migori",
+          "lat": -1.06343,
+          "lon": 34.47313
+        }
+      ]
+    },
+    {
+      "name": "Mombasa",
+      "stateCode": "28",
+      "lat": -3.9768291,
+      "lon": 39.7137181,
+      "cities": [
+        {
+          "name": "Mombasa",
+          "lat": -4.05466,
+          "lon": 39.66359
+        }
+      ]
+    },
+    {
+      "name": "Murang'a",
+      "stateCode": "29",
+      "lat": -0.7839281,
+      "lon": 37.0400339,
+      "cities": [
+        {
+          "name": "Kangema",
+          "lat": -0.68553,
+          "lon": 36.96463
+        },
+        {
+          "name": "Karuri",
+          "lat": -0.7,
+          "lon": 37.18333
+        },
+        {
+          "name": "Maragua",
+          "lat": -0.79602,
+          "lon": 37.13292
+        },
+        {
+          "name": "Murang’a",
+          "lat": -0.72104,
+          "lon": 37.15259
+        }
+      ]
+    },
+    {
+      "name": "Nairobi City",
+      "stateCode": "30",
+      "lat": -1.2920659,
+      "lon": 36.8219462,
+      "cities": [
+        {
+          "name": "Nairobi",
+          "lat": -1.28333,
+          "lon": 36.81667
+        }
+      ]
+    },
+    {
+      "name": "Nakuru",
+      "stateCode": "31",
+      "lat": -0.3030988,
+      "lon": 36.080026,
+      "cities": [
+        {
+          "name": "Kijabe",
+          "lat": -0.93334,
+          "lon": 36.57233
+        },
+        {
+          "name": "Molo",
+          "lat": -0.24849,
+          "lon": 35.73194
+        },
+        {
+          "name": "Naivasha",
+          "lat": -0.71383,
+          "lon": 36.43261
+        },
+        {
+          "name": "Nakuru",
+          "lat": -0.30719,
+          "lon": 36.07225
+        },
+        {
+          "name": "Rongai",
+          "lat": -0.17344,
+          "lon": 35.86313
+        }
+      ]
+    },
+    {
+      "name": "Nandi",
+      "stateCode": "32",
+      "lat": 0.1835867,
+      "lon": 35.1268781,
+      "cities": [
+        {
+          "name": "Kapsabet",
+          "lat": 0.20387,
+          "lon": 35.105
+        },
+        {
+          "name": "Nandi Hills",
+          "lat": 0.10366,
+          "lon": 35.18426
+        }
+      ]
+    },
+    {
+      "name": "Narok",
+      "stateCode": "33",
+      "lat": -1.104111,
+      "lon": 36.0893406,
+      "cities": [
+        {
+          "name": "Narok",
+          "lat": -1.08083,
+          "lon": 35.87111
+        }
+      ]
+    },
+    {
+      "name": "Nyamira",
+      "stateCode": "34",
+      "lat": -0.5669405,
+      "lon": 34.9341234,
+      "cities": [
+        {
+          "name": "Keroka",
+          "lat": -0.77612,
+          "lon": 34.94678
+        },
+        {
+          "name": "Nyamira",
+          "lat": -0.56333,
+          "lon": 34.93583
+        }
+      ]
+    },
+    {
+      "name": "Nyandarua",
+      "stateCode": "35",
+      "lat": -0.1803855,
+      "lon": 36.5229641,
+      "cities": [
+        {
+          "name": "Ol Kalou",
+          "lat": -0.27088,
+          "lon": 36.37917
+        }
+      ]
+    },
+    {
+      "name": "Nyeri",
+      "stateCode": "36",
+      "lat": -0.4196915,
+      "lon": 37.0400339,
+      "cities": [
+        {
+          "name": "Naro Moru",
+          "lat": -0.16357,
+          "lon": 37.01773
+        },
+        {
+          "name": "Nyeri",
+          "lat": -0.42013,
+          "lon": 36.94759
+        },
+        {
+          "name": "Othaya",
+          "lat": -0.54655,
+          "lon": 36.93178
+        }
+      ]
+    },
+    {
+      "name": "Samburu",
+      "stateCode": "37",
+      "lat": 1.2154506,
+      "lon": 36.954107,
+      "cities": [
+        {
+          "name": "Maralal",
+          "lat": 1.09667,
+          "lon": 36.69806
+        }
+      ]
+    },
+    {
+      "name": "Siaya",
+      "stateCode": "38",
+      "lat": -0.0617328,
+      "lon": 34.2421597,
+      "cities": [
+        {
+          "name": "Bondo",
+          "lat": 0.23522,
+          "lon": 34.28086
+        },
+        {
+          "name": "Siaya",
+          "lat": 0.0607,
+          "lon": 34.28806
+        },
+        {
+          "name": "Yala",
+          "lat": 0.09438,
+          "lon": 34.53602
+        }
+      ]
+    },
+    {
+      "name": "Taita–Taveta",
+      "stateCode": "39",
+      "lat": -3.3160687,
+      "lon": 38.4849923,
+      "cities": []
+    },
+    {
+      "name": "Tana River",
+      "stateCode": "40",
+      "lat": -1.6518468,
+      "lon": 39.6518165,
+      "cities": [
+        {
+          "name": "Hola",
+          "lat": -1.48256,
+          "lon": 40.03341
+        },
+        {
+          "name": "Kipini",
+          "lat": -2.52565,
+          "lon": 40.5262
+        }
+      ]
+    },
+    {
+      "name": "Tharaka-Nithi",
+      "stateCode": "41",
+      "lat": -0.2964851,
+      "lon": 37.7237678,
+      "cities": [
+        {
+          "name": "Chuka",
+          "lat": -0.33316,
+          "lon": 37.64587
+        }
+      ]
+    },
+    {
+      "name": "Trans Nzoia",
+      "stateCode": "42",
+      "lat": 1.0566667,
+      "lon": 34.9506625,
+      "cities": [
+        {
+          "name": "Kitale",
+          "lat": 1.01572,
+          "lon": 35.00622
+        }
+      ]
+    },
+    {
+      "name": "Turkana",
+      "stateCode": "43",
+      "lat": 3.3122477,
+      "lon": 35.5657862,
+      "cities": [
+        {
+          "name": "Lodwar",
+          "lat": 3.11988,
+          "lon": 35.59642
+        }
+      ]
+    },
+    {
+      "name": "Uasin Gishu",
+      "stateCode": "44",
+      "lat": 0.5527638,
+      "lon": 35.3027226,
+      "cities": [
+        {
+          "name": "Eldoret",
+          "lat": 0.52036,
+          "lon": 35.26993
+        }
+      ]
+    },
+    {
+      "name": "Vihiga",
+      "stateCode": "45",
+      "lat": 0.0767553,
+      "lon": 34.7077665,
+      "cities": []
+    },
+    {
+      "name": "Wajir",
+      "stateCode": "46",
+      "lat": 1.6360475,
+      "lon": 40.3088626,
+      "cities": [
+        {
+          "name": "Wajir",
+          "lat": 1.7471,
+          "lon": 40.05732
+        }
+      ]
+    },
+    {
+      "name": "West Pokot",
+      "stateCode": "47",
+      "lat": 1.6210076,
+      "lon": 35.3905046,
+      "cities": [
+        {
+          "name": "Chepareria",
+          "lat": 1.30583,
+          "lon": 35.20365
+        },
+        {
+          "name": "Kapenguria",
+          "lat": 1.23889,
+          "lon": 35.11194
+        },
+        {
+          "name": "Taveta",
+          "lat": -3.39879,
+          "lon": 37.68336
+        },
+        {
+          "name": "Voi",
+          "lat": -3.39605,
+          "lon": 38.55609
+        },
+        {
+          "name": "Wundanyi",
+          "lat": -3.39642,
+          "lon": 38.35729
+        }
+      ]
+    }
+  ]
+}

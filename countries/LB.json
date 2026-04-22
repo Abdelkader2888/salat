@@ -1,0 +1,203 @@
+{
+  "iso2": "LB",
+  "name": "Lebanon",
+  "nativeName": "Lebanon",
+  "lat": 33.83333333,
+  "lon": 35.83333333,
+  "states": [
+    {
+      "name": "Akkar Governorate",
+      "stateCode": "AK",
+      "lat": 34.5328763,
+      "lon": 36.1328132,
+      "cities": [
+        {
+          "name": "Caza de Aakkar",
+          "lat": 34.53333,
+          "lon": 36.16667
+        }
+      ]
+    },
+    {
+      "name": "Baalbek-Hermel Governorate",
+      "stateCode": "BH",
+      "lat": 34.2658556,
+      "lon": 36.3498097,
+      "cities": [
+        {
+          "name": "Baalbek",
+          "lat": 34.00583,
+          "lon": 36.21806
+        },
+        {
+          "name": "Caza de Baalbek",
+          "lat": 34.09822,
+          "lon": 36.27157
+        }
+      ]
+    },
+    {
+      "name": "Beirut Governorate",
+      "stateCode": "BA",
+      "lat": 33.8886106,
+      "lon": 35.4954772,
+      "cities": [
+        {
+          "name": "Beirut",
+          "lat": 33.89332,
+          "lon": 35.50157
+        },
+        {
+          "name": "Ra’s Bayrūt",
+          "lat": 33.9,
+          "lon": 35.48333
+        }
+      ]
+    },
+    {
+      "name": "Beqaa Governorate",
+      "stateCode": "BI",
+      "lat": 33.8462662,
+      "lon": 35.9019489,
+      "cities": [
+        {
+          "name": "Aanjar",
+          "lat": 33.72778,
+          "lon": 35.93111
+        },
+        {
+          "name": "Zahlé",
+          "lat": 33.84675,
+          "lon": 35.90203
+        }
+      ]
+    },
+    {
+      "name": "Mount Lebanon Governorate",
+      "stateCode": "JL",
+      "lat": 33.8100858,
+      "lon": 35.5973139,
+      "cities": [
+        {
+          "name": "Baabda",
+          "lat": 33.83389,
+          "lon": 35.54417
+        },
+        {
+          "name": "Bhamdoun",
+          "lat": 33.795,
+          "lon": 35.65111
+        },
+        {
+          "name": "Bhamdoûn el Mhatta",
+          "lat": 33.80861,
+          "lon": 35.65972
+        },
+        {
+          "name": "Caza de Baabda",
+          "lat": 33.84592,
+          "lon": 35.66791
+        },
+        {
+          "name": "Jbaïl",
+          "lat": 34.12111,
+          "lon": 35.64806
+        },
+        {
+          "name": "Jounieh",
+          "lat": 33.98083,
+          "lon": 35.61778
+        }
+      ]
+    },
+    {
+      "name": "Nabatieh Governorate",
+      "stateCode": "NA",
+      "lat": 33.3771693,
+      "lon": 35.4838293,
+      "cities": [
+        {
+          "name": "Ain Ebel",
+          "lat": 33.11023,
+          "lon": 35.40251
+        },
+        {
+          "name": "Caza de Bent Jbaïl",
+          "lat": 33.15964,
+          "lon": 35.41137
+        },
+        {
+          "name": "Caza de Nabatîyé",
+          "lat": 33.39435,
+          "lon": 35.44483
+        },
+        {
+          "name": "Habboûch",
+          "lat": 33.40729,
+          "lon": 35.48169
+        },
+        {
+          "name": "Marjayoûn",
+          "lat": 33.36028,
+          "lon": 35.59111
+        },
+        {
+          "name": "Nabatîyé et Tahta",
+          "lat": 33.37889,
+          "lon": 35.48389
+        }
+      ]
+    },
+    {
+      "name": "North Governorate",
+      "stateCode": "AS",
+      "lat": 34.4380625,
+      "lon": 35.8308233,
+      "cities": [
+        {
+          "name": "Batroûn",
+          "lat": 34.25528,
+          "lon": 35.65806
+        },
+        {
+          "name": "Bcharré",
+          "lat": 34.25083,
+          "lon": 36.01056
+        },
+        {
+          "name": "Tripoli",
+          "lat": 34.43352,
+          "lon": 35.84415
+        }
+      ]
+    },
+    {
+      "name": "South Governorate",
+      "stateCode": "JA",
+      "lat": 33.2721479,
+      "lon": 35.2032778,
+      "cities": [
+        {
+          "name": "En Nâqoûra",
+          "lat": 33.11806,
+          "lon": 35.13972
+        },
+        {
+          "name": "Ghazieh",
+          "lat": 33.5175,
+          "lon": 35.36889
+        },
+        {
+          "name": "Sidon",
+          "lat": 33.55751,
+          "lon": 35.37148
+        },
+        {
+          "name": "Tyre",
+          "lat": 33.27333,
+          "lon": 35.19389
+        }
+      ]
+    }
+  ]
+}

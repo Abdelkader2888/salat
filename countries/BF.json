@@ -1,0 +1,881 @@
+{
+  "iso2": "BF",
+  "name": "Burkina Faso",
+  "nativeName": "Burkina Faso",
+  "lat": 13,
+  "lon": -2,
+  "states": [
+    {
+      "name": "Balé Province",
+      "stateCode": "BAL",
+      "lat": 11.7820602,
+      "lon": -3.0175712,
+      "cities": []
+    },
+    {
+      "name": "Bam Province",
+      "stateCode": "BAM",
+      "lat": 13.446133,
+      "lon": -1.5983959,
+      "cities": []
+    },
+    {
+      "name": "Banwa Province",
+      "stateCode": "BAN",
+      "lat": 12.1323053,
+      "lon": -4.1513764,
+      "cities": []
+    },
+    {
+      "name": "Bazèga Province",
+      "stateCode": "BAZ",
+      "lat": 11.9767692,
+      "lon": -1.443469,
+      "cities": []
+    },
+    {
+      "name": "Boucle du Mouhoun Region",
+      "stateCode": "01",
+      "lat": 12.4166,
+      "lon": -3.4195527,
+      "cities": [
+        {
+          "name": "Barani",
+          "lat": 13.1691,
+          "lon": -3.8899
+        },
+        {
+          "name": "Boromo",
+          "lat": 11.74542,
+          "lon": -2.93006
+        },
+        {
+          "name": "Dédougou",
+          "lat": 12.46338,
+          "lon": -3.46075
+        },
+        {
+          "name": "Nouna",
+          "lat": 12.72939,
+          "lon": -3.86305
+        },
+        {
+          "name": "Province de la Kossi",
+          "lat": 12.91667,
+          "lon": -3.83333
+        },
+        {
+          "name": "Province des Balé",
+          "lat": 11.71667,
+          "lon": -3.05
+        },
+        {
+          "name": "Province des Banwa",
+          "lat": 12.16667,
+          "lon": -4.16667
+        },
+        {
+          "name": "Province du Mouhoun",
+          "lat": 12.25,
+          "lon": -3.41667
+        },
+        {
+          "name": "Province du Nayala",
+          "lat": 12.66667,
+          "lon": -3
+        },
+        {
+          "name": "Province du Sourou",
+          "lat": 13.25,
+          "lon": -3
+        },
+        {
+          "name": "Salanso",
+          "lat": 12.17423,
+          "lon": -4.08477
+        },
+        {
+          "name": "Toma",
+          "lat": 12.75844,
+          "lon": -2.89879
+        },
+        {
+          "name": "Tougan",
+          "lat": 13.0725,
+          "lon": -3.0694
+        }
+      ]
+    },
+    {
+      "name": "Bougouriba Province",
+      "stateCode": "BGR",
+      "lat": 10.8722646,
+      "lon": -3.3388917,
+      "cities": []
+    },
+    {
+      "name": "Boulgou",
+      "stateCode": "BLG",
+      "lat": 11.4336766,
+      "lon": -0.3748354,
+      "cities": []
+    },
+    {
+      "name": "Cascades Region",
+      "stateCode": "02",
+      "lat": 10.4072992,
+      "lon": -4.5624426,
+      "cities": [
+        {
+          "name": "Banfora",
+          "lat": 10.63333,
+          "lon": -4.76667
+        },
+        {
+          "name": "Province de la Comoé",
+          "lat": 10.33333,
+          "lon": -4.41667
+        },
+        {
+          "name": "Province de la Léraba",
+          "lat": 10.66667,
+          "lon": -5.2
+        },
+        {
+          "name": "Sindou",
+          "lat": 10.66667,
+          "lon": -5.16667
+        }
+      ]
+    },
+    {
+      "name": "Centre",
+      "stateCode": "03",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Kadiogo Province",
+          "lat": 12.33333,
+          "lon": -1.5
+        },
+        {
+          "name": "Ouagadougou",
+          "lat": 12.36566,
+          "lon": -1.53388
+        }
+      ]
+    },
+    {
+      "name": "Centre-Est Region",
+      "stateCode": "04",
+      "lat": 11.5247674,
+      "lon": -0.1494988,
+      "cities": [
+        {
+          "name": "Garango",
+          "lat": 11.8,
+          "lon": -0.55056
+        },
+        {
+          "name": "Koupéla",
+          "lat": 12.17864,
+          "lon": -0.35103
+        },
+        {
+          "name": "Kouritenga Province",
+          "lat": 12.2,
+          "lon": -0.3
+        },
+        {
+          "name": "Ouargaye",
+          "lat": 11.50202,
+          "lon": 0.05886
+        },
+        {
+          "name": "Province du Boulgou",
+          "lat": 11.5,
+          "lon": -0.41667
+        },
+        {
+          "name": "Province du Koulpélogo",
+          "lat": 11.41667,
+          "lon": 0.16667
+        },
+        {
+          "name": "Tenkodogo",
+          "lat": 11.78,
+          "lon": -0.36972
+        }
+      ]
+    },
+    {
+      "name": "Centre-Nord Region",
+      "stateCode": "05",
+      "lat": 13.1724464,
+      "lon": -0.9056623,
+      "cities": [
+        {
+          "name": "Boulsa",
+          "lat": 12.66664,
+          "lon": -0.57469
+        },
+        {
+          "name": "Kaya",
+          "lat": 13.09167,
+          "lon": -1.08444
+        },
+        {
+          "name": "Kongoussi",
+          "lat": 13.32583,
+          "lon": -1.53472
+        },
+        {
+          "name": "Province du Bam",
+          "lat": 13.46667,
+          "lon": -1.58333
+        },
+        {
+          "name": "Province du Namentenga",
+          "lat": 13.25,
+          "lon": -0.5
+        },
+        {
+          "name": "Province du Sanmatenga",
+          "lat": 13.25,
+          "lon": -1.08333
+        }
+      ]
+    },
+    {
+      "name": "Centre-Ouest Region",
+      "stateCode": "06",
+      "lat": 11.8798466,
+      "lon": -2.302446,
+      "cities": [
+        {
+          "name": "Goulouré",
+          "lat": 12.23484,
+          "lon": -1.93394
+        },
+        {
+          "name": "Kokologo",
+          "lat": 12.19392,
+          "lon": -1.87687
+        },
+        {
+          "name": "Koudougou",
+          "lat": 12.25263,
+          "lon": -2.36272
+        },
+        {
+          "name": "Léo",
+          "lat": 11.10033,
+          "lon": -2.10654
+        },
+        {
+          "name": "Pitmoaga",
+          "lat": 12.24564,
+          "lon": -1.88148
+        },
+        {
+          "name": "Province de la Sissili",
+          "lat": 11.33333,
+          "lon": -2.25
+        },
+        {
+          "name": "Province du Boulkiemdé",
+          "lat": 12.33333,
+          "lon": -2.16667
+        },
+        {
+          "name": "Province du Sanguié",
+          "lat": 12.16667,
+          "lon": -2.66667
+        },
+        {
+          "name": "Province du Ziro",
+          "lat": 11.58333,
+          "lon": -1.91667
+        },
+        {
+          "name": "Réo",
+          "lat": 12.31963,
+          "lon": -2.47094
+        },
+        {
+          "name": "Sapouy",
+          "lat": 11.55444,
+          "lon": -1.77361
+        }
+      ]
+    },
+    {
+      "name": "Centre-Sud Region",
+      "stateCode": "07",
+      "lat": 11.5228911,
+      "lon": -1.0586135,
+      "cities": [
+        {
+          "name": "Bazega Province",
+          "lat": 11.91667,
+          "lon": -1.5
+        },
+        {
+          "name": "Kombissiri",
+          "lat": 12.06884,
+          "lon": -1.33644
+        },
+        {
+          "name": "Manga",
+          "lat": 11.66361,
+          "lon": -1.07306
+        },
+        {
+          "name": "Nahouri Province",
+          "lat": 11.25,
+          "lon": -1.25
+        },
+        {
+          "name": "Pô",
+          "lat": 11.16972,
+          "lon": -1.145
+        },
+        {
+          "name": "Zoundweogo Province",
+          "lat": 11.58333,
+          "lon": -1
+        }
+      ]
+    },
+    {
+      "name": "Comoé Province",
+      "stateCode": "COM",
+      "lat": 10.4072992,
+      "lon": -4.5624426,
+      "cities": []
+    },
+    {
+      "name": "Est Region",
+      "stateCode": "08",
+      "lat": 12.4365526,
+      "lon": 0.9056623,
+      "cities": [
+        {
+          "name": "Bogandé",
+          "lat": 12.9704,
+          "lon": -0.14953
+        },
+        {
+          "name": "Diapaga",
+          "lat": 12.07305,
+          "lon": 1.78838
+        },
+        {
+          "name": "Fada N'gourma",
+          "lat": 12.06157,
+          "lon": 0.35843
+        },
+        {
+          "name": "Gayéri",
+          "lat": 12.64824,
+          "lon": 0.49314
+        },
+        {
+          "name": "Gnagna Province",
+          "lat": 12.9188,
+          "lon": 0.0392
+        },
+        {
+          "name": "Pama",
+          "lat": 11.24972,
+          "lon": 0.7075
+        },
+        {
+          "name": "Province de la Komandjoari",
+          "lat": 12.66667,
+          "lon": 0.66667
+        },
+        {
+          "name": "Province de la Kompienga",
+          "lat": 11.41667,
+          "lon": 0.91667
+        },
+        {
+          "name": "Province de la Tapoa",
+          "lat": 12,
+          "lon": 1.75
+        },
+        {
+          "name": "Province du Gourma",
+          "lat": 12.08333,
+          "lon": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Ganzourgou Province",
+      "stateCode": "GAN",
+      "lat": 12.2537648,
+      "lon": -0.7532809,
+      "cities": []
+    },
+    {
+      "name": "Gnagna Province",
+      "stateCode": "GNA",
+      "lat": 12.8974992,
+      "lon": 0.0746767,
+      "cities": []
+    },
+    {
+      "name": "Gourma Province",
+      "stateCode": "GOU",
+      "lat": 12.1624473,
+      "lon": 0.6773046,
+      "cities": []
+    },
+    {
+      "name": "Hauts-Bassins Region",
+      "stateCode": "09",
+      "lat": 11.4942003,
+      "lon": -4.2333355,
+      "cities": [
+        {
+          "name": "Bobo-Dioulasso",
+          "lat": 11.17715,
+          "lon": -4.2979
+        },
+        {
+          "name": "Houndé",
+          "lat": 11.5,
+          "lon": -3.51667
+        },
+        {
+          "name": "Province du Houet",
+          "lat": 11.33333,
+          "lon": -4.25
+        },
+        {
+          "name": "Province du Kénédougou",
+          "lat": 11.41667,
+          "lon": -5
+        },
+        {
+          "name": "Province du Tuy",
+          "lat": 11.41667,
+          "lon": -3.41667
+        }
+      ]
+    },
+    {
+      "name": "Houet Province",
+      "stateCode": "HOU",
+      "lat": 11.1320447,
+      "lon": -4.2333355,
+      "cities": []
+    },
+    {
+      "name": "Ioba Province",
+      "stateCode": "IOB",
+      "lat": 11.0562034,
+      "lon": -3.0175712,
+      "cities": []
+    },
+    {
+      "name": "Kadiogo Province",
+      "stateCode": "KAD",
+      "lat": 12.3425897,
+      "lon": -1.443469,
+      "cities": []
+    },
+    {
+      "name": "Kénédougou Province",
+      "stateCode": "KEN",
+      "lat": 11.3919395,
+      "lon": -4.976654,
+      "cities": []
+    },
+    {
+      "name": "Komondjari Province",
+      "stateCode": "KMD",
+      "lat": 12.7126527,
+      "lon": 0.6773046,
+      "cities": []
+    },
+    {
+      "name": "Kompienga Province",
+      "stateCode": "KMP",
+      "lat": 11.5238362,
+      "lon": 0.7532809,
+      "cities": []
+    },
+    {
+      "name": "Kossi Province",
+      "stateCode": "KOS",
+      "lat": 12.960458,
+      "lon": -3.9062688,
+      "cities": []
+    },
+    {
+      "name": "Koulpélogo Province",
+      "stateCode": "KOP",
+      "lat": 11.5247674,
+      "lon": 0.1494988,
+      "cities": []
+    },
+    {
+      "name": "Kouritenga Province",
+      "stateCode": "KOT",
+      "lat": 12.1631813,
+      "lon": -0.2244662,
+      "cities": []
+    },
+    {
+      "name": "Kourwéogo Province",
+      "stateCode": "KOW",
+      "lat": 12.7077495,
+      "lon": -1.7538817,
+      "cities": []
+    },
+    {
+      "name": "Léraba Province",
+      "stateCode": "LER",
+      "lat": 10.6648785,
+      "lon": -5.3102505,
+      "cities": []
+    },
+    {
+      "name": "Loroum Province",
+      "stateCode": "LOR",
+      "lat": 13.8129814,
+      "lon": -2.0665197,
+      "cities": []
+    },
+    {
+      "name": "Mouhoun",
+      "stateCode": "MOU",
+      "lat": 12.1432381,
+      "lon": -3.3388917,
+      "cities": []
+    },
+    {
+      "name": "Nahouri Province",
+      "stateCode": "NAO",
+      "lat": 11.2502267,
+      "lon": -1.135302,
+      "cities": []
+    },
+    {
+      "name": "Namentenga Province",
+      "stateCode": "NAM",
+      "lat": 13.0812584,
+      "lon": -0.5257823,
+      "cities": []
+    },
+    {
+      "name": "Nayala Province",
+      "stateCode": "NAY",
+      "lat": 12.6964558,
+      "lon": -3.0175712,
+      "cities": []
+    },
+    {
+      "name": "Nord Region, Burkina Faso",
+      "stateCode": "10",
+      "lat": 13.718252,
+      "lon": -2.302446,
+      "cities": [
+        {
+          "name": "Gourcy",
+          "lat": 13.20776,
+          "lon": -2.35893
+        },
+        {
+          "name": "Ouahigouya",
+          "lat": 13.58278,
+          "lon": -2.42158
+        },
+        {
+          "name": "Province du Loroum",
+          "lat": 13.91667,
+          "lon": -2.16667
+        },
+        {
+          "name": "Province du Passoré",
+          "lat": 12.91667,
+          "lon": -2.16667
+        },
+        {
+          "name": "Province du Yatenga",
+          "lat": 13.58333,
+          "lon": -2.41667
+        },
+        {
+          "name": "Province du Zondoma",
+          "lat": 13.18333,
+          "lon": -2.36667
+        },
+        {
+          "name": "Titao",
+          "lat": 13.76667,
+          "lon": -2.06667
+        },
+        {
+          "name": "Yako",
+          "lat": 12.9591,
+          "lon": -2.26075
+        }
+      ]
+    },
+    {
+      "name": "Noumbiel Province",
+      "stateCode": "NOU",
+      "lat": 9.8440946,
+      "lon": -2.9775558,
+      "cities": []
+    },
+    {
+      "name": "Oubritenga Province",
+      "stateCode": "OUB",
+      "lat": 12.7096087,
+      "lon": -1.443469,
+      "cities": []
+    },
+    {
+      "name": "Oudalan Province",
+      "stateCode": "OUD",
+      "lat": 14.471902,
+      "lon": -0.4502368,
+      "cities": []
+    },
+    {
+      "name": "Passoré Province",
+      "stateCode": "PAS",
+      "lat": 12.8881221,
+      "lon": -2.2236667,
+      "cities": []
+    },
+    {
+      "name": "Plateau-Central Region",
+      "stateCode": "11",
+      "lat": 12.2537648,
+      "lon": -0.7532809,
+      "cities": [
+        {
+          "name": "Boussé",
+          "lat": 12.66121,
+          "lon": -1.89515
+        },
+        {
+          "name": "Oubritenga",
+          "lat": 12.66667,
+          "lon": -1.33333
+        },
+        {
+          "name": "Province du Ganzourgou",
+          "lat": 12.26667,
+          "lon": -0.76667
+        },
+        {
+          "name": "Province du Kourwéogo",
+          "lat": 12.58333,
+          "lon": -1.76667
+        },
+        {
+          "name": "Ziniaré",
+          "lat": 12.58186,
+          "lon": -1.2971
+        },
+        {
+          "name": "Zorgo",
+          "lat": 12.24922,
+          "lon": -0.61527
+        }
+      ]
+    },
+    {
+      "name": "Poni Province",
+      "stateCode": "PON",
+      "lat": 10.3325996,
+      "lon": -3.3388917,
+      "cities": []
+    },
+    {
+      "name": "Sahel Region",
+      "stateCode": "12",
+      "lat": 14.1000865,
+      "lon": -0.1494988,
+      "cities": [
+        {
+          "name": "Djibo",
+          "lat": 14.0994,
+          "lon": -1.62554
+        },
+        {
+          "name": "Dori",
+          "lat": 14.0354,
+          "lon": -0.0345
+        },
+        {
+          "name": "Gorom-Gorom",
+          "lat": 14.4429,
+          "lon": -0.23468
+        },
+        {
+          "name": "Province de l’Oudalan",
+          "lat": 14.66667,
+          "lon": -0.33333
+        },
+        {
+          "name": "Province du Séno",
+          "lat": 13.964,
+          "lon": 0.012
+        },
+        {
+          "name": "Province du Soum",
+          "lat": 14.33333,
+          "lon": -1.25
+        },
+        {
+          "name": "Province du Yagha",
+          "lat": 13.41667,
+          "lon": 0.58333
+        }
+      ]
+    },
+    {
+      "name": "Sanguié Province",
+      "stateCode": "SNG",
+      "lat": 12.1501861,
+      "lon": -2.6983868,
+      "cities": []
+    },
+    {
+      "name": "Sanmatenga Province",
+      "stateCode": "SMT",
+      "lat": 13.3565304,
+      "lon": -1.0586135,
+      "cities": []
+    },
+    {
+      "name": "Séno Province",
+      "stateCode": "SEN",
+      "lat": 14.0072234,
+      "lon": -0.0746767,
+      "cities": []
+    },
+    {
+      "name": "Sissili Province",
+      "stateCode": "SIS",
+      "lat": 11.2441219,
+      "lon": -2.2236667,
+      "cities": []
+    },
+    {
+      "name": "Soum Province",
+      "stateCode": "SOM",
+      "lat": 14.0962841,
+      "lon": -1.366216,
+      "cities": []
+    },
+    {
+      "name": "Sourou Province",
+      "stateCode": "SOR",
+      "lat": 13.341803,
+      "lon": -2.9375739,
+      "cities": []
+    },
+    {
+      "name": "Sud-Ouest Region",
+      "stateCode": "13",
+      "lat": 10.4231493,
+      "lon": -3.2583626,
+      "cities": [
+        {
+          "name": "Batié",
+          "lat": 9.88333,
+          "lon": -2.91667
+        },
+        {
+          "name": "Dano",
+          "lat": 11.1464,
+          "lon": -3.05784
+        },
+        {
+          "name": "Diébougou",
+          "lat": 10.96209,
+          "lon": -3.24967
+        },
+        {
+          "name": "Province de la Bougouriba",
+          "lat": 10.83333,
+          "lon": -3.41667
+        },
+        {
+          "name": "Province du Ioba",
+          "lat": 11.08333,
+          "lon": -3.08333
+        },
+        {
+          "name": "Province du Noumbièl",
+          "lat": 9.83333,
+          "lon": -3
+        },
+        {
+          "name": "Province du Poni",
+          "lat": 10.25,
+          "lon": -3.41667
+        }
+      ]
+    },
+    {
+      "name": "Tapoa Province",
+      "stateCode": "TAP",
+      "lat": 12.2497072,
+      "lon": 1.6760691,
+      "cities": []
+    },
+    {
+      "name": "Tuy Province",
+      "stateCode": "TUI",
+      "lat": 38.888684,
+      "lon": -77.004719,
+      "cities": []
+    },
+    {
+      "name": "Yagha Province",
+      "stateCode": "YAG",
+      "lat": 13.3576157,
+      "lon": 0.7532809,
+      "cities": []
+    },
+    {
+      "name": "Yatenga Province",
+      "stateCode": "YAT",
+      "lat": 13.6249344,
+      "lon": -2.3813621,
+      "cities": []
+    },
+    {
+      "name": "Ziro Province",
+      "stateCode": "ZIR",
+      "lat": 11.6094995,
+      "lon": -1.9099238,
+      "cities": []
+    },
+    {
+      "name": "Zondoma Province",
+      "stateCode": "ZON",
+      "lat": 13.1165926,
+      "lon": -2.4208713,
+      "cities": []
+    },
+    {
+      "name": "Zoundwéogo Province",
+      "stateCode": "ZOU",
+      "lat": 11.6141174,
+      "lon": -0.9820668,
+      "cities": []
+    }
+  ]
+}

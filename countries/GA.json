@@ -1,0 +1,221 @@
+{
+  "iso2": "GA",
+  "name": "Gabon",
+  "nativeName": "Gabon",
+  "lat": -1,
+  "lon": 11.75,
+  "states": [
+    {
+      "name": "Estuaire Province",
+      "stateCode": "1",
+      "lat": 0.4432864,
+      "lon": 10.0807298,
+      "cities": [
+        {
+          "name": "Cocobeach",
+          "lat": 1.00019,
+          "lon": 9.58229
+        },
+        {
+          "name": "Libreville",
+          "lat": 0.39241,
+          "lon": 9.45356
+        },
+        {
+          "name": "Ntoum",
+          "lat": 0.39051,
+          "lon": 9.76096
+        }
+      ]
+    },
+    {
+      "name": "Haut-Ogooué Province",
+      "stateCode": "2",
+      "lat": -1.4762544,
+      "lon": 13.914399,
+      "cities": [
+        {
+          "name": "Franceville",
+          "lat": -1.63333,
+          "lon": 13.58357
+        },
+        {
+          "name": "Lékoni",
+          "lat": -1.58431,
+          "lon": 14.25905
+        },
+        {
+          "name": "Moanda",
+          "lat": -1.56652,
+          "lon": 13.1987
+        },
+        {
+          "name": "Mounana",
+          "lat": -1.4085,
+          "lon": 13.15857
+        },
+        {
+          "name": "Okondja",
+          "lat": -0.65487,
+          "lon": 13.67533
+        }
+      ]
+    },
+    {
+      "name": "Moyen-Ogooué Province",
+      "stateCode": "3",
+      "lat": -0.442784,
+      "lon": 10.439656,
+      "cities": [
+        {
+          "name": "Lambaréné",
+          "lat": -0.7001,
+          "lon": 10.24055
+        },
+        {
+          "name": "Ndjolé",
+          "lat": -0.17827,
+          "lon": 10.76488
+        }
+      ]
+    },
+    {
+      "name": "Ngounié Province",
+      "stateCode": "4",
+      "lat": -1.4930303,
+      "lon": 10.9807003,
+      "cities": [
+        {
+          "name": "Fougamou",
+          "lat": -1.21544,
+          "lon": 10.58378
+        },
+        {
+          "name": "Mbigou",
+          "lat": -1.90046,
+          "lon": 11.906
+        },
+        {
+          "name": "Mimongo",
+          "lat": -1.61952,
+          "lon": 11.60675
+        },
+        {
+          "name": "Mouila",
+          "lat": -1.86846,
+          "lon": 11.05594
+        },
+        {
+          "name": "Ndendé",
+          "lat": -2.40077,
+          "lon": 11.35813
+        }
+      ]
+    },
+    {
+      "name": "Nyanga Province",
+      "stateCode": "5",
+      "lat": -2.8821033,
+      "lon": 11.1617356,
+      "cities": [
+        {
+          "name": "Mayumba",
+          "lat": -3.43198,
+          "lon": 10.6554
+        },
+        {
+          "name": "Tchibanga",
+          "lat": -2.93323,
+          "lon": 10.98178
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Ivindo Province",
+      "stateCode": "6",
+      "lat": 0.8818311,
+      "lon": 13.1740348,
+      "cities": [
+        {
+          "name": "Booué",
+          "lat": -0.09207,
+          "lon": 11.93846
+        },
+        {
+          "name": "Makokou",
+          "lat": 0.57381,
+          "lon": 12.86419
+        },
+        {
+          "name": "Zadie",
+          "lat": 0.92582,
+          "lon": 13.90813
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Lolo Province",
+      "stateCode": "7",
+      "lat": -0.8844093,
+      "lon": 12.4380581,
+      "cities": [
+        {
+          "name": "Koulamoutou",
+          "lat": -1.13667,
+          "lon": 12.46399
+        },
+        {
+          "name": "Lastoursville",
+          "lat": -0.81742,
+          "lon": 12.70818
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Maritime Province",
+      "stateCode": "8",
+      "lat": -1.3465975,
+      "lon": 9.7232673,
+      "cities": [
+        {
+          "name": "Gamba",
+          "lat": -2.65,
+          "lon": 10
+        },
+        {
+          "name": "Omboué",
+          "lat": -1.57464,
+          "lon": 9.26184
+        },
+        {
+          "name": "Port-Gentil",
+          "lat": -0.71933,
+          "lon": 8.78151
+        }
+      ]
+    },
+    {
+      "name": "Woleu-Ntem Province",
+      "stateCode": "9",
+      "lat": 2.2989827,
+      "lon": 11.4466914,
+      "cities": [
+        {
+          "name": "Bitam",
+          "lat": 2.07597,
+          "lon": 11.50065
+        },
+        {
+          "name": "Mitzic",
+          "lat": 0.78205,
+          "lon": 11.54904
+        },
+        {
+          "name": "Oyem",
+          "lat": 1.5995,
+          "lon": 11.57933
+        }
+      ]
+    }
+  ]
+}

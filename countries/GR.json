@@ -1,0 +1,5414 @@
+{
+  "iso2": "GR",
+  "name": "Greece",
+  "nativeName": "Greece",
+  "lat": 39,
+  "lon": 22,
+  "states": [
+    {
+      "name": "Achaea Regional Unit",
+      "stateCode": "13",
+      "lat": 38.1158729,
+      "lon": 21.9522491,
+      "cities": []
+    },
+    {
+      "name": "Aetolia-Acarnania Regional Unit",
+      "stateCode": "01",
+      "lat": 38.7084386,
+      "lon": 21.3798928,
+      "cities": []
+    },
+    {
+      "name": "Arcadia Prefecture",
+      "stateCode": "12",
+      "lat": 37.5557825,
+      "lon": 22.3337769,
+      "cities": []
+    },
+    {
+      "name": "Argolis Regional Unit",
+      "stateCode": "11",
+      "lat": 0,
+      "lon": 0,
+      "cities": []
+    },
+    {
+      "name": "Attica Region",
+      "stateCode": "I",
+      "lat": 38.0457568,
+      "lon": 23.8584737,
+      "cities": [
+        {
+          "name": "Acharnés",
+          "lat": 38.08333,
+          "lon": 23.73333
+        },
+        {
+          "name": "Aegina",
+          "lat": 37.74667,
+          "lon": 23.4275
+        },
+        {
+          "name": "Afidnés",
+          "lat": 38.20332,
+          "lon": 23.83982
+        },
+        {
+          "name": "Aghios Panteleímon",
+          "lat": 38.11643,
+          "lon": 23.98182
+        },
+        {
+          "name": "Agía Marína",
+          "lat": 37.82036,
+          "lon": 23.84424
+        },
+        {
+          "name": "Agía Paraskeví",
+          "lat": 38.01667,
+          "lon": 23.83333
+        },
+        {
+          "name": "Agía Varvára",
+          "lat": 37.98938,
+          "lon": 23.66011
+        },
+        {
+          "name": "Ágioi Anárgyroi",
+          "lat": 38.03013,
+          "lon": 23.72379
+        },
+        {
+          "name": "Agios Dimitrios",
+          "lat": 37.93333,
+          "lon": 23.73333
+        },
+        {
+          "name": "Agios Dimítrios Kropiás",
+          "lat": 37.80612,
+          "lon": 23.85793
+        },
+        {
+          "name": "Agios Ioannis Rentis",
+          "lat": 37.96491,
+          "lon": 23.66511
+        },
+        {
+          "name": "Ágios Stéfanos",
+          "lat": 38.14657,
+          "lon": 23.85608
+        },
+        {
+          "name": "Aiánteio",
+          "lat": 37.92135,
+          "lon": 23.45877
+        },
+        {
+          "name": "Aigáleo",
+          "lat": 37.98333,
+          "lon": 23.68333
+        },
+        {
+          "name": "Álimos",
+          "lat": 37.91033,
+          "lon": 23.72361
+        },
+        {
+          "name": "Ampelákia",
+          "lat": 37.95055,
+          "lon": 23.52803
+        },
+        {
+          "name": "Anávyssos",
+          "lat": 37.73414,
+          "lon": 23.94389
+        },
+        {
+          "name": "Áno Liósia",
+          "lat": 38.08333,
+          "lon": 23.7
+        },
+        {
+          "name": "Anoixi",
+          "lat": 38.13267,
+          "lon": 23.85874
+        },
+        {
+          "name": "Anthoúsa",
+          "lat": 38.02544,
+          "lon": 23.87617
+        },
+        {
+          "name": "Argithéa",
+          "lat": 37.97506,
+          "lon": 23.88556
+        },
+        {
+          "name": "Argyroúpoli",
+          "lat": 37.90594,
+          "lon": 23.75035
+        },
+        {
+          "name": "Artémida",
+          "lat": 37.96727,
+          "lon": 23.99684
+        },
+        {
+          "name": "Asprópyrgos",
+          "lat": 38.06134,
+          "lon": 23.58971
+        },
+        {
+          "name": "Athens",
+          "lat": 37.98376,
+          "lon": 23.72784
+        },
+        {
+          "name": "Avlónas",
+          "lat": 38.25149,
+          "lon": 23.69554
+        },
+        {
+          "name": "Áyioi Apóstoloi",
+          "lat": 38.29169,
+          "lon": 23.91011
+        },
+        {
+          "name": "Chaïdári",
+          "lat": 38.01135,
+          "lon": 23.66597
+        },
+        {
+          "name": "Cholargós",
+          "lat": 38,
+          "lon": 23.8
+        },
+        {
+          "name": "Dhafní",
+          "lat": 37.95002,
+          "lon": 23.73437
+        },
+        {
+          "name": "Dhráfi",
+          "lat": 38.02375,
+          "lon": 23.90788
+        },
+        {
+          "name": "Dióni",
+          "lat": 38.02328,
+          "lon": 23.93286
+        },
+        {
+          "name": "Diónysos",
+          "lat": 38.10458,
+          "lon": 23.87938
+        },
+        {
+          "name": "Drapetsóna",
+          "lat": 37.94988,
+          "lon": 23.62309
+        },
+        {
+          "name": "Drosiá",
+          "lat": 38.11977,
+          "lon": 23.86428
+        },
+        {
+          "name": "Ekáli",
+          "lat": 38.11035,
+          "lon": 23.83505
+        },
+        {
+          "name": "Elefsína",
+          "lat": 38.04135,
+          "lon": 23.54295
+        },
+        {
+          "name": "Ellinikó",
+          "lat": 37.89013,
+          "lon": 23.74406
+        },
+        {
+          "name": "Erythrés",
+          "lat": 38.21741,
+          "lon": 23.32234
+        },
+        {
+          "name": "Filothéi",
+          "lat": 38.02524,
+          "lon": 23.78257
+        },
+        {
+          "name": "Fylí",
+          "lat": 38.10235,
+          "lon": 23.66901
+        },
+        {
+          "name": "Galatás",
+          "lat": 37.49618,
+          "lon": 23.44886
+        },
+        {
+          "name": "Galátsi",
+          "lat": 38.01667,
+          "lon": 23.75
+        },
+        {
+          "name": "Gérakas",
+          "lat": 38.02277,
+          "lon": 23.8576
+        },
+        {
+          "name": "Glyfáda",
+          "lat": 37.86289,
+          "lon": 23.75802
+        },
+        {
+          "name": "Grammatikó",
+          "lat": 38.20251,
+          "lon": 23.96504
+        },
+        {
+          "name": "Ílion",
+          "lat": 38.03333,
+          "lon": 23.7
+        },
+        {
+          "name": "Ilioúpoli",
+          "lat": 37.93149,
+          "lon": 23.76779
+        },
+        {
+          "name": "Irákleio",
+          "lat": 38.05282,
+          "lon": 23.76523
+        },
+        {
+          "name": "Kaisarianí",
+          "lat": 37.9634,
+          "lon": 23.76523
+        },
+        {
+          "name": "Kálamos",
+          "lat": 38.28447,
+          "lon": 23.86308
+        },
+        {
+          "name": "Kallithéa",
+          "lat": 37.95,
+          "lon": 23.7
+        },
+        {
+          "name": "Kalývia Thorikoú",
+          "lat": 37.83894,
+          "lon": 23.92505
+        },
+        {
+          "name": "Kamaterón",
+          "lat": 38.05586,
+          "lon": 23.70515
+        },
+        {
+          "name": "Kapandríti",
+          "lat": 38.21579,
+          "lon": 23.87938
+        },
+        {
+          "name": "Karellás",
+          "lat": 37.93445,
+          "lon": 23.86484
+        },
+        {
+          "name": "Káto Soúlion",
+          "lat": 38.16803,
+          "lon": 24.01628
+        },
+        {
+          "name": "Keratéa",
+          "lat": 37.80585,
+          "lon": 23.9774
+        },
+        {
+          "name": "Keratsíni",
+          "lat": 37.9625,
+          "lon": 23.61972
+        },
+        {
+          "name": "Khalándrion",
+          "lat": 38.02369,
+          "lon": 23.80068
+        },
+        {
+          "name": "Khalkoútsion",
+          "lat": 38.33263,
+          "lon": 23.73188
+        },
+        {
+          "name": "Kifisiá",
+          "lat": 38.07438,
+          "lon": 23.81106
+        },
+        {
+          "name": "Kinéta",
+          "lat": 37.96843,
+          "lon": 23.21351
+        },
+        {
+          "name": "Kipséli",
+          "lat": 38.00288,
+          "lon": 23.73755
+        },
+        {
+          "name": "Kítsi",
+          "lat": 37.85181,
+          "lon": 23.84068
+        },
+        {
+          "name": "Koropí",
+          "lat": 37.89886,
+          "lon": 23.87181
+        },
+        {
+          "name": "Korydallós",
+          "lat": 37.98468,
+          "lon": 23.64711
+        },
+        {
+          "name": "Kouvarás",
+          "lat": 37.82711,
+          "lon": 23.96715
+        },
+        {
+          "name": "Kryonéri",
+          "lat": 38.13712,
+          "lon": 23.83055
+        },
+        {
+          "name": "Kypséli",
+          "lat": 37.76021,
+          "lon": 23.45448
+        },
+        {
+          "name": "Kýthira",
+          "lat": 36.14955,
+          "lon": 22.98979
+        },
+        {
+          "name": "Lávrio",
+          "lat": 37.71445,
+          "lon": 24.05647
+        },
+        {
+          "name": "Leondárion",
+          "lat": 37.987,
+          "lon": 23.85518
+        },
+        {
+          "name": "Limín Mesoyaías",
+          "lat": 37.89108,
+          "lon": 24.00307
+        },
+        {
+          "name": "Lykóvrysi",
+          "lat": 38.06933,
+          "lon": 23.78223
+        },
+        {
+          "name": "Magoúla",
+          "lat": 38.07989,
+          "lon": 23.52108
+        },
+        {
+          "name": "Mándra",
+          "lat": 38.06667,
+          "lon": 23.5
+        },
+        {
+          "name": "Marathónas",
+          "lat": 38.15317,
+          "lon": 23.96278
+        },
+        {
+          "name": "Markópoulo",
+          "lat": 37.88333,
+          "lon": 23.93333
+        },
+        {
+          "name": "Markópoulo Oropoú",
+          "lat": 38.2898,
+          "lon": 23.82475
+        },
+        {
+          "name": "Maroúsi",
+          "lat": 38.05,
+          "lon": 23.8
+        },
+        {
+          "name": "Megalochóri",
+          "lat": 37.71051,
+          "lon": 23.34659
+        },
+        {
+          "name": "Mégara",
+          "lat": 37.99471,
+          "lon": 23.34324
+        },
+        {
+          "name": "Melíssia",
+          "lat": 38.05,
+          "lon": 23.83333
+        },
+        {
+          "name": "Metamórfosi",
+          "lat": 38.06576,
+          "lon": 23.76356
+        },
+        {
+          "name": "Moskháton",
+          "lat": 37.94789,
+          "lon": 23.6788
+        },
+        {
+          "name": "Néa Chalkidóna",
+          "lat": 38.0271,
+          "lon": 23.73051
+        },
+        {
+          "name": "Néa Erythraía",
+          "lat": 38.0927,
+          "lon": 23.82223
+        },
+        {
+          "name": "Néa Filadélfeia",
+          "lat": 38.03491,
+          "lon": 23.73811
+        },
+        {
+          "name": "Néa Ionía",
+          "lat": 38.0357,
+          "lon": 23.75733
+        },
+        {
+          "name": "Néa Mákri",
+          "lat": 38.08733,
+          "lon": 23.97642
+        },
+        {
+          "name": "Néa Palátia",
+          "lat": 38.31942,
+          "lon": 23.79649
+        },
+        {
+          "name": "Néa Pentéli",
+          "lat": 38.06059,
+          "lon": 23.85926
+        },
+        {
+          "name": "Néa Péramos",
+          "lat": 38.00647,
+          "lon": 23.42348
+        },
+        {
+          "name": "Néa Smýrni",
+          "lat": 37.94504,
+          "lon": 23.71416
+        },
+        {
+          "name": "Néo Psychikó",
+          "lat": 38.00624,
+          "lon": 23.78373
+        },
+        {
+          "name": "Neos Voutzás",
+          "lat": 38.04312,
+          "lon": 23.97749
+        },
+        {
+          "name": "Níkaia",
+          "lat": 37.96667,
+          "lon": 23.65
+        },
+        {
+          "name": "Oropós",
+          "lat": 38.30326,
+          "lon": 23.75549
+        },
+        {
+          "name": "Paianía",
+          "lat": 37.95527,
+          "lon": 23.85443
+        },
+        {
+          "name": "Palaiá Fókaia",
+          "lat": 37.71998,
+          "lon": 23.94792
+        },
+        {
+          "name": "Palaió Fáliro",
+          "lat": 37.92812,
+          "lon": 23.70105
+        },
+        {
+          "name": "Pallíni",
+          "lat": 38.00514,
+          "lon": 23.88302
+        },
+        {
+          "name": "Papágou",
+          "lat": 37.98642,
+          "lon": 23.79347
+        },
+        {
+          "name": "Péfki",
+          "lat": 38.06019,
+          "lon": 23.79264
+        },
+        {
+          "name": "Pentéli",
+          "lat": 38.05,
+          "lon": 23.86667
+        },
+        {
+          "name": "Pérama",
+          "lat": 37.96775,
+          "lon": 23.5721
+        },
+        {
+          "name": "Peristéri",
+          "lat": 38.01539,
+          "lon": 23.69187
+        },
+        {
+          "name": "Petroúpolis",
+          "lat": 38.04187,
+          "lon": 23.68494
+        },
+        {
+          "name": "Pikérmi",
+          "lat": 38.00161,
+          "lon": 23.94075
+        },
+        {
+          "name": "Piraeus",
+          "lat": 37.94203,
+          "lon": 23.64619
+        },
+        {
+          "name": "Polydéndri",
+          "lat": 38.216,
+          "lon": 23.86806
+        },
+        {
+          "name": "Póros",
+          "lat": 37.49944,
+          "lon": 23.45361
+        },
+        {
+          "name": "Psychikó",
+          "lat": 38.01324,
+          "lon": 23.77223
+        },
+        {
+          "name": "Rafína",
+          "lat": 38.01812,
+          "lon": 24.00599
+        },
+        {
+          "name": "Rodópoli",
+          "lat": 38.11669,
+          "lon": 23.87572
+        },
+        {
+          "name": "Salamína",
+          "lat": 37.96427,
+          "lon": 23.49649
+        },
+        {
+          "name": "Saronída",
+          "lat": 37.74809,
+          "lon": 23.91059
+        },
+        {
+          "name": "Selínia",
+          "lat": 37.9332,
+          "lon": 23.53147
+        },
+        {
+          "name": "Skála Oropoú",
+          "lat": 38.31964,
+          "lon": 23.78763
+        },
+        {
+          "name": "Skarmagkás",
+          "lat": 38.01133,
+          "lon": 23.60303
+        },
+        {
+          "name": "Spáta",
+          "lat": 37.96163,
+          "lon": 23.91514
+        },
+        {
+          "name": "Spétses",
+          "lat": 37.26191,
+          "lon": 23.15943
+        },
+        {
+          "name": "Stamáta",
+          "lat": 38.12546,
+          "lon": 23.88038
+        },
+        {
+          "name": "Távros",
+          "lat": 37.97064,
+          "lon": 23.69043
+        },
+        {
+          "name": "Thrakomakedónes",
+          "lat": 38.12964,
+          "lon": 23.75751
+        },
+        {
+          "name": "Vári",
+          "lat": 37.8332,
+          "lon": 23.80311
+        },
+        {
+          "name": "Varnávas",
+          "lat": 38.22358,
+          "lon": 23.92307
+        },
+        {
+          "name": "Varybóbi",
+          "lat": 38.12723,
+          "lon": 23.78729
+        },
+        {
+          "name": "Vathý",
+          "lat": 37.7642,
+          "lon": 23.48011
+        },
+        {
+          "name": "Vília",
+          "lat": 38.16716,
+          "lon": 23.33659
+        },
+        {
+          "name": "Vlycháda",
+          "lat": 38.02734,
+          "lon": 23.43663
+        },
+        {
+          "name": "Voúla",
+          "lat": 37.84221,
+          "lon": 23.77651
+        },
+        {
+          "name": "Vouliagméni",
+          "lat": 37.81423,
+          "lon": 23.77892
+        },
+        {
+          "name": "Vraná",
+          "lat": 38.12497,
+          "lon": 23.95198
+        },
+        {
+          "name": "Vrilissia",
+          "lat": 38.03381,
+          "lon": 23.82962
+        },
+        {
+          "name": "Výronas",
+          "lat": 37.96105,
+          "lon": 23.753
+        },
+        {
+          "name": "Ýdra",
+          "lat": 37.34976,
+          "lon": 23.4656
+        },
+        {
+          "name": "Ymittos",
+          "lat": 37.95342,
+          "lon": 23.74897
+        },
+        {
+          "name": "Zefyri",
+          "lat": 38.06647,
+          "lon": 23.71701
+        },
+        {
+          "name": "Zográfos",
+          "lat": 37.97574,
+          "lon": 23.76911
+        }
+      ]
+    },
+    {
+      "name": "Boeotia Regional Unit",
+      "stateCode": "03",
+      "lat": 38.3663664,
+      "lon": 23.0965064,
+      "cities": []
+    },
+    {
+      "name": "Central Greece Region",
+      "stateCode": "H",
+      "lat": 38.6043984,
+      "lon": 22.7152131,
+      "cities": [
+        {
+          "name": "Afrátion",
+          "lat": 38.45212,
+          "lon": 23.68775
+        },
+        {
+          "name": "Agía Triáda",
+          "lat": 38.35505,
+          "lon": 22.90881
+        },
+        {
+          "name": "Ágios Geórgios",
+          "lat": 38.39343,
+          "lon": 22.93189
+        },
+        {
+          "name": "Aidipsós",
+          "lat": 38.87924,
+          "lon": 23.04691
+        },
+        {
+          "name": "Akraifnía",
+          "lat": 38.45663,
+          "lon": 23.22093
+        },
+        {
+          "name": "Alíartos",
+          "lat": 38.36667,
+          "lon": 23.1
+        },
+        {
+          "name": "Alivéri",
+          "lat": 38.41667,
+          "lon": 24.03333
+        },
+        {
+          "name": "Amárynthos",
+          "lat": 38.393,
+          "lon": 23.88492
+        },
+        {
+          "name": "Amfíkleia",
+          "lat": 38.63912,
+          "lon": 22.59171
+        },
+        {
+          "name": "Ámfissa",
+          "lat": 38.52813,
+          "lon": 22.37713
+        },
+        {
+          "name": "Anthíli",
+          "lat": 38.85,
+          "lon": 22.47906
+        },
+        {
+          "name": "Antikyra",
+          "lat": 38.38333,
+          "lon": 22.63333
+        },
+        {
+          "name": "Aráchova",
+          "lat": 38.47958,
+          "lon": 22.5835
+        },
+        {
+          "name": "Árma",
+          "lat": 38.35121,
+          "lon": 23.48599
+        },
+        {
+          "name": "Asopía",
+          "lat": 38.29882,
+          "lon": 23.50189
+        },
+        {
+          "name": "Atalánti",
+          "lat": 38.65111,
+          "lon": 22.99917
+        },
+        {
+          "name": "Áyios Konstandínos",
+          "lat": 38.75612,
+          "lon": 22.85757
+        },
+        {
+          "name": "Áyios Nikólaos",
+          "lat": 38.42051,
+          "lon": 23.64772
+        },
+        {
+          "name": "Áyios Thomás",
+          "lat": 38.27717,
+          "lon": 23.58906
+        },
+        {
+          "name": "Chairóneia",
+          "lat": 38.49551,
+          "lon": 22.84424
+        },
+        {
+          "name": "Chalkída",
+          "lat": 38.46354,
+          "lon": 23.60284
+        },
+        {
+          "name": "Delphi",
+          "lat": 38.47942,
+          "lon": 22.49357
+        },
+        {
+          "name": "Dhrosiá",
+          "lat": 38.48413,
+          "lon": 23.54774
+        },
+        {
+          "name": "Dílesi",
+          "lat": 38.33762,
+          "lon": 23.67077
+        },
+        {
+          "name": "Dístomo",
+          "lat": 38.42892,
+          "lon": 22.66728
+        },
+        {
+          "name": "Domokós",
+          "lat": 39.12722,
+          "lon": 22.30028
+        },
+        {
+          "name": "Domvraína",
+          "lat": 38.253,
+          "lon": 22.98211
+        },
+        {
+          "name": "Eláteia",
+          "lat": 38.6277,
+          "lon": 22.76492
+        },
+        {
+          "name": "Erétria",
+          "lat": 38.40097,
+          "lon": 23.8022
+        },
+        {
+          "name": "Fáros",
+          "lat": 38.39959,
+          "lon": 23.62275
+        },
+        {
+          "name": "Fílla",
+          "lat": 38.44177,
+          "lon": 23.68306
+        },
+        {
+          "name": "Galaxídhion",
+          "lat": 38.38067,
+          "lon": 22.38001
+        },
+        {
+          "name": "Istiaía",
+          "lat": 38.9552,
+          "lon": 23.1521
+        },
+        {
+          "name": "Itéa",
+          "lat": 38.43201,
+          "lon": 22.42443
+        },
+        {
+          "name": "Kainoúryion",
+          "lat": 38.79283,
+          "lon": 22.7247
+        },
+        {
+          "name": "Kaména Voúrla",
+          "lat": 38.77844,
+          "lon": 22.78573
+        },
+        {
+          "name": "Kaparéllion",
+          "lat": 38.23697,
+          "lon": 23.21411
+        },
+        {
+          "name": "Karpenísi",
+          "lat": 38.91218,
+          "lon": 21.79836
+        },
+        {
+          "name": "Kárystos",
+          "lat": 38.01333,
+          "lon": 24.41611
+        },
+        {
+          "name": "Kastélla",
+          "lat": 38.57048,
+          "lon": 23.63131
+        },
+        {
+          "name": "Káto Tithoréa",
+          "lat": 38.60751,
+          "lon": 22.71348
+        },
+        {
+          "name": "Kerasochóri",
+          "lat": 39.00556,
+          "lon": 21.63778
+        },
+        {
+          "name": "Kírra",
+          "lat": 38.42944,
+          "lon": 22.44443
+        },
+        {
+          "name": "Kými",
+          "lat": 38.63477,
+          "lon": 24.10287
+        },
+        {
+          "name": "Kyriáki",
+          "lat": 38.35365,
+          "lon": 22.78841
+        },
+        {
+          "name": "Lamía",
+          "lat": 38.9,
+          "lon": 22.43333
+        },
+        {
+          "name": "Lianokládhion",
+          "lat": 38.91655,
+          "lon": 22.30336
+        },
+        {
+          "name": "Lidoríki",
+          "lat": 38.52389,
+          "lon": 22.19972
+        },
+        {
+          "name": "Límni",
+          "lat": 38.76667,
+          "lon": 23.31667
+        },
+        {
+          "name": "Livadeiá",
+          "lat": 38.43616,
+          "lon": 22.87665
+        },
+        {
+          "name": "Livanátes",
+          "lat": 38.711,
+          "lon": 23.0503
+        },
+        {
+          "name": "Loukísia",
+          "lat": 38.47946,
+          "lon": 23.44796
+        },
+        {
+          "name": "Loutrá Aidhipsoú",
+          "lat": 38.85695,
+          "lon": 23.04739
+        },
+        {
+          "name": "Magoúla",
+          "lat": 38.41178,
+          "lon": 23.82128
+        },
+        {
+          "name": "Makrakómi",
+          "lat": 38.9415,
+          "lon": 22.11535
+        },
+        {
+          "name": "Malakónta",
+          "lat": 38.4,
+          "lon": 23.76667
+        },
+        {
+          "name": "Malesína",
+          "lat": 38.62225,
+          "lon": 23.2337
+        },
+        {
+          "name": "Mantoúdi",
+          "lat": 38.79808,
+          "lon": 23.47967
+        },
+        {
+          "name": "Marmárion",
+          "lat": 38.04839,
+          "lon": 24.32039
+        },
+        {
+          "name": "Martínon",
+          "lat": 38.56817,
+          "lon": 23.21458
+        },
+        {
+          "name": "Mólos",
+          "lat": 38.80998,
+          "lon": 22.64544
+        },
+        {
+          "name": "Mytikas",
+          "lat": 38.44373,
+          "lon": 23.65365
+        },
+        {
+          "name": "Néa Artáki",
+          "lat": 38.52027,
+          "lon": 23.63296
+        },
+        {
+          "name": "Néa Lámpsakos",
+          "lat": 38.43729,
+          "lon": 23.62824
+        },
+        {
+          "name": "Néa Stíra",
+          "lat": 38.17935,
+          "lon": 24.20842
+        },
+        {
+          "name": "Néon Monastírion",
+          "lat": 39.23988,
+          "lon": 22.27465
+        },
+        {
+          "name": "Nomós Evrytanías",
+          "lat": 39,
+          "lon": 21.66667
+        },
+        {
+          "name": "Nomós Fokídos",
+          "lat": 38.5,
+          "lon": 22.25
+        },
+        {
+          "name": "Oinófyta",
+          "lat": 38.31163,
+          "lon": 23.64
+        },
+        {
+          "name": "Omvriakí",
+          "lat": 39.10118,
+          "lon": 22.27106
+        },
+        {
+          "name": "Orchomenós",
+          "lat": 38.4929,
+          "lon": 22.97962
+        },
+        {
+          "name": "Oreoí",
+          "lat": 38.95034,
+          "lon": 23.09191
+        },
+        {
+          "name": "Oxílithos",
+          "lat": 38.57988,
+          "lon": 24.11184
+        },
+        {
+          "name": "Paralía Avlídhos",
+          "lat": 38.38002,
+          "lon": 23.62842
+        },
+        {
+          "name": "Pelasgía",
+          "lat": 38.94813,
+          "lon": 22.8398
+        },
+        {
+          "name": "Pláka Dílesi",
+          "lat": 38.3495,
+          "lon": 23.65056
+        },
+        {
+          "name": "Politiká",
+          "lat": 38.59673,
+          "lon": 23.54457
+        },
+        {
+          "name": "Prokópi",
+          "lat": 38.73402,
+          "lon": 23.4906
+        },
+        {
+          "name": "Psachná",
+          "lat": 38.57852,
+          "lon": 23.64326
+        },
+        {
+          "name": "Rodhítsa",
+          "lat": 38.88829,
+          "lon": 22.4641
+        },
+        {
+          "name": "Roviés",
+          "lat": 38.80971,
+          "lon": 23.23073
+        },
+        {
+          "name": "Schimatári",
+          "lat": 38.35,
+          "lon": 23.58333
+        },
+        {
+          "name": "Skýros",
+          "lat": 38.90417,
+          "lon": 24.56306
+        },
+        {
+          "name": "Spercheiáda",
+          "lat": 38.90656,
+          "lon": 22.12792
+        },
+        {
+          "name": "Stavrós",
+          "lat": 38.89641,
+          "lon": 22.37082
+        },
+        {
+          "name": "Steíri",
+          "lat": 38.40831,
+          "lon": 22.71162
+        },
+        {
+          "name": "Stylída",
+          "lat": 38.91667,
+          "lon": 22.61667
+        },
+        {
+          "name": "Thespiés",
+          "lat": 38.303,
+          "lon": 23.15016
+        },
+        {
+          "name": "Thívai",
+          "lat": 38.325,
+          "lon": 23.31889
+        },
+        {
+          "name": "Vágia",
+          "lat": 38.31748,
+          "lon": 23.17752
+        },
+        {
+          "name": "Vasilikón",
+          "lat": 38.42586,
+          "lon": 23.67189
+        },
+        {
+          "name": "Vathí",
+          "lat": 38.4049,
+          "lon": 23.60332
+        },
+        {
+          "name": "Yimnón",
+          "lat": 38.44048,
+          "lon": 23.884
+        }
+      ]
+    },
+    {
+      "name": "Central Macedonia",
+      "stateCode": "B",
+      "lat": 40.621173,
+      "lon": 23.1918021,
+      "cities": [
+        {
+          "name": "Ádendro",
+          "lat": 40.67131,
+          "lon": 22.60466
+        },
+        {
+          "name": "Áfytos",
+          "lat": 40.09915,
+          "lon": 23.4367
+        },
+        {
+          "name": "Agía Paraskeví",
+          "lat": 40.4815,
+          "lon": 23.04863
+        },
+        {
+          "name": "Agía Triáda",
+          "lat": 40.50003,
+          "lon": 22.87351
+        },
+        {
+          "name": "Ágio Pnévma",
+          "lat": 41.10142,
+          "lon": 23.67992
+        },
+        {
+          "name": "Ágios Athanásios",
+          "lat": 40.71598,
+          "lon": 22.72841
+        },
+        {
+          "name": "Ágios Geórgios",
+          "lat": 40.60215,
+          "lon": 22.1943
+        },
+        {
+          "name": "Ágios Loukás",
+          "lat": 40.71799,
+          "lon": 22.29545
+        },
+        {
+          "name": "Ágios Nikólaos",
+          "lat": 40.24926,
+          "lon": 23.69616
+        },
+        {
+          "name": "Ágios Pávlos",
+          "lat": 40.64075,
+          "lon": 22.96039
+        },
+        {
+          "name": "Ágios Pétros",
+          "lat": 40.86725,
+          "lon": 22.58298
+        },
+        {
+          "name": "Ágios Spyrídon",
+          "lat": 40.20778,
+          "lon": 22.44311
+        },
+        {
+          "name": "Ágios Vasíleios",
+          "lat": 40.66424,
+          "lon": 23.11373
+        },
+        {
+          "name": "Agkathiá",
+          "lat": 40.55535,
+          "lon": 22.47083
+        },
+        {
+          "name": "Aigínio",
+          "lat": 40.50139,
+          "lon": 22.54
+        },
+        {
+          "name": "Akrolímni",
+          "lat": 40.6802,
+          "lon": 22.2645
+        },
+        {
+          "name": "Alexándreia",
+          "lat": 40.62667,
+          "lon": 22.44417
+        },
+        {
+          "name": "Alistráti",
+          "lat": 41.06443,
+          "lon": 23.95751
+        },
+        {
+          "name": "Ampeleíes",
+          "lat": 40.83417,
+          "lon": 22.38767
+        },
+        {
+          "name": "Ampelókipoi",
+          "lat": 40.65304,
+          "lon": 22.92624
+        },
+        {
+          "name": "Anatolikó",
+          "lat": 40.66152,
+          "lon": 22.7119
+        },
+        {
+          "name": "Angelochóri",
+          "lat": 40.67862,
+          "lon": 22.19933
+        },
+        {
+          "name": "Ápsalos",
+          "lat": 40.8924,
+          "lon": 22.05709
+        },
+        {
+          "name": "Aravissós",
+          "lat": 40.84352,
+          "lon": 22.30178
+        },
+        {
+          "name": "Aridaía",
+          "lat": 40.97306,
+          "lon": 22.05639
+        },
+        {
+          "name": "Arnaía",
+          "lat": 40.48652,
+          "lon": 23.59537
+        },
+        {
+          "name": "Árnissa",
+          "lat": 40.79555,
+          "lon": 21.83577
+        },
+        {
+          "name": "Arsénio",
+          "lat": 40.71412,
+          "lon": 22.15923
+        },
+        {
+          "name": "Askós",
+          "lat": 40.75105,
+          "lon": 23.38721
+        },
+        {
+          "name": "Asproválta",
+          "lat": 40.73049,
+          "lon": 23.7118
+        },
+        {
+          "name": "Ássiros",
+          "lat": 40.82143,
+          "lon": 23.03008
+        },
+        {
+          "name": "Asvestochóri",
+          "lat": 40.64125,
+          "lon": 23.02528
+        },
+        {
+          "name": "Áthyra",
+          "lat": 40.82615,
+          "lon": 22.59279
+        },
+        {
+          "name": "Axioúpoli",
+          "lat": 40.98582,
+          "lon": 22.54165
+        },
+        {
+          "name": "Axós",
+          "lat": 40.80223,
+          "lon": 22.36158
+        },
+        {
+          "name": "Chalástra",
+          "lat": 40.62643,
+          "lon": 22.73291
+        },
+        {
+          "name": "Chalkidóna",
+          "lat": 40.73184,
+          "lon": 22.59992
+        },
+        {
+          "name": "Charopó",
+          "lat": 41.26031,
+          "lon": 23.37279
+        },
+        {
+          "name": "Chortiátis",
+          "lat": 40.60954,
+          "lon": 23.10014
+        },
+        {
+          "name": "Chrysó",
+          "lat": 41.05806,
+          "lon": 23.65108
+        },
+        {
+          "name": "Chrysochórafa",
+          "lat": 41.18097,
+          "lon": 23.23551
+        },
+        {
+          "name": "Diavatá",
+          "lat": 40.68744,
+          "lon": 22.85799
+        },
+        {
+          "name": "Diavatós",
+          "lat": 40.54606,
+          "lon": 22.26686
+        },
+        {
+          "name": "Díon",
+          "lat": 40.17169,
+          "lon": 22.48463
+        },
+        {
+          "name": "Dravískos",
+          "lat": 40.92393,
+          "lon": 23.87119
+        },
+        {
+          "name": "Drymós",
+          "lat": 40.78099,
+          "lon": 22.95889
+        },
+        {
+          "name": "Édessa",
+          "lat": 40.8026,
+          "lon": 22.04751
+        },
+        {
+          "name": "Efkarpía",
+          "lat": 40.68797,
+          "lon": 22.95348
+        },
+        {
+          "name": "Eirinoúpoli",
+          "lat": 40.67806,
+          "lon": 22.19278
+        },
+        {
+          "name": "Epanomí",
+          "lat": 40.42614,
+          "lon": 22.92782
+        },
+        {
+          "name": "Episkopí",
+          "lat": 40.68748,
+          "lon": 22.1364
+        },
+        {
+          "name": "Évosmos",
+          "lat": 40.67056,
+          "lon": 22.90833
+        },
+        {
+          "name": "Evropós",
+          "lat": 40.89703,
+          "lon": 22.55277
+        },
+        {
+          "name": "Exaplátanos",
+          "lat": 40.97643,
+          "lon": 22.12958
+        },
+        {
+          "name": "Fíliro",
+          "lat": 40.69151,
+          "lon": 23.0046
+        },
+        {
+          "name": "Galatádes",
+          "lat": 40.7559,
+          "lon": 22.28062
+        },
+        {
+          "name": "Galátista",
+          "lat": 40.4682,
+          "lon": 23.28015
+        },
+        {
+          "name": "Gázoros",
+          "lat": 41.02557,
+          "lon": 23.77574
+        },
+        {
+          "name": "Géfyra",
+          "lat": 40.73253,
+          "lon": 22.69359
+        },
+        {
+          "name": "Gerakaroú",
+          "lat": 40.62666,
+          "lon": 23.21566
+        },
+        {
+          "name": "Giannitsá",
+          "lat": 40.79194,
+          "lon": 22.4075
+        },
+        {
+          "name": "Gouménissa",
+          "lat": 40.94604,
+          "lon": 22.44974
+        },
+        {
+          "name": "Ierissós",
+          "lat": 40.39748,
+          "lon": 23.87505
+        },
+        {
+          "name": "Irákleia",
+          "lat": 41.18217,
+          "lon": 23.28243
+        },
+        {
+          "name": "Kalá Déndra",
+          "lat": 41.09941,
+          "lon": 23.42396
+        },
+        {
+          "name": "Kalamariá",
+          "lat": 40.5825,
+          "lon": 22.95028
+        },
+        {
+          "name": "Kalí",
+          "lat": 40.81931,
+          "lon": 22.17761
+        },
+        {
+          "name": "Kallithéa",
+          "lat": 40.07374,
+          "lon": 23.44637
+        },
+        {
+          "name": "Kalochóri",
+          "lat": 40.64189,
+          "lon": 22.85734
+        },
+        {
+          "name": "Kalýves Polygýrou",
+          "lat": 40.28659,
+          "lon": 23.39033
+        },
+        {
+          "name": "Kalývia",
+          "lat": 40.75508,
+          "lon": 22.21753
+        },
+        {
+          "name": "Kampánis",
+          "lat": 40.88951,
+          "lon": 22.91682
+        },
+        {
+          "name": "Kardiá",
+          "lat": 40.46909,
+          "lon": 22.99378
+        },
+        {
+          "name": "Karítsa",
+          "lat": 40.18745,
+          "lon": 22.48171
+        },
+        {
+          "name": "Karyótissa",
+          "lat": 40.76915,
+          "lon": 22.31331
+        },
+        {
+          "name": "Kassándreia",
+          "lat": 40.04835,
+          "lon": 23.41362
+        },
+        {
+          "name": "Kateríni",
+          "lat": 40.26956,
+          "lon": 22.50608
+        },
+        {
+          "name": "Káto Kamíla",
+          "lat": 41.02119,
+          "lon": 23.48336
+        },
+        {
+          "name": "Káto Lipochóri",
+          "lat": 40.75754,
+          "lon": 22.17962
+        },
+        {
+          "name": "Káto Miliá",
+          "lat": 40.25403,
+          "lon": 22.34342
+        },
+        {
+          "name": "Káto Scholári",
+          "lat": 40.42906,
+          "lon": 23.02978
+        },
+        {
+          "name": "Kavallári",
+          "lat": 40.71539,
+          "lon": 23.04588
+        },
+        {
+          "name": "Kilkís",
+          "lat": 40.99302,
+          "lon": 22.87433
+        },
+        {
+          "name": "Kítros",
+          "lat": 40.37399,
+          "lon": 22.57862
+        },
+        {
+          "name": "Kleidí",
+          "lat": 40.56632,
+          "lon": 22.59033
+        },
+        {
+          "name": "Koímisi",
+          "lat": 41.21282,
+          "lon": 23.30035
+        },
+        {
+          "name": "Kolchikón",
+          "lat": 40.75662,
+          "lon": 23.13377
+        },
+        {
+          "name": "Kolindrós",
+          "lat": 40.47888,
+          "lon": 22.48319
+        },
+        {
+          "name": "Kontariótissa",
+          "lat": 40.22754,
+          "lon": 22.461
+        },
+        {
+          "name": "Kopanós",
+          "lat": 40.63382,
+          "lon": 22.12893
+        },
+        {
+          "name": "Korinós",
+          "lat": 40.31659,
+          "lon": 22.58817
+        },
+        {
+          "name": "Koryfí",
+          "lat": 40.60286,
+          "lon": 22.50681
+        },
+        {
+          "name": "Koufália",
+          "lat": 40.77778,
+          "lon": 22.57194
+        },
+        {
+          "name": "Kouloúra",
+          "lat": 40.54652,
+          "lon": 22.31795
+        },
+        {
+          "name": "Krithiá",
+          "lat": 40.84184,
+          "lon": 22.98292
+        },
+        {
+          "name": "Krýa Vrýsi",
+          "lat": 40.68738,
+          "lon": 22.30516
+        },
+        {
+          "name": "Kýmina",
+          "lat": 40.61354,
+          "lon": 22.69278
+        },
+        {
+          "name": "Lagkadás",
+          "lat": 40.75,
+          "lon": 23.06667
+        },
+        {
+          "name": "Lagyná",
+          "lat": 40.72351,
+          "lon": 23.0042
+        },
+        {
+          "name": "Lákkoma",
+          "lat": 40.39139,
+          "lon": 23.05578
+        },
+        {
+          "name": "Lefkónas",
+          "lat": 41.10029,
+          "lon": 23.49658
+        },
+        {
+          "name": "Leptokaryá",
+          "lat": 40.06032,
+          "lon": 22.5612
+        },
+        {
+          "name": "Lianovérgi",
+          "lat": 40.63526,
+          "lon": 22.5082
+        },
+        {
+          "name": "Lití",
+          "lat": 40.74533,
+          "lon": 22.97982
+        },
+        {
+          "name": "Litóchoro",
+          "lat": 40.10056,
+          "lon": 22.49778
+        },
+        {
+          "name": "Lófos",
+          "lat": 40.24395,
+          "lon": 22.38033
+        },
+        {
+          "name": "Loutráki",
+          "lat": 40.97116,
+          "lon": 21.94659
+        },
+        {
+          "name": "Loutrós",
+          "lat": 40.58873,
+          "lon": 22.39976
+        },
+        {
+          "name": "Makrochóri",
+          "lat": 40.55125,
+          "lon": 22.24955
+        },
+        {
+          "name": "Makrýgialos",
+          "lat": 40.41551,
+          "lon": 22.60392
+        },
+        {
+          "name": "Mándalo",
+          "lat": 40.85677,
+          "lon": 22.21264
+        },
+        {
+          "name": "Marína",
+          "lat": 40.692,
+          "lon": 22.10099
+        },
+        {
+          "name": "Mavrothálassa",
+          "lat": 40.89427,
+          "lon": 23.75048
+        },
+        {
+          "name": "Mavrovoúni",
+          "lat": 40.78243,
+          "lon": 22.15629
+        },
+        {
+          "name": "Megáli Panagía",
+          "lat": 40.44505,
+          "lon": 23.67999
+        },
+        {
+          "name": "Melíki",
+          "lat": 40.51685,
+          "lon": 22.39599
+        },
+        {
+          "name": "Melíssi",
+          "lat": 40.77406,
+          "lon": 22.35304
+        },
+        {
+          "name": "Melissochóri",
+          "lat": 40.76796,
+          "lon": 22.92858
+        },
+        {
+          "name": "Meneméni",
+          "lat": 40.65829,
+          "lon": 22.89712
+        },
+        {
+          "name": "Mesiméri",
+          "lat": 40.41344,
+          "lon": 23.0075
+        },
+        {
+          "name": "Mikró Monastíri",
+          "lat": 40.7043,
+          "lon": 22.54112
+        },
+        {
+          "name": "Mitroúsi",
+          "lat": 41.07041,
+          "lon": 23.46064
+        },
+        {
+          "name": "Náousa",
+          "lat": 40.62944,
+          "lon": 22.06806
+        },
+        {
+          "name": "Néa Apollonía",
+          "lat": 40.62558,
+          "lon": 23.44074
+        },
+        {
+          "name": "Néa Éfesos",
+          "lat": 40.22923,
+          "lon": 22.49811
+        },
+        {
+          "name": "Néa Flogitá",
+          "lat": 40.26108,
+          "lon": 23.22107
+        },
+        {
+          "name": "Néa Fókaia",
+          "lat": 40.13333,
+          "lon": 23.39754
+        },
+        {
+          "name": "Néa Kallikráteia",
+          "lat": 40.31312,
+          "lon": 23.06343
+        },
+        {
+          "name": "Néa Magnisía",
+          "lat": 40.68785,
+          "lon": 22.84582
+        },
+        {
+          "name": "Néa Málgara",
+          "lat": 40.60985,
+          "lon": 22.68196
+        },
+        {
+          "name": "Néa Mesimvría",
+          "lat": 40.75158,
+          "lon": 22.76904
+        },
+        {
+          "name": "Néa Michanióna",
+          "lat": 40.46371,
+          "lon": 22.8617
+        },
+        {
+          "name": "Néa Moudhaniá",
+          "lat": 40.2439,
+          "lon": 23.28484
+        },
+        {
+          "name": "Néa Pélla",
+          "lat": 40.76516,
+          "lon": 22.49173
+        },
+        {
+          "name": "Néa Plágia",
+          "lat": 40.26537,
+          "lon": 23.20376
+        },
+        {
+          "name": "Néa Poteídaia",
+          "lat": 40.19409,
+          "lon": 23.32832
+        },
+        {
+          "name": "Néa Potídhaia",
+          "lat": 40.19428,
+          "lon": 23.32874
+        },
+        {
+          "name": "Néa Róda",
+          "lat": 40.38119,
+          "lon": 23.92374
+        },
+        {
+          "name": "Néa Sánta",
+          "lat": 40.84084,
+          "lon": 22.92163
+        },
+        {
+          "name": "Néa Tríglia",
+          "lat": 40.30575,
+          "lon": 23.2066
+        },
+        {
+          "name": "Néa Vrasná",
+          "lat": 40.70592,
+          "lon": 23.6985
+        },
+        {
+          "name": "Néa Zíchni",
+          "lat": 41.03204,
+          "lon": 23.8287
+        },
+        {
+          "name": "Neapoli",
+          "lat": 40.6532,
+          "lon": 22.94156
+        },
+        {
+          "name": "Néo Agionéri",
+          "lat": 40.80826,
+          "lon": 22.70733
+        },
+        {
+          "name": "Néo Petrítsi",
+          "lat": 41.27459,
+          "lon": 23.29381
+        },
+        {
+          "name": "Néo Rýsi",
+          "lat": 40.49605,
+          "lon": 22.98794
+        },
+        {
+          "name": "Néo Soúli",
+          "lat": 41.09397,
+          "lon": 23.64376
+        },
+        {
+          "name": "Neochóri",
+          "lat": 41.05231,
+          "lon": 23.57997
+        },
+        {
+          "name": "Neochoroúda",
+          "lat": 40.73817,
+          "lon": 22.87557
+        },
+        {
+          "name": "Néoi Epivátes",
+          "lat": 40.49863,
+          "lon": 22.91192
+        },
+        {
+          "name": "Néos Marmarás",
+          "lat": 40.0961,
+          "lon": 23.78323
+        },
+        {
+          "name": "Néos Mylótopos",
+          "lat": 40.81872,
+          "lon": 22.35489
+        },
+        {
+          "name": "Néos Skopós",
+          "lat": 41.0239,
+          "lon": 23.60927
+        },
+        {
+          "name": "Nigríta",
+          "lat": 40.90528,
+          "lon": 23.49944
+        },
+        {
+          "name": "Níkiti",
+          "lat": 40.22204,
+          "lon": 23.66837
+        },
+        {
+          "name": "Nisí",
+          "lat": 40.6361,
+          "lon": 22.38884
+        },
+        {
+          "name": "Nomós Chalkidikís",
+          "lat": 40.41667,
+          "lon": 23.5
+        },
+        {
+          "name": "Nomós Péllis",
+          "lat": 40.83333,
+          "lon": 22.25
+        },
+        {
+          "name": "Nomós Thessaloníkis",
+          "lat": 40.66667,
+          "lon": 23
+        },
+        {
+          "name": "Ólynthos",
+          "lat": 40.29147,
+          "lon": 23.34205
+        },
+        {
+          "name": "Oraiókastro",
+          "lat": 40.73083,
+          "lon": 22.91722
+        },
+        {
+          "name": "Ormýlia",
+          "lat": 40.29451,
+          "lon": 23.54332
+        },
+        {
+          "name": "Ouranoupolis",
+          "lat": 40.33333,
+          "lon": 23.98333
+        },
+        {
+          "name": "Palaífyto",
+          "lat": 40.78283,
+          "lon": 22.27388
+        },
+        {
+          "name": "Palaiochóri",
+          "lat": 40.49186,
+          "lon": 23.64928
+        },
+        {
+          "name": "Palaiokómi",
+          "lat": 40.87068,
+          "lon": 23.90121
+        },
+        {
+          "name": "Panórama",
+          "lat": 40.58779,
+          "lon": 23.0315
+        },
+        {
+          "name": "Paralía",
+          "lat": 40.2671,
+          "lon": 22.59615
+        },
+        {
+          "name": "Patrída",
+          "lat": 40.56071,
+          "lon": 22.18545
+        },
+        {
+          "name": "Péfka",
+          "lat": 40.65806,
+          "lon": 22.99378
+        },
+        {
+          "name": "Pefkochóri",
+          "lat": 39.98784,
+          "lon": 23.61219
+        },
+        {
+          "name": "Pélla",
+          "lat": 40.76169,
+          "lon": 22.52637
+        },
+        {
+          "name": "Pentálofos",
+          "lat": 40.74296,
+          "lon": 22.85256
+        },
+        {
+          "name": "Pentaplátano",
+          "lat": 40.81902,
+          "lon": 22.41903
+        },
+        {
+          "name": "Peraía",
+          "lat": 40.49874,
+          "lon": 22.92617
+        },
+        {
+          "name": "Perístasi",
+          "lat": 40.27443,
+          "lon": 22.54164
+        },
+        {
+          "name": "Peristerá",
+          "lat": 40.54881,
+          "lon": 23.1654
+        },
+        {
+          "name": "Plagiári",
+          "lat": 40.47276,
+          "lon": 22.9579
+        },
+        {
+          "name": "Platý",
+          "lat": 40.64241,
+          "lon": 22.53458
+        },
+        {
+          "name": "Políchni",
+          "lat": 40.66671,
+          "lon": 22.94881
+        },
+        {
+          "name": "Polýgyros",
+          "lat": 40.37704,
+          "lon": 23.44135
+        },
+        {
+          "name": "Polykárpi",
+          "lat": 40.92598,
+          "lon": 22.01634
+        },
+        {
+          "name": "Polýkastro",
+          "lat": 40.99444,
+          "lon": 22.56909
+        },
+        {
+          "name": "Pontisméno",
+          "lat": 41.20885,
+          "lon": 23.28325
+        },
+        {
+          "name": "Portariá",
+          "lat": 40.28405,
+          "lon": 23.29549
+        },
+        {
+          "name": "Próchoma",
+          "lat": 40.79826,
+          "lon": 22.66659
+        },
+        {
+          "name": "Profítis Ilías",
+          "lat": 40.81373,
+          "lon": 22.16166
+        },
+        {
+          "name": "Prómachoi",
+          "lat": 41.02517,
+          "lon": 22.00437
+        },
+        {
+          "name": "Próti",
+          "lat": 40.94411,
+          "lon": 24.00118
+        },
+        {
+          "name": "Provatás",
+          "lat": 41.06825,
+          "lon": 23.3903
+        },
+        {
+          "name": "Pylaía",
+          "lat": 40.59918,
+          "lon": 22.98613
+        },
+        {
+          "name": "Ritíni",
+          "lat": 40.28835,
+          "lon": 22.28361
+        },
+        {
+          "name": "Rizári",
+          "lat": 40.78373,
+          "lon": 22.088
+        },
+        {
+          "name": "Rizó",
+          "lat": 40.73331,
+          "lon": 22.13674
+        },
+        {
+          "name": "Rizómata",
+          "lat": 40.35061,
+          "lon": 22.21079
+        },
+        {
+          "name": "Rodolívos",
+          "lat": 40.92055,
+          "lon": 23.97489
+        },
+        {
+          "name": "Sárti",
+          "lat": 40.09369,
+          "lon": 23.97859
+        },
+        {
+          "name": "Sérres",
+          "lat": 41.08499,
+          "lon": 23.54757
+        },
+        {
+          "name": "Sevastianá",
+          "lat": 40.76874,
+          "lon": 22.12346
+        },
+        {
+          "name": "Sfendámi",
+          "lat": 40.41307,
+          "lon": 22.54677
+        },
+        {
+          "name": "Sidirókastro",
+          "lat": 41.23499,
+          "lon": 23.38899
+        },
+        {
+          "name": "Símantra",
+          "lat": 40.34563,
+          "lon": 23.31026
+        },
+        {
+          "name": "Síndos",
+          "lat": 40.67045,
+          "lon": 22.80545
+        },
+        {
+          "name": "Skotoússa",
+          "lat": 41.12844,
+          "lon": 23.38174
+        },
+        {
+          "name": "Skoútari",
+          "lat": 41.01871,
+          "lon": 23.51971
+        },
+        {
+          "name": "Skýdra",
+          "lat": 40.76722,
+          "lon": 22.15194
+        },
+        {
+          "name": "Sochós",
+          "lat": 40.81788,
+          "lon": 23.35546
+        },
+        {
+          "name": "Sosándra",
+          "lat": 40.99894,
+          "lon": 22.03254
+        },
+        {
+          "name": "Sourotí",
+          "lat": 40.47274,
+          "lon": 23.09197
+        },
+        {
+          "name": "Stathmós Mourión",
+          "lat": 41.26378,
+          "lon": 22.83855
+        },
+        {
+          "name": "Stavrós",
+          "lat": 40.66498,
+          "lon": 23.70015
+        },
+        {
+          "name": "Stavroúpoli",
+          "lat": 40.66944,
+          "lon": 22.93806
+        },
+        {
+          "name": "Stratónion",
+          "lat": 40.51406,
+          "lon": 23.82471
+        },
+        {
+          "name": "Strymonikó",
+          "lat": 41.04144,
+          "lon": 23.31487
+        },
+        {
+          "name": "Svorónos",
+          "lat": 40.26805,
+          "lon": 22.46366
+        },
+        {
+          "name": "Sykiá",
+          "lat": 40.03874,
+          "lon": 23.94046
+        },
+        {
+          "name": "Sykiés",
+          "lat": 40.64944,
+          "lon": 22.95083
+        },
+        {
+          "name": "Terpní",
+          "lat": 40.91643,
+          "lon": 23.48137
+        },
+        {
+          "name": "Thérmi",
+          "lat": 40.54712,
+          "lon": 23.01967
+        },
+        {
+          "name": "Thessaloníki",
+          "lat": 40.64361,
+          "lon": 22.93086
+        },
+        {
+          "name": "Triandría",
+          "lat": 40.615,
+          "lon": 22.9762
+        },
+        {
+          "name": "Tríkala",
+          "lat": 40.59814,
+          "lon": 22.55733
+        },
+        {
+          "name": "Trílofos",
+          "lat": 40.46898,
+          "lon": 22.9718
+        },
+        {
+          "name": "Valteró",
+          "lat": 41.17927,
+          "lon": 23.32022
+        },
+        {
+          "name": "Vamvakófyto",
+          "lat": 41.17916,
+          "lon": 23.39602
+        },
+        {
+          "name": "Vasiliká",
+          "lat": 40.47966,
+          "lon": 23.13695
+        },
+        {
+          "name": "Vathýlakkos",
+          "lat": 40.76942,
+          "lon": 22.7088
+        },
+        {
+          "name": "Vergína",
+          "lat": 40.48654,
+          "lon": 22.31735
+        },
+        {
+          "name": "Véroia",
+          "lat": 40.52437,
+          "lon": 22.20242
+        },
+        {
+          "name": "Vrontoú",
+          "lat": 40.19356,
+          "lon": 22.43203
+        },
+        {
+          "name": "Xilópolis",
+          "lat": 40.92713,
+          "lon": 23.17944
+        }
+      ]
+    },
+    {
+      "name": "Chania Regional Unit",
+      "stateCode": "94",
+      "lat": 35.5138298,
+      "lon": 24.0180367,
+      "cities": []
+    },
+    {
+      "name": "Corfu Prefecture",
+      "stateCode": "22",
+      "lat": 39.6249838,
+      "lon": 19.9223461,
+      "cities": [
+        {
+          "name": "Farkadóna",
+          "lat": 39.6,
+          "lon": 22.06667
+        },
+        {
+          "name": "Fíki",
+          "lat": 39.51602,
+          "lon": 21.65556
+        },
+        {
+          "name": "Gómfoi",
+          "lat": 39.46413,
+          "lon": 21.69342
+        },
+        {
+          "name": "Grizáno",
+          "lat": 39.63192,
+          "lon": 22.05258
+        },
+        {
+          "name": "Kalampáka",
+          "lat": 39.70444,
+          "lon": 21.62694
+        },
+        {
+          "name": "Kastráki",
+          "lat": 39.71692,
+          "lon": 21.61865
+        },
+        {
+          "name": "Megála Kalývia",
+          "lat": 39.49693,
+          "lon": 21.78802
+        },
+        {
+          "name": "Megalochóri",
+          "lat": 39.55982,
+          "lon": 21.84195
+        },
+        {
+          "name": "Oichalía",
+          "lat": 39.60827,
+          "lon": 21.97996
+        },
+        {
+          "name": "Palaiomonástiro",
+          "lat": 39.46269,
+          "lon": 21.65793
+        },
+        {
+          "name": "Palaiópyrgos",
+          "lat": 39.60845,
+          "lon": 21.8172
+        },
+        {
+          "name": "Pigí",
+          "lat": 39.51061,
+          "lon": 21.70103
+        },
+        {
+          "name": "Pýli",
+          "lat": 39.45806,
+          "lon": 21.61889
+        },
+        {
+          "name": "Pyrgetós",
+          "lat": 39.55276,
+          "lon": 21.74846
+        },
+        {
+          "name": "Rízoma",
+          "lat": 39.66432,
+          "lon": 21.73541
+        },
+        {
+          "name": "Taxiárches",
+          "lat": 39.57565,
+          "lon": 21.89245
+        },
+        {
+          "name": "Tríkala",
+          "lat": 39.55493,
+          "lon": 21.76837
+        },
+        {
+          "name": "Vasilikí",
+          "lat": 39.63984,
+          "lon": 21.70448
+        },
+        {
+          "name": "Zárkos",
+          "lat": 39.6086,
+          "lon": 22.12336
+        }
+      ]
+    },
+    {
+      "name": "Corinthia Regional Unit",
+      "stateCode": "15",
+      "lat": 0,
+      "lon": 0,
+      "cities": []
+    },
+    {
+      "name": "Crete Region",
+      "stateCode": "M",
+      "lat": 35.240117,
+      "lon": 24.8092691,
+      "cities": [
+        {
+          "name": "Agía Foteiní",
+          "lat": 35.25459,
+          "lon": 24.63495
+        },
+        {
+          "name": "Agía Galíni",
+          "lat": 35.09707,
+          "lon": 24.68818
+        },
+        {
+          "name": "Agía Marína",
+          "lat": 35.51778,
+          "lon": 23.92675
+        },
+        {
+          "name": "Agía Varvára",
+          "lat": 35.13715,
+          "lon": 25.00131
+        },
+        {
+          "name": "Ágioi Déka",
+          "lat": 35.06667,
+          "lon": 24.96667
+        },
+        {
+          "name": "Ágios Nikólaos",
+          "lat": 35.19106,
+          "lon": 25.71524
+        },
+        {
+          "name": "Ano Arhanes",
+          "lat": 35.23333,
+          "lon": 25.16667
+        },
+        {
+          "name": "Anógeia",
+          "lat": 35.29084,
+          "lon": 24.88412
+        },
+        {
+          "name": "Arkalochóri",
+          "lat": 35.14634,
+          "lon": 25.26538
+        },
+        {
+          "name": "Asímion",
+          "lat": 35.04321,
+          "lon": 25.09277
+        },
+        {
+          "name": "Atsipópoulo",
+          "lat": 35.35253,
+          "lon": 24.43378
+        },
+        {
+          "name": "Chaniá",
+          "lat": 35.51124,
+          "lon": 24.02921
+        },
+        {
+          "name": "Chóra Sfakíon",
+          "lat": 35.20176,
+          "lon": 24.13711
+        },
+        {
+          "name": "Darátsos",
+          "lat": 35.49955,
+          "lon": 23.97488
+        },
+        {
+          "name": "Eloúnda",
+          "lat": 35.265,
+          "lon": 25.72127
+        },
+        {
+          "name": "Galatás",
+          "lat": 35.49864,
+          "lon": 23.96341
+        },
+        {
+          "name": "Gázi",
+          "lat": 35.32531,
+          "lon": 25.06694
+        },
+        {
+          "name": "Georgioupolis",
+          "lat": 35.36225,
+          "lon": 24.26013
+        },
+        {
+          "name": "Geráni",
+          "lat": 35.51721,
+          "lon": 23.87818
+        },
+        {
+          "name": "Gérgeri",
+          "lat": 35.13281,
+          "lon": 24.94963
+        },
+        {
+          "name": "Goúrnes",
+          "lat": 35.32626,
+          "lon": 25.2774
+        },
+        {
+          "name": "Gra Liyiá",
+          "lat": 35.01467,
+          "lon": 25.69127
+        },
+        {
+          "name": "Ierápetra",
+          "lat": 35.01186,
+          "lon": 25.74234
+        },
+        {
+          "name": "Irákleion",
+          "lat": 35.32787,
+          "lon": 25.14341
+        },
+        {
+          "name": "Kalýves",
+          "lat": 35.45046,
+          "lon": 24.17507
+        },
+        {
+          "name": "Kastélli",
+          "lat": 35.20902,
+          "lon": 25.33773
+        },
+        {
+          "name": "Kastrí",
+          "lat": 34.8346,
+          "lon": 24.08572
+        },
+        {
+          "name": "Káto Asítai",
+          "lat": 35.20271,
+          "lon": 24.99827
+        },
+        {
+          "name": "Káto Goúves",
+          "lat": 35.32934,
+          "lon": 25.31353
+        },
+        {
+          "name": "Kentrí",
+          "lat": 35.03258,
+          "lon": 25.7528
+        },
+        {
+          "name": "Kíssamos",
+          "lat": 35.49459,
+          "lon": 23.65375
+        },
+        {
+          "name": "Kokkíni Cháni",
+          "lat": 35.32827,
+          "lon": 25.2581
+        },
+        {
+          "name": "Kolympári",
+          "lat": 35.54115,
+          "lon": 23.77995
+        },
+        {
+          "name": "Kritsá",
+          "lat": 35.15821,
+          "lon": 25.64459
+        },
+        {
+          "name": "Krousón",
+          "lat": 35.23062,
+          "lon": 24.98291
+        },
+        {
+          "name": "Limín Khersonísou",
+          "lat": 35.32297,
+          "lon": 25.39275
+        },
+        {
+          "name": "Mália",
+          "lat": 35.28367,
+          "lon": 25.46262
+        },
+        {
+          "name": "Moíres",
+          "lat": 35.05143,
+          "lon": 24.8733
+        },
+        {
+          "name": "Mokhós",
+          "lat": 35.26342,
+          "lon": 25.42305
+        },
+        {
+          "name": "Mourniés",
+          "lat": 35.48228,
+          "lon": 24.01253
+        },
+        {
+          "name": "Mouzourás",
+          "lat": 35.53885,
+          "lon": 24.15554
+        },
+        {
+          "name": "Néa Alikarnassós",
+          "lat": 35.33977,
+          "lon": 25.15895
+        },
+        {
+          "name": "Néa Anatolí",
+          "lat": 35.0092,
+          "lon": 25.6617
+        },
+        {
+          "name": "Neápoli",
+          "lat": 35.25627,
+          "lon": 25.60415
+        },
+        {
+          "name": "Nerokoúros",
+          "lat": 35.47587,
+          "lon": 24.03995
+        },
+        {
+          "name": "Nomós Irakleíou",
+          "lat": 35.32969,
+          "lon": 25.12985
+        },
+        {
+          "name": "Nomós Rethýmnis",
+          "lat": 35.25,
+          "lon": 24.58333
+        },
+        {
+          "name": "Palaióchora",
+          "lat": 35.23128,
+          "lon": 23.68185
+        },
+        {
+          "name": "Palekastro",
+          "lat": 35.19793,
+          "lon": 26.25429
+        },
+        {
+          "name": "Pánormos",
+          "lat": 35.41815,
+          "lon": 24.69091
+        },
+        {
+          "name": "Pérama",
+          "lat": 35.3703,
+          "lon": 24.70345
+        },
+        {
+          "name": "Perivólia",
+          "lat": 35.48491,
+          "lon": 23.99421
+        },
+        {
+          "name": "Pithári",
+          "lat": 35.51672,
+          "lon": 24.08653
+        },
+        {
+          "name": "Profítis Ilías",
+          "lat": 35.20555,
+          "lon": 25.09985
+        },
+        {
+          "name": "Pýrgos",
+          "lat": 35.00611,
+          "lon": 25.15191
+        },
+        {
+          "name": "Rethymno",
+          "lat": 35.36555,
+          "lon": 24.48232
+        },
+        {
+          "name": "Schísma Eloúndas",
+          "lat": 35.25757,
+          "lon": 25.72796
+        },
+        {
+          "name": "Sísion",
+          "lat": 35.3077,
+          "lon": 25.52021
+        },
+        {
+          "name": "Sitia",
+          "lat": 35.20783,
+          "lon": 26.10467
+        },
+        {
+          "name": "Skalánion",
+          "lat": 35.28262,
+          "lon": 25.18684
+        },
+        {
+          "name": "Soúda",
+          "lat": 35.48717,
+          "lon": 24.07344
+        },
+        {
+          "name": "Stalís",
+          "lat": 35.29257,
+          "lon": 25.43292
+        },
+        {
+          "name": "Thrapsanón",
+          "lat": 35.18798,
+          "lon": 25.28091
+        },
+        {
+          "name": "Tílisos",
+          "lat": 35.29607,
+          "lon": 25.01587
+        },
+        {
+          "name": "Tsikalariá",
+          "lat": 35.47623,
+          "lon": 24.06274
+        },
+        {
+          "name": "Tympáki",
+          "lat": 35.07286,
+          "lon": 24.76851
+        },
+        {
+          "name": "Violí Charáki",
+          "lat": 35.35864,
+          "lon": 24.43857
+        },
+        {
+          "name": "Vrýses",
+          "lat": 35.37585,
+          "lon": 24.20109
+        },
+        {
+          "name": "Zarós",
+          "lat": 35.1303,
+          "lon": 24.90412
+        },
+        {
+          "name": "Zonianá",
+          "lat": 35.29502,
+          "lon": 24.82944
+        }
+      ]
+    },
+    {
+      "name": "Drama Regional Unit",
+      "stateCode": "52",
+      "lat": 41.2340023,
+      "lon": 24.2390498,
+      "cities": []
+    },
+    {
+      "name": "East Attica Regional Unit",
+      "stateCode": "A2",
+      "lat": 38.2054093,
+      "lon": 23.8584737,
+      "cities": [
+        {
+          "name": "Ágios Athanásios",
+          "lat": 41.07463,
+          "lon": 24.24545
+        },
+        {
+          "name": "Alexandroupoli",
+          "lat": 40.84995,
+          "lon": 25.87644
+        },
+        {
+          "name": "Amygdaleónas",
+          "lat": 40.96346,
+          "lon": 24.36007
+        },
+        {
+          "name": "Áratos",
+          "lat": 41.08139,
+          "lon": 25.55186
+        },
+        {
+          "name": "Arísvi",
+          "lat": 41.07,
+          "lon": 25.59041
+        },
+        {
+          "name": "Arrianá",
+          "lat": 41.08131,
+          "lon": 25.69494
+        },
+        {
+          "name": "Ávato",
+          "lat": 40.96279,
+          "lon": 24.80441
+        },
+        {
+          "name": "Choristí",
+          "lat": 41.13056,
+          "lon": 24.20843
+        },
+        {
+          "name": "Chrysochóri",
+          "lat": 40.93328,
+          "lon": 24.71088
+        },
+        {
+          "name": "Chrysoúpolis",
+          "lat": 40.98556,
+          "lon": 24.69389
+        },
+        {
+          "name": "Didymóteicho",
+          "lat": 41.34806,
+          "lon": 26.49611
+        },
+        {
+          "name": "Dráma",
+          "lat": 41.15283,
+          "lon": 24.1473
+        },
+        {
+          "name": "Echínos",
+          "lat": 41.27558,
+          "lon": 24.97237
+        },
+        {
+          "name": "Elaiochóri",
+          "lat": 40.8203,
+          "lon": 24.24373
+        },
+        {
+          "name": "Eleftherés",
+          "lat": 40.84666,
+          "lon": 24.25431
+        },
+        {
+          "name": "Eleftheroúpolis",
+          "lat": 40.91389,
+          "lon": 24.25139
+        },
+        {
+          "name": "Évlalo",
+          "lat": 40.98333,
+          "lon": 24.8
+        },
+        {
+          "name": "Féres",
+          "lat": 40.89305,
+          "lon": 26.17234
+        },
+        {
+          "name": "Fillýra",
+          "lat": 41.11667,
+          "lon": 25.63333
+        },
+        {
+          "name": "Fotolívos",
+          "lat": 41.06013,
+          "lon": 24.04724
+        },
+        {
+          "name": "Fteliá",
+          "lat": 41.08266,
+          "lon": 24.18968
+        },
+        {
+          "name": "Genisséa",
+          "lat": 41.06165,
+          "lon": 24.96248
+        },
+        {
+          "name": "Íasmos",
+          "lat": 41.12747,
+          "lon": 25.18573
+        },
+        {
+          "name": "Iliokentima",
+          "lat": 40.94931,
+          "lon": 24.78859
+        },
+        {
+          "name": "Kalampáki",
+          "lat": 41.05,
+          "lon": 24.18333
+        },
+        {
+          "name": "Kalí Vrýsi",
+          "lat": 41.14653,
+          "lon": 23.90667
+        },
+        {
+          "name": "Kallífytos",
+          "lat": 41.1728,
+          "lon": 24.21527
+        },
+        {
+          "name": "Kalós Agrós",
+          "lat": 41.10543,
+          "lon": 24.0857
+        },
+        {
+          "name": "Kamariótissa",
+          "lat": 40.47501,
+          "lon": 25.47456
+        },
+        {
+          "name": "Kastaniés",
+          "lat": 41.64551,
+          "lon": 26.47676
+        },
+        {
+          "name": "Káto Nevrokópi",
+          "lat": 41.35,
+          "lon": 23.86667
+        },
+        {
+          "name": "Kavála",
+          "lat": 40.93959,
+          "lon": 24.40687
+        },
+        {
+          "name": "Kavýli",
+          "lat": 41.56225,
+          "lon": 26.5147
+        },
+        {
+          "name": "Keramotí",
+          "lat": 40.85591,
+          "lon": 24.70595
+        },
+        {
+          "name": "Kimméria",
+          "lat": 41.14788,
+          "lon": 24.93869
+        },
+        {
+          "name": "Kokkinóchoma",
+          "lat": 40.9269,
+          "lon": 24.30805
+        },
+        {
+          "name": "Komotiní",
+          "lat": 41.11917,
+          "lon": 25.40535
+        },
+        {
+          "name": "Krinídes",
+          "lat": 41.01396,
+          "lon": 24.29647
+        },
+        {
+          "name": "Kyprínos",
+          "lat": 41.57542,
+          "lon": 26.22905
+        },
+        {
+          "name": "Kýria",
+          "lat": 41.099,
+          "lon": 24.28915
+        },
+        {
+          "name": "Lagós",
+          "lat": 41.45102,
+          "lon": 26.46067
+        },
+        {
+          "name": "Lávara",
+          "lat": 41.26957,
+          "lon": 26.38522
+        },
+        {
+          "name": "Limenária",
+          "lat": 40.62741,
+          "lon": 24.5765
+        },
+        {
+          "name": "Lýkeio",
+          "lat": 41.06413,
+          "lon": 25.6857
+        },
+        {
+          "name": "Mikrópolis",
+          "lat": 41.19351,
+          "lon": 23.8157
+        },
+        {
+          "name": "Mýki",
+          "lat": 41.24384,
+          "lon": 24.92084
+        },
+        {
+          "name": "Néa Iraklítsa",
+          "lat": 40.86442,
+          "lon": 24.3165
+        },
+        {
+          "name": "Néa Karváli",
+          "lat": 40.96148,
+          "lon": 24.51132
+        },
+        {
+          "name": "Néa Karyá",
+          "lat": 40.90621,
+          "lon": 24.70726
+        },
+        {
+          "name": "Néa Péramos",
+          "lat": 40.83854,
+          "lon": 24.3013
+        },
+        {
+          "name": "Néa Výssa",
+          "lat": 41.58449,
+          "lon": 26.54318
+        },
+        {
+          "name": "Neochóri",
+          "lat": 41.51131,
+          "lon": 26.4574
+        },
+        {
+          "name": "Nikísiani",
+          "lat": 40.94739,
+          "lon": 24.14311
+        },
+        {
+          "name": "Orestiáda",
+          "lat": 41.50306,
+          "lon": 26.52972
+        },
+        {
+          "name": "Páchni",
+          "lat": 41.30506,
+          "lon": 24.89438
+        },
+        {
+          "name": "Palaió Tsiflíki",
+          "lat": 40.90495,
+          "lon": 24.35083
+        },
+        {
+          "name": "Palaiochóri",
+          "lat": 40.94338,
+          "lon": 24.17747
+        },
+        {
+          "name": "Paralía Ofryníou",
+          "lat": 40.76663,
+          "lon": 23.90039
+        },
+        {
+          "name": "Paranésti",
+          "lat": 41.26667,
+          "lon": 24.5
+        },
+        {
+          "name": "Péplos",
+          "lat": 40.95755,
+          "lon": 26.26577
+        },
+        {
+          "name": "Peteinós",
+          "lat": 41.10056,
+          "lon": 24.89847
+        },
+        {
+          "name": "Petrochóri",
+          "lat": 41.08742,
+          "lon": 24.84092
+        },
+        {
+          "name": "Petroússa",
+          "lat": 41.1947,
+          "lon": 24.01731
+        },
+        {
+          "name": "Potamiá",
+          "lat": 40.71633,
+          "lon": 24.72859
+        },
+        {
+          "name": "Prínos",
+          "lat": 40.7409,
+          "lon": 24.57787
+        },
+        {
+          "name": "Prosotsáni",
+          "lat": 41.18333,
+          "lon": 23.96667
+        },
+        {
+          "name": "Rízia",
+          "lat": 41.6249,
+          "lon": 26.42771
+        },
+        {
+          "name": "Samothráki",
+          "lat": 40.47333,
+          "lon": 25.52222
+        },
+        {
+          "name": "Sápes",
+          "lat": 41.02861,
+          "lon": 25.69306
+        },
+        {
+          "name": "Sélero",
+          "lat": 41.13382,
+          "lon": 24.99408
+        },
+        {
+          "name": "Sitagroí",
+          "lat": 41.11067,
+          "lon": 24.02755
+        },
+        {
+          "name": "Smínthi",
+          "lat": 41.23333,
+          "lon": 24.86667
+        },
+        {
+          "name": "Souflí",
+          "lat": 41.19194,
+          "lon": 26.29944
+        },
+        {
+          "name": "Thásos",
+          "lat": 40.77806,
+          "lon": 24.70944
+        },
+        {
+          "name": "Tycheró",
+          "lat": 41.02878,
+          "lon": 26.29455
+        },
+        {
+          "name": "Vólakas",
+          "lat": 41.31661,
+          "lon": 24.00215
+        },
+        {
+          "name": "Xánthi",
+          "lat": 41.13488,
+          "lon": 24.888
+        },
+        {
+          "name": "Xiropótamos",
+          "lat": 41.19206,
+          "lon": 24.10385
+        },
+        {
+          "name": "Xylaganí",
+          "lat": 40.97437,
+          "lon": 25.42022
+        },
+        {
+          "name": "Zygós",
+          "lat": 41.0132,
+          "lon": 24.38132
+        }
+      ]
+    },
+    {
+      "name": "East Macedonia and Thrace",
+      "stateCode": "A",
+      "lat": 41.1295126,
+      "lon": 24.8877191,
+      "cities": []
+    },
+    {
+      "name": "Epirus Region",
+      "stateCode": "D",
+      "lat": 39.5706413,
+      "lon": 20.7642843,
+      "cities": [
+        {
+          "name": "Agía Kyriakí",
+          "lat": 39.52264,
+          "lon": 20.88358
+        },
+        {
+          "name": "Anatolí",
+          "lat": 39.63531,
+          "lon": 20.86578
+        },
+        {
+          "name": "Anéza",
+          "lat": 39.08658,
+          "lon": 20.923
+        },
+        {
+          "name": "Áno Kalentíni",
+          "lat": 39.25,
+          "lon": 21.18528
+        },
+        {
+          "name": "Árta",
+          "lat": 39.16014,
+          "lon": 20.98561
+        },
+        {
+          "name": "Asprángeloi",
+          "lat": 39.82328,
+          "lon": 20.72862
+        },
+        {
+          "name": "Chalkiádes",
+          "lat": 39.15981,
+          "lon": 20.93292
+        },
+        {
+          "name": "Eksochí",
+          "lat": 39.68744,
+          "lon": 20.8224
+        },
+        {
+          "name": "Eleoúsa",
+          "lat": 39.15278,
+          "lon": 20.96214
+        },
+        {
+          "name": "Filiátes",
+          "lat": 39.60111,
+          "lon": 20.31194
+        },
+        {
+          "name": "Filippiáda",
+          "lat": 39.20472,
+          "lon": 20.88222
+        },
+        {
+          "name": "Graikochóri",
+          "lat": 39.49789,
+          "lon": 20.27608
+        },
+        {
+          "name": "Grammenítsa",
+          "lat": 39.18444,
+          "lon": 20.97933
+        },
+        {
+          "name": "Igoumenítsa",
+          "lat": 39.50342,
+          "lon": 20.26728
+        },
+        {
+          "name": "Ioánnina",
+          "lat": 39.66486,
+          "lon": 20.85189
+        },
+        {
+          "name": "Kalamiá",
+          "lat": 39.16528,
+          "lon": 20.93206
+        },
+        {
+          "name": "Kalpáki",
+          "lat": 39.88778,
+          "lon": 20.62389
+        },
+        {
+          "name": "Kanaláki",
+          "lat": 39.23361,
+          "lon": 20.6
+        },
+        {
+          "name": "Kardamítsia",
+          "lat": 39.67816,
+          "lon": 20.81956
+        },
+        {
+          "name": "Katsikás",
+          "lat": 39.62281,
+          "lon": 20.88758
+        },
+        {
+          "name": "Kompóti",
+          "lat": 39.10255,
+          "lon": 21.08389
+        },
+        {
+          "name": "Kónitsa",
+          "lat": 40.04861,
+          "lon": 20.75667
+        },
+        {
+          "name": "Kostakioí",
+          "lat": 39.13672,
+          "lon": 20.95761
+        },
+        {
+          "name": "Koutselió",
+          "lat": 39.58808,
+          "lon": 20.91197
+        },
+        {
+          "name": "Loúros",
+          "lat": 39.166,
+          "lon": 20.75608
+        },
+        {
+          "name": "Metsovo",
+          "lat": 39.76944,
+          "lon": 21.18222
+        },
+        {
+          "name": "Néa Seléfkeia",
+          "lat": 39.52461,
+          "lon": 20.25519
+        },
+        {
+          "name": "Neochóri",
+          "lat": 39.07025,
+          "lon": 21.01892
+        },
+        {
+          "name": "Neochorópoulo",
+          "lat": 39.62553,
+          "lon": 20.83558
+        },
+        {
+          "name": "Néos Oropós",
+          "lat": 39.15064,
+          "lon": 20.73636
+        },
+        {
+          "name": "Nomós Ioannínon",
+          "lat": 39.75,
+          "lon": 20.66667
+        },
+        {
+          "name": "Pappadátes",
+          "lat": 39.31444,
+          "lon": 20.79314
+        },
+        {
+          "name": "Paramythiá",
+          "lat": 39.47111,
+          "lon": 20.51111
+        },
+        {
+          "name": "Parapótamos",
+          "lat": 39.54858,
+          "lon": 20.32436
+        },
+        {
+          "name": "Párga",
+          "lat": 39.28572,
+          "lon": 20.40044
+        },
+        {
+          "name": "Pediní",
+          "lat": 39.59994,
+          "lon": 20.84261
+        },
+        {
+          "name": "Pérama",
+          "lat": 39.69331,
+          "lon": 20.84656
+        },
+        {
+          "name": "Pérdika",
+          "lat": 39.36967,
+          "lon": 20.30419
+        },
+        {
+          "name": "Péta",
+          "lat": 39.16667,
+          "lon": 21.03472
+        },
+        {
+          "name": "Platariá",
+          "lat": 39.45044,
+          "lon": 20.27781
+        },
+        {
+          "name": "Prámanta",
+          "lat": 39.52306,
+          "lon": 21.10139
+        },
+        {
+          "name": "Préveza",
+          "lat": 38.95617,
+          "lon": 20.7505
+        },
+        {
+          "name": "Rodotópi",
+          "lat": 39.70822,
+          "lon": 20.72656
+        },
+        {
+          "name": "Stavráki",
+          "lat": 39.65614,
+          "lon": 20.81806
+        },
+        {
+          "name": "Thesprotikó",
+          "lat": 39.25114,
+          "lon": 20.78528
+        },
+        {
+          "name": "Tsiflikópoulo",
+          "lat": 39.65624,
+          "lon": 20.83882
+        },
+        {
+          "name": "Voulgaréli",
+          "lat": 39.37194,
+          "lon": 21.18333
+        },
+        {
+          "name": "Vounoplagiá",
+          "lat": 39.69161,
+          "lon": 20.78597
+        }
+      ]
+    },
+    {
+      "name": "Euboea",
+      "stateCode": "04",
+      "lat": 38.5236036,
+      "lon": 23.8584737,
+      "cities": []
+    },
+    {
+      "name": "Grevena Prefecture",
+      "stateCode": "51",
+      "lat": 40.0837626,
+      "lon": 21.4273299,
+      "cities": []
+    },
+    {
+      "name": "Imathia Regional Unit",
+      "stateCode": "53",
+      "lat": 40.6060067,
+      "lon": 22.1430215,
+      "cities": []
+    },
+    {
+      "name": "Ioannina Regional Unit",
+      "stateCode": "33",
+      "lat": 39.6650288,
+      "lon": 20.8537466,
+      "cities": []
+    },
+    {
+      "name": "Ionian Islands Region",
+      "stateCode": "F",
+      "lat": 37.9694898,
+      "lon": 21.3802372,
+      "cities": [
+        {
+          "name": "Acharávi",
+          "lat": 39.7936,
+          "lon": 19.81736
+        },
+        {
+          "name": "Agios Georgis",
+          "lat": 39.72363,
+          "lon": 19.69969
+        },
+        {
+          "name": "Ágios Matthaíos",
+          "lat": 39.49506,
+          "lon": 19.87336
+        },
+        {
+          "name": "Alepoú",
+          "lat": 39.61594,
+          "lon": 19.89564
+        },
+        {
+          "name": "Ambelókipoi",
+          "lat": 37.75809,
+          "lon": 20.87248
+        },
+        {
+          "name": "Argostólion",
+          "lat": 38.18109,
+          "lon": 20.48903
+        },
+        {
+          "name": "Corfu",
+          "lat": 39.62069,
+          "lon": 19.91975
+        },
+        {
+          "name": "Gáïos",
+          "lat": 39.19722,
+          "lon": 20.18556
+        },
+        {
+          "name": "Gaïtánion",
+          "lat": 37.79134,
+          "lon": 20.87407
+        },
+        {
+          "name": "Itháki",
+          "lat": 38.36421,
+          "lon": 20.71848
+        },
+        {
+          "name": "Kanáli",
+          "lat": 39.60556,
+          "lon": 19.8925
+        },
+        {
+          "name": "Katastárion",
+          "lat": 37.83012,
+          "lon": 20.75755
+        },
+        {
+          "name": "Kontokáli",
+          "lat": 39.64436,
+          "lon": 19.85194
+        },
+        {
+          "name": "Kynopiástes",
+          "lat": 39.56785,
+          "lon": 19.88362
+        },
+        {
+          "name": "Lefkada",
+          "lat": 38.75,
+          "lon": 20.66667
+        },
+        {
+          "name": "Lefkímmi",
+          "lat": 39.42336,
+          "lon": 20.07094
+        },
+        {
+          "name": "Lithakiá",
+          "lat": 37.71935,
+          "lon": 20.83013
+        },
+        {
+          "name": "Lixoúri",
+          "lat": 38.20133,
+          "lon": 20.43706
+        },
+        {
+          "name": "Mouzaki",
+          "lat": 37.73565,
+          "lon": 20.82291
+        },
+        {
+          "name": "Nomós Kerkýras",
+          "lat": 39.66667,
+          "lon": 19.75
+        },
+        {
+          "name": "Nomós Zakýnthou",
+          "lat": 37.75,
+          "lon": 20.75
+        },
+        {
+          "name": "Perama",
+          "lat": 39.58289,
+          "lon": 19.9122
+        },
+        {
+          "name": "Perivóli",
+          "lat": 39.41936,
+          "lon": 20.01469
+        },
+        {
+          "name": "Póros",
+          "lat": 38.15369,
+          "lon": 20.7712
+        },
+        {
+          "name": "Potamós",
+          "lat": 39.6242,
+          "lon": 19.87826
+        },
+        {
+          "name": "Sámi",
+          "lat": 38.25081,
+          "lon": 20.64686
+        },
+        {
+          "name": "Valsamáta",
+          "lat": 38.176,
+          "lon": 20.58392
+        },
+        {
+          "name": "Vanáton",
+          "lat": 37.79446,
+          "lon": 20.85188
+        },
+        {
+          "name": "Virós",
+          "lat": 39.5834,
+          "lon": 19.8827
+        },
+        {
+          "name": "Zakynthos",
+          "lat": 37.78022,
+          "lon": 20.89555
+        }
+      ]
+    },
+    {
+      "name": "Karditsa Regional Unit",
+      "stateCode": "41",
+      "lat": 39.3640258,
+      "lon": 21.9214049,
+      "cities": []
+    },
+    {
+      "name": "Kastoria Regional Unit",
+      "stateCode": "56",
+      "lat": 40.5192691,
+      "lon": 21.2687171,
+      "cities": []
+    },
+    {
+      "name": "Kefalonia Prefecture",
+      "stateCode": "23",
+      "lat": 38.1753675,
+      "lon": 20.5692179,
+      "cities": [
+        {
+          "name": "Agía Triáda",
+          "lat": 39.46361,
+          "lon": 21.89848
+        },
+        {
+          "name": "Agnanteró",
+          "lat": 39.48586,
+          "lon": 21.84789
+        },
+        {
+          "name": "Anávra",
+          "lat": 39.18996,
+          "lon": 22.09308
+        },
+        {
+          "name": "Anthiró",
+          "lat": 39.34722,
+          "lon": 21.45833
+        },
+        {
+          "name": "Artesianó",
+          "lat": 39.40194,
+          "lon": 21.89649
+        },
+        {
+          "name": "Itéa",
+          "lat": 39.45669,
+          "lon": 22.16577
+        },
+        {
+          "name": "Kallifóni",
+          "lat": 39.27712,
+          "lon": 21.96128
+        },
+        {
+          "name": "Kallíthiro",
+          "lat": 39.28099,
+          "lon": 21.90491
+        },
+        {
+          "name": "Kardítsa",
+          "lat": 39.36485,
+          "lon": 21.92191
+        },
+        {
+          "name": "Karditsomagoúla",
+          "lat": 39.39061,
+          "lon": 21.9233
+        },
+        {
+          "name": "Karpochóri",
+          "lat": 39.33575,
+          "lon": 22.01129
+        },
+        {
+          "name": "Magoúla",
+          "lat": 39.45395,
+          "lon": 21.80351
+        },
+        {
+          "name": "Makrychóri",
+          "lat": 39.43978,
+          "lon": 21.96582
+        },
+        {
+          "name": "Mavrommáti",
+          "lat": 39.42386,
+          "lon": 21.69379
+        },
+        {
+          "name": "Mitrópoli",
+          "lat": 39.33933,
+          "lon": 21.83751
+        },
+        {
+          "name": "Morfovoúni",
+          "lat": 39.3525,
+          "lon": 21.75
+        },
+        {
+          "name": "Mouzáki",
+          "lat": 39.42972,
+          "lon": 21.66361
+        },
+        {
+          "name": "Palamás",
+          "lat": 39.46667,
+          "lon": 22.08333
+        },
+        {
+          "name": "Proástio",
+          "lat": 39.48682,
+          "lon": 21.90288
+        },
+        {
+          "name": "Sofádes",
+          "lat": 39.33333,
+          "lon": 22.1
+        }
+      ]
+    },
+    {
+      "name": "Kilkis Regional Unit",
+      "stateCode": "57",
+      "lat": 40.9937071,
+      "lon": 22.8753674,
+      "cities": []
+    },
+    {
+      "name": "Kozani Prefecture",
+      "stateCode": "58",
+      "lat": 40.3005586,
+      "lon": 21.7887737,
+      "cities": []
+    },
+    {
+      "name": "Laconia",
+      "stateCode": "16",
+      "lat": 43.5278546,
+      "lon": -71.4703509,
+      "cities": []
+    },
+    {
+      "name": "Larissa Prefecture",
+      "stateCode": "42",
+      "lat": 39.6390224,
+      "lon": 22.4191254,
+      "cities": []
+    },
+    {
+      "name": "Lefkada Regional Unit",
+      "stateCode": "24",
+      "lat": 38.8333663,
+      "lon": 20.7069108,
+      "cities": [
+        {
+          "name": "Agriá",
+          "lat": 39.34078,
+          "lon": 23.01258
+        },
+        {
+          "name": "Álli Meriá",
+          "lat": 39.37039,
+          "lon": 22.9835
+        },
+        {
+          "name": "Almyrós",
+          "lat": 39.18222,
+          "lon": 22.75944
+        },
+        {
+          "name": "Anakasiá",
+          "lat": 39.38112,
+          "lon": 22.97484
+        },
+        {
+          "name": "Áno Lekhónia",
+          "lat": 39.32763,
+          "lon": 23.05395
+        },
+        {
+          "name": "Argalastí",
+          "lat": 39.22627,
+          "lon": 23.21868
+        },
+        {
+          "name": "Evxinoúpolis",
+          "lat": 39.18414,
+          "lon": 22.73831
+        },
+        {
+          "name": "Kanália",
+          "lat": 39.49928,
+          "lon": 22.88589
+        },
+        {
+          "name": "Káto Lekhónia",
+          "lat": 39.33091,
+          "lon": 23.03957
+        },
+        {
+          "name": "Néa Anchiálos",
+          "lat": 39.28015,
+          "lon": 22.81819
+        },
+        {
+          "name": "Néa Ionía",
+          "lat": 39.37904,
+          "lon": 22.92752
+        },
+        {
+          "name": "Patitírion",
+          "lat": 39.14657,
+          "lon": 23.86494
+        },
+        {
+          "name": "Portariá",
+          "lat": 39.3895,
+          "lon": 22.99948
+        },
+        {
+          "name": "Pteleós",
+          "lat": 39.05261,
+          "lon": 22.95271
+        },
+        {
+          "name": "Rizómylos",
+          "lat": 39.42763,
+          "lon": 22.74717
+        },
+        {
+          "name": "Skiáthos",
+          "lat": 39.16227,
+          "lon": 23.49089
+        },
+        {
+          "name": "Skópelos",
+          "lat": 39.12144,
+          "lon": 23.72686
+        },
+        {
+          "name": "Soúrpi",
+          "lat": 39.10319,
+          "lon": 22.89789
+        },
+        {
+          "name": "Stefanovíkeio",
+          "lat": 39.46354,
+          "lon": 22.74198
+        },
+        {
+          "name": "Tríkeri",
+          "lat": 39.10114,
+          "lon": 23.07669
+        },
+        {
+          "name": "Velestíno",
+          "lat": 39.38181,
+          "lon": 22.74616
+        },
+        {
+          "name": "Volos",
+          "lat": 39.36103,
+          "lon": 22.94248
+        },
+        {
+          "name": "Zagorá",
+          "lat": 39.45,
+          "lon": 23.1
+        }
+      ]
+    },
+    {
+      "name": "Pella Regional Unit",
+      "stateCode": "59",
+      "lat": 40.9148039,
+      "lon": 22.1430215,
+      "cities": []
+    },
+    {
+      "name": "Peloponnese Region",
+      "stateCode": "J",
+      "lat": 37.5079472,
+      "lon": 22.37349,
+      "cities": [
+        {
+          "name": "Ágioi Theódoroi",
+          "lat": 37.92736,
+          "lon": 23.14221
+        },
+        {
+          "name": "Ágios Andréas",
+          "lat": 37.34519,
+          "lon": 22.76466
+        },
+        {
+          "name": "Arfará",
+          "lat": 37.15619,
+          "lon": 22.04485
+        },
+        {
+          "name": "Árgos",
+          "lat": 37.63333,
+          "lon": 22.73333
+        },
+        {
+          "name": "Aria",
+          "lat": 37.57372,
+          "lon": 22.83539
+        },
+        {
+          "name": "Áris",
+          "lat": 37.0992,
+          "lon": 22.00443
+        },
+        {
+          "name": "Arkhaía Kórinthos",
+          "lat": 37.90953,
+          "lon": 22.88353
+        },
+        {
+          "name": "Asíni",
+          "lat": 37.54431,
+          "lon": 22.86435
+        },
+        {
+          "name": "Asopós",
+          "lat": 36.72986,
+          "lon": 22.85455
+        },
+        {
+          "name": "Ássos",
+          "lat": 37.93955,
+          "lon": 22.82223
+        },
+        {
+          "name": "Ástros",
+          "lat": 37.40395,
+          "lon": 22.72118
+        },
+        {
+          "name": "Athíkia",
+          "lat": 37.81675,
+          "lon": 22.92939
+        },
+        {
+          "name": "Ayía Triás",
+          "lat": 37.63707,
+          "lon": 22.80504
+        },
+        {
+          "name": "Áyios Adhrianós",
+          "lat": 37.59975,
+          "lon": 22.8456
+        },
+        {
+          "name": "Áyios Vasílios",
+          "lat": 37.79763,
+          "lon": 22.79727
+        },
+        {
+          "name": "Chóra",
+          "lat": 37.05106,
+          "lon": 21.7169
+        },
+        {
+          "name": "Dídyma",
+          "lat": 37.4625,
+          "lon": 23.17183
+        },
+        {
+          "name": "Dimitsána",
+          "lat": 37.59524,
+          "lon": 22.04025
+        },
+        {
+          "name": "Drépanon",
+          "lat": 37.53888,
+          "lon": 22.89323
+        },
+        {
+          "name": "Ermióni",
+          "lat": 37.38492,
+          "lon": 23.24686
+        },
+        {
+          "name": "Examília",
+          "lat": 37.89736,
+          "lon": 22.92832
+        },
+        {
+          "name": "Filiatrá",
+          "lat": 37.15637,
+          "lon": 21.58532
+        },
+        {
+          "name": "Gargaliánoi",
+          "lat": 37.06518,
+          "lon": 21.63809
+        },
+        {
+          "name": "Géfyra",
+          "lat": 36.68715,
+          "lon": 23.03509
+        },
+        {
+          "name": "Geráki",
+          "lat": 36.99227,
+          "lon": 22.70663
+        },
+        {
+          "name": "Gýtheio",
+          "lat": 36.755,
+          "lon": 22.56417
+        },
+        {
+          "name": "Isthmía",
+          "lat": 37.91356,
+          "lon": 23.0046
+        },
+        {
+          "name": "Kalamata",
+          "lat": 37.03913,
+          "lon": 22.11265
+        },
+        {
+          "name": "Kardamýli",
+          "lat": 36.88778,
+          "lon": 22.23317
+        },
+        {
+          "name": "Karyés",
+          "lat": 37.29119,
+          "lon": 22.50066
+        },
+        {
+          "name": "Káto Dhiminió",
+          "lat": 38.0249,
+          "lon": 22.73294
+        },
+        {
+          "name": "Káto Glykóvrysi",
+          "lat": 36.82791,
+          "lon": 22.77732
+        },
+        {
+          "name": "Khiliomódhi",
+          "lat": 37.81016,
+          "lon": 22.86972
+        },
+        {
+          "name": "Kiáto",
+          "lat": 38.01321,
+          "lon": 22.74839
+        },
+        {
+          "name": "Koilás",
+          "lat": 37.4123,
+          "lon": 23.12553
+        },
+        {
+          "name": "Kokkónion",
+          "lat": 37.97061,
+          "lon": 22.78018
+        },
+        {
+          "name": "Kopanáki",
+          "lat": 37.28913,
+          "lon": 21.81854
+        },
+        {
+          "name": "Kórinthos",
+          "lat": 37.94007,
+          "lon": 22.9513
+        },
+        {
+          "name": "Koróni",
+          "lat": 36.79526,
+          "lon": 21.95794
+        },
+        {
+          "name": "Koutsopódi",
+          "lat": 37.68426,
+          "lon": 22.71355
+        },
+        {
+          "name": "Kranídi",
+          "lat": 37.37974,
+          "lon": 23.15969
+        },
+        {
+          "name": "Krokeés",
+          "lat": 36.88297,
+          "lon": 22.54683
+        },
+        {
+          "name": "Kyparissía",
+          "lat": 37.25111,
+          "lon": 21.67361
+        },
+        {
+          "name": "Kyrás Vrýsi",
+          "lat": 37.91295,
+          "lon": 22.98651
+        },
+        {
+          "name": "Langádhia",
+          "lat": 37.68186,
+          "lon": 22.03002
+        },
+        {
+          "name": "Lékhaio",
+          "lat": 37.93279,
+          "lon": 22.85002
+        },
+        {
+          "name": "Leonídio",
+          "lat": 37.16679,
+          "lon": 22.85773
+        },
+        {
+          "name": "Levídion",
+          "lat": 37.68269,
+          "lon": 22.29586
+        },
+        {
+          "name": "Ligourión",
+          "lat": 37.61233,
+          "lon": 23.03773
+        },
+        {
+          "name": "Loutrá Oraías Elénis",
+          "lat": 37.86466,
+          "lon": 22.99614
+        },
+        {
+          "name": "Loutráki",
+          "lat": 37.9783,
+          "lon": 22.97781
+        },
+        {
+          "name": "Magoúla",
+          "lat": 37.08007,
+          "lon": 22.40469
+        },
+        {
+          "name": "Megalópoli",
+          "lat": 37.40111,
+          "lon": 22.14222
+        },
+        {
+          "name": "Meligalás",
+          "lat": 37.21667,
+          "lon": 21.96667
+        },
+        {
+          "name": "Messíni",
+          "lat": 37.05111,
+          "lon": 22.00778
+        },
+        {
+          "name": "Methóni",
+          "lat": 36.81973,
+          "lon": 21.70486
+        },
+        {
+          "name": "Moláoi",
+          "lat": 36.80757,
+          "lon": 22.85132
+        },
+        {
+          "name": "Moúlki",
+          "lat": 37.99319,
+          "lon": 22.72531
+        },
+        {
+          "name": "Náfplio",
+          "lat": 37.56863,
+          "lon": 22.80691
+        },
+        {
+          "name": "Néa Kíos",
+          "lat": 37.59023,
+          "lon": 22.74342
+        },
+        {
+          "name": "Néa Tírins",
+          "lat": 37.60793,
+          "lon": 22.81996
+        },
+        {
+          "name": "Neméa",
+          "lat": 37.82068,
+          "lon": 22.66102
+        },
+        {
+          "name": "Nomós Arkadías",
+          "lat": 37.58333,
+          "lon": 22.25
+        },
+        {
+          "name": "Palaiá Epídavros",
+          "lat": 37.63847,
+          "lon": 23.15609
+        },
+        {
+          "name": "Paralía Vérgas",
+          "lat": 37.00708,
+          "lon": 22.15676
+        },
+        {
+          "name": "Pásion",
+          "lat": 38.01294,
+          "lon": 22.72814
+        },
+        {
+          "name": "Perachóra",
+          "lat": 38.03021,
+          "lon": 22.94902
+        },
+        {
+          "name": "Periyiáli",
+          "lat": 37.94041,
+          "lon": 22.83946
+        },
+        {
+          "name": "Pórto Chéli",
+          "lat": 37.32786,
+          "lon": 23.14384
+        },
+        {
+          "name": "Pýlos",
+          "lat": 36.91298,
+          "lon": 21.6965
+        },
+        {
+          "name": "Sikyón",
+          "lat": 37.9823,
+          "lon": 22.72462
+        },
+        {
+          "name": "Skála",
+          "lat": 36.85,
+          "lon": 22.66667
+        },
+        {
+          "name": "Sofikón",
+          "lat": 37.79412,
+          "lon": 23.05204
+        },
+        {
+          "name": "Spárti",
+          "lat": 37.07446,
+          "lon": 22.43009
+        },
+        {
+          "name": "Sperchógeia",
+          "lat": 37.07405,
+          "lon": 22.06248
+        },
+        {
+          "name": "Sykiá",
+          "lat": 36.76398,
+          "lon": 22.94302
+        },
+        {
+          "name": "Thouría",
+          "lat": 37.08356,
+          "lon": 22.04891
+        },
+        {
+          "name": "Tolón",
+          "lat": 37.52021,
+          "lon": 22.8586
+        },
+        {
+          "name": "Traganón",
+          "lat": 37.89789,
+          "lon": 21.31245
+        },
+        {
+          "name": "Trípoli",
+          "lat": 37.50889,
+          "lon": 22.37944
+        },
+        {
+          "name": "Vélo",
+          "lat": 37.9761,
+          "lon": 22.75985
+        },
+        {
+          "name": "Vlachiótis",
+          "lat": 36.86094,
+          "lon": 22.70831
+        },
+        {
+          "name": "Vlachópoulo",
+          "lat": 37.03186,
+          "lon": 21.79158
+        },
+        {
+          "name": "Vokhaïkó",
+          "lat": 37.94843,
+          "lon": 22.79203
+        },
+        {
+          "name": "Vrakháti",
+          "lat": 37.95895,
+          "lon": 22.80573
+        },
+        {
+          "name": "Xylókastro",
+          "lat": 38.07762,
+          "lon": 22.63166
+        },
+        {
+          "name": "Zevgolateió",
+          "lat": 37.93333,
+          "lon": 22.8
+        }
+      ]
+    },
+    {
+      "name": "Phthiotis Prefecture",
+      "stateCode": "06",
+      "lat": 38.999785,
+      "lon": 22.3337769,
+      "cities": []
+    },
+    {
+      "name": "Preveza Prefecture",
+      "stateCode": "34",
+      "lat": 38.9592649,
+      "lon": 20.7517155,
+      "cities": []
+    },
+    {
+      "name": "Serres Prefecture",
+      "stateCode": "62",
+      "lat": 41.0863854,
+      "lon": 23.5483819,
+      "cities": []
+    },
+    {
+      "name": "South Aegean",
+      "stateCode": "L",
+      "lat": 37.0855302,
+      "lon": 25.1489215,
+      "cities": [
+        {
+          "name": "Adámas",
+          "lat": 36.72506,
+          "lon": 24.44685
+        },
+        {
+          "name": "Afántou",
+          "lat": 36.29354,
+          "lon": 28.16225
+        },
+        {
+          "name": "Agía Marína",
+          "lat": 37.1543,
+          "lon": 26.85162
+        },
+        {
+          "name": "Amorgós",
+          "lat": 36.83175,
+          "lon": 25.89821
+        },
+        {
+          "name": "Anáfi",
+          "lat": 36.35,
+          "lon": 25.76667
+        },
+        {
+          "name": "Andros",
+          "lat": 37.83333,
+          "lon": 24.93333
+        },
+        {
+          "name": "Áno Merá",
+          "lat": 37.44904,
+          "lon": 25.39095
+        },
+        {
+          "name": "Áno Sýros",
+          "lat": 37.44997,
+          "lon": 24.93562
+        },
+        {
+          "name": "Antimácheia",
+          "lat": 36.80888,
+          "lon": 27.09764
+        },
+        {
+          "name": "Antíparos",
+          "lat": 37.0394,
+          "lon": 25.08258
+        },
+        {
+          "name": "Archángelos",
+          "lat": 36.21492,
+          "lon": 28.11487
+        },
+        {
+          "name": "Astypálaia",
+          "lat": 36.55,
+          "lon": 26.35
+        },
+        {
+          "name": "Chálki",
+          "lat": 36.22243,
+          "lon": 27.61191
+        },
+        {
+          "name": "Émponas",
+          "lat": 36.22683,
+          "lon": 27.85645
+        },
+        {
+          "name": "Emporeío",
+          "lat": 36.35816,
+          "lon": 25.44615
+        },
+        {
+          "name": "Ermoúpolis",
+          "lat": 37.44466,
+          "lon": 24.9429
+        },
+        {
+          "name": "Faliraki",
+          "lat": 36.33981,
+          "lon": 28.19942
+        },
+        {
+          "name": "Filótion",
+          "lat": 37.05167,
+          "lon": 25.49829
+        },
+        {
+          "name": "Firá",
+          "lat": 36.42107,
+          "lon": 25.43087
+        },
+        {
+          "name": "Folégandros",
+          "lat": 36.62794,
+          "lon": 24.92021
+        },
+        {
+          "name": "Fry",
+          "lat": 35.41623,
+          "lon": 26.92328
+        },
+        {
+          "name": "Ialysós",
+          "lat": 36.41352,
+          "lon": 28.15516
+        },
+        {
+          "name": "Íos",
+          "lat": 36.73333,
+          "lon": 25.28333
+        },
+        {
+          "name": "Kálymnos",
+          "lat": 36.9503,
+          "lon": 26.98388
+        },
+        {
+          "name": "Kardámaina",
+          "lat": 36.78305,
+          "lon": 27.14289
+        },
+        {
+          "name": "Karpathos",
+          "lat": 35.50701,
+          "lon": 27.21322
+        },
+        {
+          "name": "Kéfalos",
+          "lat": 36.74507,
+          "lon": 26.95961
+        },
+        {
+          "name": "Kímolos",
+          "lat": 36.79368,
+          "lon": 24.57577
+        },
+        {
+          "name": "Kos",
+          "lat": 36.89295,
+          "lon": 27.28768
+        },
+        {
+          "name": "Kremastí",
+          "lat": 36.40981,
+          "lon": 28.1192
+        },
+        {
+          "name": "Kýthnos",
+          "lat": 37.41237,
+          "lon": 24.43068
+        },
+        {
+          "name": "Lakkí",
+          "lat": 37.13344,
+          "lon": 26.85237
+        },
+        {
+          "name": "Lárdos",
+          "lat": 36.09419,
+          "lon": 28.01565
+        },
+        {
+          "name": "Mandráki",
+          "lat": 36.61139,
+          "lon": 27.13333
+        },
+        {
+          "name": "Megálo Chorió",
+          "lat": 37.4582,
+          "lon": 26.97272
+        },
+        {
+          "name": "Megísti",
+          "lat": 36.14889,
+          "lon": 29.59361
+        },
+        {
+          "name": "Mesariá",
+          "lat": 36.39893,
+          "lon": 25.44807
+        },
+        {
+          "name": "Mílos",
+          "lat": 36.74536,
+          "lon": 24.4265
+        },
+        {
+          "name": "Mykonos",
+          "lat": 37.44529,
+          "lon": 25.32872
+        },
+        {
+          "name": "Náousa",
+          "lat": 37.12181,
+          "lon": 25.24014
+        },
+        {
+          "name": "Náxos",
+          "lat": 37.10556,
+          "lon": 25.37639
+        },
+        {
+          "name": "Nomós Kykládon",
+          "lat": 37.41667,
+          "lon": 24.91667
+        },
+        {
+          "name": "Oía",
+          "lat": 36.4626,
+          "lon": 25.37637
+        },
+        {
+          "name": "Ornós",
+          "lat": 37.42391,
+          "lon": 25.32248
+        },
+        {
+          "name": "Pánormos",
+          "lat": 36.97156,
+          "lon": 26.93727
+        },
+        {
+          "name": "Páros",
+          "lat": 37.08333,
+          "lon": 25.15
+        },
+        {
+          "name": "Pátmos",
+          "lat": 37.30895,
+          "lon": 26.54723
+        },
+        {
+          "name": "Pylí",
+          "lat": 36.84472,
+          "lon": 27.15932
+        },
+        {
+          "name": "Ródos",
+          "lat": 36.43556,
+          "lon": 28.22199
+        },
+        {
+          "name": "Sérifos",
+          "lat": 37.15397,
+          "lon": 24.50614
+        },
+        {
+          "name": "Skála",
+          "lat": 37.32218,
+          "lon": 26.543
+        },
+        {
+          "name": "Sými",
+          "lat": 36.61547,
+          "lon": 27.83619
+        },
+        {
+          "name": "Tínos",
+          "lat": 37.53753,
+          "lon": 25.16343
+        },
+        {
+          "name": "Vári",
+          "lat": 37.39859,
+          "lon": 24.94904
+        },
+        {
+          "name": "Zipári",
+          "lat": 36.87696,
+          "lon": 27.20532
+        }
+      ]
+    },
+    {
+      "name": "Thessaloniki Regional Unit",
+      "stateCode": "54",
+      "lat": 40.6400629,
+      "lon": 22.9444191,
+      "cities": []
+    },
+    {
+      "name": "West Greece Region",
+      "stateCode": "G",
+      "lat": 38.5115496,
+      "lon": 21.5706786,
+      "cities": [
+        {
+          "name": "Agrínio",
+          "lat": 38.62139,
+          "lon": 21.40778
+        },
+        {
+          "name": "Aígio",
+          "lat": 38.24861,
+          "lon": 22.08194
+        },
+        {
+          "name": "Aitolikó",
+          "lat": 38.43704,
+          "lon": 21.35358
+        },
+        {
+          "name": "Aíyira",
+          "lat": 38.14846,
+          "lon": 22.35426
+        },
+        {
+          "name": "Akráta",
+          "lat": 38.15469,
+          "lon": 22.3183
+        },
+        {
+          "name": "Aktaío",
+          "lat": 38.30444,
+          "lon": 21.7944
+        },
+        {
+          "name": "Alfeioúsa",
+          "lat": 37.64019,
+          "lon": 21.5375
+        },
+        {
+          "name": "Amaliáda",
+          "lat": 37.79842,
+          "lon": 21.35068
+        },
+        {
+          "name": "Amfilochía",
+          "lat": 38.85944,
+          "lon": 21.16639
+        },
+        {
+          "name": "Andravída",
+          "lat": 37.90588,
+          "lon": 21.26936
+        },
+        {
+          "name": "Angelókastro",
+          "lat": 38.56585,
+          "lon": 21.29631
+        },
+        {
+          "name": "Áno Kastrítsi",
+          "lat": 38.27228,
+          "lon": 21.836
+        },
+        {
+          "name": "Antirrio",
+          "lat": 38.33014,
+          "lon": 21.76413
+        },
+        {
+          "name": "Archaía Olympía",
+          "lat": 37.64788,
+          "lon": 21.6271
+        },
+        {
+          "name": "Archontochóri",
+          "lat": 38.70053,
+          "lon": 21.03896
+        },
+        {
+          "name": "Arkoúdi",
+          "lat": 37.84681,
+          "lon": 21.11022
+        },
+        {
+          "name": "Astakós",
+          "lat": 38.53556,
+          "lon": 21.08135
+        },
+        {
+          "name": "Áyios Konstandínos",
+          "lat": 38.63337,
+          "lon": 21.3995
+        },
+        {
+          "name": "Chalandrítsa",
+          "lat": 38.10843,
+          "lon": 21.78349
+        },
+        {
+          "name": "Chávari",
+          "lat": 37.84842,
+          "lon": 21.38403
+        },
+        {
+          "name": "Dhokímion",
+          "lat": 38.61352,
+          "lon": 21.38072
+        },
+        {
+          "name": "Epitálio",
+          "lat": 37.62675,
+          "lon": 21.49528
+        },
+        {
+          "name": "Fyteíes",
+          "lat": 38.69524,
+          "lon": 21.18467
+        },
+        {
+          "name": "Galatás",
+          "lat": 38.35742,
+          "lon": 21.56222
+        },
+        {
+          "name": "Gastoúni",
+          "lat": 37.85,
+          "lon": 21.25
+        },
+        {
+          "name": "Gavaloú",
+          "lat": 38.52903,
+          "lon": 21.53226
+        },
+        {
+          "name": "Goúmero",
+          "lat": 37.76236,
+          "lon": 21.61853
+        },
+        {
+          "name": "Kainoúryion",
+          "lat": 38.60453,
+          "lon": 21.48776
+        },
+        {
+          "name": "Kalávryta",
+          "lat": 38.03222,
+          "lon": 22.1125
+        },
+        {
+          "name": "Kamárai",
+          "lat": 38.29881,
+          "lon": 21.99892
+        },
+        {
+          "name": "Kandíla",
+          "lat": 38.70564,
+          "lon": 20.94749
+        },
+        {
+          "name": "Karátoula",
+          "lat": 37.73564,
+          "lon": 21.53578
+        },
+        {
+          "name": "Kardamás",
+          "lat": 37.76729,
+          "lon": 21.33946
+        },
+        {
+          "name": "Káto Achaḯa",
+          "lat": 38.15,
+          "lon": 21.55
+        },
+        {
+          "name": "Káto Mazaráki",
+          "lat": 38.07035,
+          "lon": 21.65097
+        },
+        {
+          "name": "Katochí",
+          "lat": 38.41237,
+          "lon": 21.25258
+        },
+        {
+          "name": "Katoúna",
+          "lat": 38.78547,
+          "lon": 21.11417
+        },
+        {
+          "name": "Kavásila",
+          "lat": 37.87581,
+          "lon": 21.26422
+        },
+        {
+          "name": "Kréstena",
+          "lat": 37.59193,
+          "lon": 21.62034
+        },
+        {
+          "name": "Kríkellos",
+          "lat": 38.94532,
+          "lon": 21.1791
+        },
+        {
+          "name": "Kyllíni",
+          "lat": 37.93542,
+          "lon": 21.14503
+        },
+        {
+          "name": "Lálas",
+          "lat": 37.70936,
+          "lon": 21.72117
+        },
+        {
+          "name": "Lápas",
+          "lat": 38.09755,
+          "lon": 21.41861
+        },
+        {
+          "name": "Lechainá",
+          "lat": 37.93333,
+          "lon": 21.26667
+        },
+        {
+          "name": "Lepenoú",
+          "lat": 38.70839,
+          "lon": 21.2897
+        },
+        {
+          "name": "Limnokhórion",
+          "lat": 38.14115,
+          "lon": 21.48047
+        },
+        {
+          "name": "Makrísia",
+          "lat": 37.60957,
+          "lon": 21.60509
+        },
+        {
+          "name": "Manoláda",
+          "lat": 38.04708,
+          "lon": 21.34814
+        },
+        {
+          "name": "Mataránga",
+          "lat": 38.52359,
+          "lon": 21.47325
+        },
+        {
+          "name": "Megáli Khóra",
+          "lat": 38.64629,
+          "lon": 21.37309
+        },
+        {
+          "name": "Menídi",
+          "lat": 39.04213,
+          "lon": 21.11875
+        },
+        {
+          "name": "Mesolóngi",
+          "lat": 38.37138,
+          "lon": 21.43151
+        },
+        {
+          "name": "Mindilóglion",
+          "lat": 38.18387,
+          "lon": 21.70133
+        },
+        {
+          "name": "Monastiráki",
+          "lat": 38.85053,
+          "lon": 20.94458
+        },
+        {
+          "name": "Myrsíni",
+          "lat": 37.92117,
+          "lon": 21.237
+        },
+        {
+          "name": "Náfpaktos",
+          "lat": 38.39167,
+          "lon": 21.8275
+        },
+        {
+          "name": "Néa Manoláda",
+          "lat": 38.05378,
+          "lon": 21.38189
+        },
+        {
+          "name": "Neápolis",
+          "lat": 38.67144,
+          "lon": 21.36274
+        },
+        {
+          "name": "Neochóri",
+          "lat": 37.90794,
+          "lon": 21.20392
+        },
+        {
+          "name": "Neochórion",
+          "lat": 38.40847,
+          "lon": 21.27511
+        },
+        {
+          "name": "Nomós Achaḯas",
+          "lat": 38,
+          "lon": 22
+        },
+        {
+          "name": "Nomós Aitolías kai Akarnanías",
+          "lat": 38.5,
+          "lon": 21.5
+        },
+        {
+          "name": "Nomós Ileías",
+          "lat": 37.75,
+          "lon": 21.58333
+        },
+        {
+          "name": "Ovriá",
+          "lat": 38.18866,
+          "lon": 21.72903
+        },
+        {
+          "name": "Pálairos",
+          "lat": 38.783,
+          "lon": 20.88183
+        },
+        {
+          "name": "Panaitólion",
+          "lat": 38.58316,
+          "lon": 21.44729
+        },
+        {
+          "name": "Pappadhátai",
+          "lat": 38.52816,
+          "lon": 21.45016
+        },
+        {
+          "name": "Paralía",
+          "lat": 38.19833,
+          "lon": 21.70263
+        },
+        {
+          "name": "Paravóla",
+          "lat": 38.61472,
+          "lon": 21.52046
+        },
+        {
+          "name": "Pátra",
+          "lat": 38.24444,
+          "lon": 21.73444
+        },
+        {
+          "name": "Pelópi",
+          "lat": 37.67444,
+          "lon": 21.59344
+        },
+        {
+          "name": "Plátanos",
+          "lat": 37.66731,
+          "lon": 21.61108
+        },
+        {
+          "name": "Pýrgos",
+          "lat": 37.67513,
+          "lon": 21.44102
+        },
+        {
+          "name": "Río",
+          "lat": 38.29558,
+          "lon": 21.78504
+        },
+        {
+          "name": "Rododáfni",
+          "lat": 38.26976,
+          "lon": 22.04875
+        },
+        {
+          "name": "Royítika",
+          "lat": 38.18268,
+          "lon": 21.68414
+        },
+        {
+          "name": "Sardínia",
+          "lat": 38.89003,
+          "lon": 21.20619
+        },
+        {
+          "name": "Savália",
+          "lat": 37.82158,
+          "lon": 21.29425
+        },
+        {
+          "name": "Stános",
+          "lat": 38.80453,
+          "lon": 21.17461
+        },
+        {
+          "name": "Sylivainiótika",
+          "lat": 38.16139,
+          "lon": 22.33156
+        },
+        {
+          "name": "Synoikismós Chavaríou",
+          "lat": 37.85575,
+          "lon": 21.38789
+        },
+        {
+          "name": "Témeni",
+          "lat": 38.23707,
+          "lon": 22.12533
+        },
+        {
+          "name": "Thérmo",
+          "lat": 38.57358,
+          "lon": 21.66628
+        },
+        {
+          "name": "Triandaíika",
+          "lat": 38.6553,
+          "lon": 21.38315
+        },
+        {
+          "name": "Várda",
+          "lat": 38.03058,
+          "lon": 21.36506
+        },
+        {
+          "name": "Vartholomió",
+          "lat": 37.86219,
+          "lon": 21.20575
+        },
+        {
+          "name": "Varvásaina",
+          "lat": 37.67106,
+          "lon": 21.49886
+        },
+        {
+          "name": "Vónitsa",
+          "lat": 38.91639,
+          "lon": 20.88639
+        },
+        {
+          "name": "Vrachnaíika",
+          "lat": 38.16253,
+          "lon": 21.66693
+        },
+        {
+          "name": "Zacháro",
+          "lat": 37.48333,
+          "lon": 21.65
+        }
+      ]
+    },
+    {
+      "name": "West Macedonia Region",
+      "stateCode": "C",
+      "lat": 40.3004058,
+      "lon": 21.7903559,
+      "cities": [
+        {
+          "name": "Aianí",
+          "lat": 40.16381,
+          "lon": 21.81945
+        },
+        {
+          "name": "Akriní",
+          "lat": 40.43492,
+          "lon": 21.90609
+        },
+        {
+          "name": "Ammochóri",
+          "lat": 40.78203,
+          "lon": 21.48458
+        },
+        {
+          "name": "Amýntaio",
+          "lat": 40.68967,
+          "lon": 21.67974
+        },
+        {
+          "name": "Anaráchi",
+          "lat": 40.49234,
+          "lon": 21.57279
+        },
+        {
+          "name": "Áno Kómi",
+          "lat": 40.2266,
+          "lon": 21.82827
+        },
+        {
+          "name": "Argos Orestiko",
+          "lat": 40.45354,
+          "lon": 21.25889
+        },
+        {
+          "name": "Chlói",
+          "lat": 40.53918,
+          "lon": 21.25923
+        },
+        {
+          "name": "Deskáti",
+          "lat": 39.92422,
+          "lon": 21.81031
+        },
+        {
+          "name": "Empório",
+          "lat": 40.48866,
+          "lon": 21.55768
+        },
+        {
+          "name": "Erátyra",
+          "lat": 40.34253,
+          "lon": 21.51333
+        },
+        {
+          "name": "Filótas",
+          "lat": 40.6252,
+          "lon": 21.70851
+        },
+        {
+          "name": "Flórina",
+          "lat": 40.78197,
+          "lon": 21.40981
+        },
+        {
+          "name": "Galatiní",
+          "lat": 40.31966,
+          "lon": 21.55148
+        },
+        {
+          "name": "Grevená",
+          "lat": 40.08452,
+          "lon": 21.42744
+        },
+        {
+          "name": "Kastoria",
+          "lat": 40.52165,
+          "lon": 21.26341
+        },
+        {
+          "name": "Kleítos",
+          "lat": 40.4314,
+          "lon": 21.85806
+        },
+        {
+          "name": "Koíla",
+          "lat": 40.33055,
+          "lon": 21.79102
+        },
+        {
+          "name": "Komniná",
+          "lat": 40.59057,
+          "lon": 21.77671
+        },
+        {
+          "name": "Kozáni",
+          "lat": 40.30069,
+          "lon": 21.78896
+        },
+        {
+          "name": "Krókos",
+          "lat": 40.26349,
+          "lon": 21.8176
+        },
+        {
+          "name": "Laimós",
+          "lat": 40.83628,
+          "lon": 21.14061
+        },
+        {
+          "name": "Léchovo",
+          "lat": 40.58442,
+          "lon": 21.49218
+        },
+        {
+          "name": "Livaderó",
+          "lat": 40.03455,
+          "lon": 21.94279
+        },
+        {
+          "name": "Maniákoi",
+          "lat": 40.50064,
+          "lon": 21.24446
+        },
+        {
+          "name": "Mavrochóri",
+          "lat": 40.51224,
+          "lon": 21.32038
+        },
+        {
+          "name": "Melíti",
+          "lat": 40.83434,
+          "lon": 21.58426
+        },
+        {
+          "name": "Mesopotamía",
+          "lat": 40.50252,
+          "lon": 21.1611
+        },
+        {
+          "name": "Nea Lava",
+          "lat": 40.19048,
+          "lon": 22.0132
+        },
+        {
+          "name": "Nestório",
+          "lat": 40.41278,
+          "lon": 21.06222
+        },
+        {
+          "name": "Nomós Kozánis",
+          "lat": 40.33333,
+          "lon": 21.71667
+        },
+        {
+          "name": "Platanórevma",
+          "lat": 40.20083,
+          "lon": 22.02488
+        },
+        {
+          "name": "Ptolemaḯda",
+          "lat": 40.51472,
+          "lon": 21.67861
+        },
+        {
+          "name": "Sérvia",
+          "lat": 40.17972,
+          "lon": 21.99444
+        },
+        {
+          "name": "Siátista",
+          "lat": 40.26194,
+          "lon": 21.54417
+        },
+        {
+          "name": "Tsotíli",
+          "lat": 40.26147,
+          "lon": 21.32533
+        },
+        {
+          "name": "Velventós",
+          "lat": 40.25532,
+          "lon": 22.07543
+        },
+        {
+          "name": "Xinó Neró",
+          "lat": 40.69028,
+          "lon": 21.62324
+        }
+      ]
+    }
+  ]
+}

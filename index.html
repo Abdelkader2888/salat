@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>لوحة المسجد</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Changa:wght@400;500;600;700;800&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-theme="desert">
+    <button id="settingsToggle" class="settings-toggle" type="button" aria-controls="settingsDrawer">
+      <span class="settings-icon">☰</span>
+      <span data-i18n="settings">الإعدادات</span>
+    </button>
+
+    <div id="drawerOverlay" class="drawer-overlay"></div>
+
+    <aside id="settingsDrawer" class="settings-drawer" aria-hidden="true">
+      <header class="drawer-header">
+        <div>
+          <p class="eyebrow" data-i18n="controlCenter">مركز التحكم</p>
+          <h2 data-i18n="settings">الإعدادات</h2>
+          <p data-i18n="appearanceText">
+            غيّر اللغة والثيم وتفاصيل العرض من هذه اللوحة الجانبية.
+          </p>
+        </div>
+        <button id="closeDrawerBtn" class="icon-btn" type="button" aria-label="Close">
+          ×
+        </button>
+      </header>
+
+      <section class="drawer-section">
+        <div class="section-title">
+          <h3 data-i18n="appearance">المظهر</h3>
+        </div>
+        <div class="lang-switch">
+          <button id="langArBtn" type="button">AR</button>
+          <button id="langEnBtn" type="button">EN</button>
+        </div>
+        <div class="theme-grid">
+          <button class="theme-card" type="button" data-theme-option="desert">
+            <strong data-i18n="themeDesert">رملي هادئ</strong>
+            <span data-i18n="themeDesertText">ألوان دافئة للمساجد التقليدية</span>
+          </button>
+          <button class="theme-card" type="button" data-theme-option="emerald">
+            <strong data-i18n="themeEmerald">زمردي</strong>
+            <span data-i18n="themeEmeraldText">أجواء خضراء أنيقة ومريحة</span>
+          </button>
+          <button class="theme-card" type="button" data-theme-option="midnight">
+            <strong data-i18n="themeMidnight">ليلي فاخر</strong>
+            <span data-i18n="themeMidnightText">لوحة داكنة مناسبة للشاشات الكبيرة</span>
+          </button>
+        </div>
+        <div class="drawer-actions">
+          <button id="cycleThemeBtn" class="settings-toggle is-inline" type="button">
+            <span data-i18n="cycleTheme">تغيير التنسيق</span>
+          </button>
+        </div>
+      </section>
+
+      <section class="drawer-section">
+        <div class="section-title">
+          <h3 data-i18n="mosqueInfo">بيانات المسجد</h3>
+          <p data-i18n="mosqueInfoText">
+            اضبط الاسم وطريقة الحساب ثم اختر البلد والمنطقة والمدينة.
+          </p>
+        </div>
+        <div class="drawer-grid">
+          <label class="field" for="mosqueNameInput">
+            <span data-i18n="mosqueName">اسم المسجد</span>
+            <input id="mosqueNameInput" type="text" />
+          </label>
+          <label class="field" for="calcMethodSelect">
+            <span data-i18n="calcMethod">طريقة حساب الصلاة</span>
+            <select id="calcMethodSelect">
+              <option value="3"></option>
+              <option value="4"></option>
+              <option value="5"></option>
+              <option value="8"></option>
+              <option value="14"></option>
+            </select>
+          </label>
+        </div>
+
+        <div class="triplet">
+          <label class="field" for="countrySelect">
+            <span data-i18n="country">البلد</span>
+            <select id="countrySelect"></select>
+          </label>
+          <label class="field" for="stateSelect">
+            <span data-i18n="stateRegion">الولاية / المنطقة</span>
+            <select id="stateSelect"></select>
+          </label>
+          <label class="field" for="citySelect">
+            <span data-i18n="city">المدينة</span>
+            <select id="citySelect"></select>
+          </label>
+        </div>
+
+        <p id="geoSelectionHint" class="inline-hint"></p>
+
+        <div class="drawer-actions">
+          <button id="applyGeoSelectionBtn" class="settings-toggle is-inline" type="button">
+            <span data-i18n="applyGeoSelection">اعتماد الاختيار الجغرافي</span>
+          </button>
+          <button id="useMyLocationBtn" class="icon-btn" type="button">
+            ⌖
+          </button>
+        </div>
+
+        <div class="drawer-section">
+          <div class="section-title">
+            <h3 data-i18n="mosqueMap">خريطة المسجد</h3>
+            <p data-i18n="mosqueMapText">يمكنك أيضًا تثبيت نقطة المسجد يدويًا من الخريطة.</p>
+          </div>
+          <div id="map"></div>
+        </div>
+      </section>
+
+      <section class="drawer-section">
+        <div class="section-title">
+          <h3 data-i18n="iqamaOffsets">فروقات الإقامة</h3>
+          <p data-i18n="iqamaOffsetsText">
+            أدخل عدد الدقائق بين الأذان والإقامة لكل صلاة.
+          </p>
+        </div>
+        <div class="five-grid">
+          <label class="field small-field" for="iqamaFajr">
+            <span id="labelIqamaFajr">الفجر</span>
+            <input id="iqamaFajr" type="number" min="0" max="180" />
+          </label>
+          <label class="field small-field" for="iqamaDhuhr">
+            <span id="labelIqamaDhuhr">الظهر</span>
+            <input id="iqamaDhuhr" type="number" min="0" max="180" />
+          </label>
+          <label class="field small-field" for="iqamaAsr">
+            <span id="labelIqamaAsr">العصر</span>
+            <input id="iqamaAsr" type="number" min="0" max="180" />
+          </label>
+          <label class="field small-field" for="iqamaMaghrib">
+            <span id="labelIqamaMaghrib">المغرب</span>
+            <input id="iqamaMaghrib" type="number" min="0" max="180" />
+          </label>
+          <label class="field small-field" for="iqamaIsha">
+            <span id="labelIqamaIsha">العشاء</span>
+            <input id="iqamaIsha" type="number" min="0" max="180" />
+          </label>
+        </div>
+      </section>
+
+      <section class="drawer-section">
+        <div class="section-title">
+          <h3 data-i18n="silentAlerts">تنبيهات صامتة</h3>
+          <p data-i18n="silentAlertsText">
+            قبل الصلاة بدقيقتين أو ثلاث تظهر رسالة هادئة تطلب إغلاق الهاتف والسكينة.
+          </p>
+        </div>
+        <div class="drawer-grid">
+          <label class="field" for="silentAlertsEnabled">
+            <span data-i18n="enableSilentAlerts">تفعيل التنبيهات الصامتة</span>
+            <input id="silentAlertsEnabled" type="checkbox" />
+          </label>
+          <label class="field" for="reminderMinutesSelect">
+            <span data-i18n="alertLeadTime">وقت التنبيه قبل الصلاة</span>
+            <select id="reminderMinutesSelect">
+              <option value="2">2</option>
+              <option value="3">3</option>
+            </select>
+          </label>
+        </div>
+        <div class="drawer-actions">
+          <button id="notificationPermissionBtn" class="settings-toggle is-inline" type="button">
+            <span data-i18n="requestPermission">طلب الإذن</span>
+          </button>
+        </div>
+        <p id="notificationStatus" class="inline-hint"></p>
+      </section>
+
+      <section class="drawer-section">
+        <div class="drawer-actions">
+          <button id="saveSettingsBtn" class="settings-toggle is-inline" type="button">
+            <span data-i18n="saveAndRefresh">حفظ الإعدادات</span>
+          </button>
+        </div>
+        <p id="statusMessage" class="status-message"></p>
+      </section>
+    </aside>
+
+    <div class="tv-shell">
+      <main class="tv-display">
+        <section class="faith-panel">
+          <div class="faith-panel__inner">
+            <div class="display-title">
+              <p class="eyebrow" data-i18n="trustedAdhkar">أذكار وأحاديث موثوقة</p>
+              <h1 id="heroMosqueName">مسجد الحي</h1>
+              <p id="heroRegion">الرياض، السعودية</p>
+            </div>
+
+            <div id="occasionBanner" class="occasion-banner" hidden></div>
+            <div id="quietAlert" class="quiet-alert card"></div>
+
+            <div class="faith-section">
+              <div class="section-head compact tv-section-head">
+                <div>
+                  <h2 data-i18n="trustedAdhkarTitle">أذكار وأحاديث للمصلين</h2>
+                  <p data-i18n="trustedAdhkarText">
+                    نصوص قصيرة موثوقة للعرض داخل المسجد مع ذكر المصدر.
+                  </p>
+                </div>
+              </div>
+              <div id="duaList" class="faith-list"></div>
+            </div>
+
+            <div class="location-strip">
+              <div class="location-strip__item">
+                <span class="mini-label" data-i18n="location">الموقع</span>
+                <strong id="locationName">الرياض، السعودية</strong>
+              </div>
+              <div class="location-strip__item">
+                <span class="mini-label" data-i18n="coordinates">الإحداثيات</span>
+                <strong id="locationCoords">24.7136, 46.6753</strong>
+              </div>
+              <div class="location-strip__item">
+                <span class="mini-label" data-i18n="timezone">المنطقة الزمنية</span>
+                <strong id="timeZoneLabel">-</strong>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="board-panel">
+          <div class="board-panel__overlay"></div>
+
+          <div class="board-topbar">
+            <div class="date-card">
+              <span class="mini-label" data-i18n="gregorianDate">التاريخ الميلادي</span>
+              <strong id="gregorianDate">-</strong>
+              <span class="mini-label" data-i18n="hijriDate">التاريخ الهجري</span>
+              <strong id="hijriDate">-</strong>
+            </div>
+
+            <div class="weather-card">
+              <div class="weather-card__icon" id="weatherIcon">☀</div>
+              <div class="weather-card__body">
+                <span class="mini-label" data-i18n="liveWeather">الطقس الآن</span>
+                <strong id="weatherTemp">--°</strong>
+                <p id="weatherSummary">-</p>
+                <div class="weather-meta">
+                  <span id="weatherRange">-</span>
+                  <span id="weatherDetails">-</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="clock-card">
+              <span class="mini-label" data-i18n="currentTime">الوقت الحالي</span>
+              <strong id="currentClock" class="time-ink">--:--:--</strong>
+            </div>
+          </div>
+
+          <div class="hero-band">
+            <div class="hero-band__main">
+              <span class="signal-kicker" data-i18n="nextPrayer">الصلاة التالية</span>
+              <h2 id="nextPrayerLabel">-</h2>
+              <div class="hero-band__time" id="nextPrayerTime">--:--</div>
+              <p id="nextPrayerCountdown"></p>
+            </div>
+            <div class="hero-band__secondary">
+              <div class="hero-pill">
+                <span class="signal-kicker" data-i18n="nextIqama">الإقامة التالية</span>
+                <strong id="nextIqamaLabel">-</strong>
+                <div class="hero-pill__time" id="nextIqamaTime">--:--</div>
+                <p id="nextIqamaCountdown"></p>
+              </div>
+              <div class="hero-scene">
+                <img src="assets/tv-mosque-scene.svg" alt="" />
+                <div class="hero-scene__meta">
+                  <span data-i18n="heroSceneCaption">المشهد الحي للصلاة التالية</span>
+                  <strong id="heroNextPrayer">-</strong>
+                  <strong id="heroNextIqama">-</strong>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <section class="board tv-board">
+            <div class="section-head tv-section-head">
+              <div>
+                <p class="eyebrow" data-i18n="prayerBoardEyebrow">لوحة اليوم</p>
+                <h3 data-i18n="prayerBoardTitle">أوقات الصلاة والإقامة</h3>
+              </div>
+              <p data-i18n="prayerBoardText">
+                تعرض البطاقات وقت الأذان ووقت الإقامة مع حالة كل صلاة خلال اليوم.
+              </p>
+            </div>
+            <div id="prayerBoard" class="prayer-board tv-prayer-board"></div>
+          </section>
+
+          <section class="board tv-board board-bottom">
+            <div class="section-head compact tv-section-head">
+              <div>
+                <p class="eyebrow" data-i18n="importantDays">مناسبات</p>
+                <h3 data-i18n="importantDaysTitle">أيام مهمة في التقويم الهجري</h3>
+                <p data-i18n="importantDaysText">
+                  قد تختلف بعض المناسبات بحسب الرؤية المحلية المعتمدة.
+                </p>
+              </div>
+            </div>
+            <div id="holidayList" class="holiday-list tv-holiday-list"></div>
+          </section>
+        </section>
+      </main>
+
+      <p class="tv-footnote" data-i18n="footnote">
+        ملاحظة: الأوقات والتاريخ الهجري حسابية وقد تختلف يومًا بحسب الجهة المعتمدة محليًا.
+      </p>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

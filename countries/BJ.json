@@ -1,0 +1,285 @@
+{
+  "iso2": "BJ",
+  "name": "Benin",
+  "nativeName": "Benin",
+  "lat": 9.5,
+  "lon": 2.25,
+  "states": [
+    {
+      "name": "Alibori Department",
+      "stateCode": "AL",
+      "lat": 10.9681093,
+      "lon": 2.7779813,
+      "cities": [
+        {
+          "name": "Banikoara",
+          "lat": 11.29845,
+          "lon": 2.43856
+        },
+        {
+          "name": "Kandi",
+          "lat": 11.13417,
+          "lon": 2.93861
+        },
+        {
+          "name": "Malanville",
+          "lat": 11.86819,
+          "lon": 3.38327
+        }
+      ]
+    },
+    {
+      "name": "Atakora Department",
+      "stateCode": "AK",
+      "lat": 10.7954931,
+      "lon": 1.6760691,
+      "cities": [
+        {
+          "name": "Guilmaro",
+          "lat": 10.56583,
+          "lon": 1.72444
+        },
+        {
+          "name": "Natitingou",
+          "lat": 10.30416,
+          "lon": 1.37962
+        },
+        {
+          "name": "Tanguieta",
+          "lat": 11.03621,
+          "lon": 1.41757
+        }
+      ]
+    },
+    {
+      "name": "Atlantique Department",
+      "stateCode": "AQ",
+      "lat": 6.6588391,
+      "lon": 2.2236667,
+      "cities": [
+        {
+          "name": "Abomey-Calavi",
+          "lat": 6.44852,
+          "lon": 2.35566
+        },
+        {
+          "name": "Allada",
+          "lat": 6.66547,
+          "lon": 2.15138
+        },
+        {
+          "name": "Hévié",
+          "lat": 6.41667,
+          "lon": 2.25
+        },
+        {
+          "name": "Hinvi",
+          "lat": 6.76667,
+          "lon": 2.16667
+        },
+        {
+          "name": "Ouidah",
+          "lat": 6.36307,
+          "lon": 2.08506
+        }
+      ]
+    },
+    {
+      "name": "Borgou Department",
+      "stateCode": "BO",
+      "lat": 9.5340864,
+      "lon": 2.7779813,
+      "cities": [
+        {
+          "name": "Bembèrèkè",
+          "lat": 10.22827,
+          "lon": 2.66335
+        },
+        {
+          "name": "Bétérou",
+          "lat": 9.19916,
+          "lon": 2.25855
+        },
+        {
+          "name": "Nikki",
+          "lat": 9.94009,
+          "lon": 3.21075
+        },
+        {
+          "name": "Parakou",
+          "lat": 9.33716,
+          "lon": 2.63031
+        },
+        {
+          "name": "Tchaourou",
+          "lat": 8.88649,
+          "lon": 2.59753
+        }
+      ]
+    },
+    {
+      "name": "Collines Department",
+      "stateCode": "CO",
+      "lat": 8.3022297,
+      "lon": 2.302446,
+      "cities": [
+        {
+          "name": "Comé",
+          "lat": 6.40764,
+          "lon": 1.88198
+        },
+        {
+          "name": "Dassa-Zoumé",
+          "lat": 7.75,
+          "lon": 2.18333
+        },
+        {
+          "name": "Savalou",
+          "lat": 7.92807,
+          "lon": 1.97558
+        },
+        {
+          "name": "Savé",
+          "lat": 8.03424,
+          "lon": 2.4866
+        }
+      ]
+    },
+    {
+      "name": "Donga Department",
+      "stateCode": "DO",
+      "lat": 9.7191867,
+      "lon": 1.6760691,
+      "cities": [
+        {
+          "name": "Bassila",
+          "lat": 9.00814,
+          "lon": 1.6654
+        },
+        {
+          "name": "Commune of Djougou",
+          "lat": 9.643,
+          "lon": 1.896
+        },
+        {
+          "name": "Djougou",
+          "lat": 9.70853,
+          "lon": 1.66598
+        }
+      ]
+    },
+    {
+      "name": "Kouffo Department",
+      "stateCode": "KO",
+      "lat": 7.0035894,
+      "lon": 1.7538817,
+      "cities": [
+        {
+          "name": "Djakotomey",
+          "lat": 6.9,
+          "lon": 1.71667
+        },
+        {
+          "name": "Dogbo",
+          "lat": 6.79911,
+          "lon": 1.78073
+        }
+      ]
+    },
+    {
+      "name": "Littoral Department",
+      "stateCode": "LI",
+      "lat": 6.3806973,
+      "lon": 2.4406387,
+      "cities": [
+        {
+          "name": "Cotonou",
+          "lat": 6.36536,
+          "lon": 2.41833
+        }
+      ]
+    },
+    {
+      "name": "Mono Department",
+      "stateCode": "MO",
+      "lat": 37.9218608,
+      "lon": -118.9528645,
+      "cities": [
+        {
+          "name": "Commune of Athieme",
+          "lat": 6.56924,
+          "lon": 1.70259
+        },
+        {
+          "name": "Lokossa",
+          "lat": 6.63869,
+          "lon": 1.71674
+        }
+      ]
+    },
+    {
+      "name": "Ouémé Department",
+      "stateCode": "OU",
+      "lat": 6.6148152,
+      "lon": 2.4999918,
+      "cities": [
+        {
+          "name": "Porto-Novo",
+          "lat": 6.49646,
+          "lon": 2.60359
+        }
+      ]
+    },
+    {
+      "name": "Plateau Department",
+      "stateCode": "PL",
+      "lat": 7.3445141,
+      "lon": 2.539603,
+      "cities": [
+        {
+          "name": "Kétou",
+          "lat": 7.36332,
+          "lon": 2.59978
+        },
+        {
+          "name": "Pobé",
+          "lat": 6.98008,
+          "lon": 2.6649
+        },
+        {
+          "name": "Sakété",
+          "lat": 6.73618,
+          "lon": 2.65866
+        }
+      ]
+    },
+    {
+      "name": "Zou Department",
+      "stateCode": "ZO",
+      "lat": 7.3469268,
+      "lon": 2.0665197,
+      "cities": [
+        {
+          "name": "Abomey",
+          "lat": 7.18286,
+          "lon": 1.99119
+        },
+        {
+          "name": "Bohicon",
+          "lat": 7.17826,
+          "lon": 2.0667
+        },
+        {
+          "name": "Commune of Agbangnizoun",
+          "lat": 7.076,
+          "lon": 1.961
+        },
+        {
+          "name": "Cové",
+          "lat": 7.22097,
+          "lon": 2.34017
+        }
+      ]
+    }
+  ]
+}

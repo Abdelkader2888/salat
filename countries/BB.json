@@ -1,0 +1,128 @@
+{
+  "iso2": "BB",
+  "name": "Barbados",
+  "nativeName": "Barbados",
+  "lat": 13.16666666,
+  "lon": -59.53333333,
+  "states": [
+    {
+      "name": "Christ Church",
+      "stateCode": "01",
+      "lat": 36.0060407,
+      "lon": -95.921121,
+      "cities": [
+        {
+          "name": "Oistins",
+          "lat": 13.07067,
+          "lon": -59.54637
+        }
+      ]
+    },
+    {
+      "name": "Saint Andrew",
+      "stateCode": "02",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Greenland",
+          "lat": 13.25808,
+          "lon": -59.57763
+        }
+      ]
+    },
+    {
+      "name": "Saint George",
+      "stateCode": "03",
+      "lat": 37.0965278,
+      "lon": -113.5684164,
+      "cities": []
+    },
+    {
+      "name": "Saint James",
+      "stateCode": "04",
+      "lat": 48.523566,
+      "lon": -1.3237885,
+      "cities": [
+        {
+          "name": "Holetown",
+          "lat": 13.18672,
+          "lon": -59.63808
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "stateCode": "05",
+      "lat": 45.2733153,
+      "lon": -66.063308,
+      "cities": []
+    },
+    {
+      "name": "Saint Joseph",
+      "stateCode": "06",
+      "lat": 39.7674578,
+      "lon": -94.846681,
+      "cities": [
+        {
+          "name": "Bathsheba",
+          "lat": 13.21133,
+          "lon": -59.52596
+        }
+      ]
+    },
+    {
+      "name": "Saint Lucy",
+      "stateCode": "07",
+      "lat": 38.7614625,
+      "lon": -77.4491439,
+      "cities": []
+    },
+    {
+      "name": "Saint Michael",
+      "stateCode": "08",
+      "lat": 36.035977,
+      "lon": -95.849052,
+      "cities": [
+        {
+          "name": "Bridgetown",
+          "lat": 13.10732,
+          "lon": -59.62021
+        }
+      ]
+    },
+    {
+      "name": "Saint Peter",
+      "stateCode": "09",
+      "lat": 37.0827119,
+      "lon": -94.517125,
+      "cities": [
+        {
+          "name": "Speightstown",
+          "lat": 13.25072,
+          "lon": -59.64396
+        }
+      ]
+    },
+    {
+      "name": "Saint Philip",
+      "stateCode": "10",
+      "lat": 35.233114,
+      "lon": -89.4364042,
+      "cities": [
+        {
+          "name": "Crane",
+          "lat": 13.10487,
+          "lon": -59.44861
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas",
+      "stateCode": "11",
+      "lat": 18.3380965,
+      "lon": -64.8940946,
+      "cities": []
+    }
+  ]
+}

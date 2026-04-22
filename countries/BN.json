@@ -1,0 +1,86 @@
+{
+  "iso2": "BN",
+  "name": "Brunei",
+  "nativeName": "Brunei",
+  "lat": 4.5,
+  "lon": 114.66666666,
+  "states": [
+    {
+      "name": "Belait District",
+      "stateCode": "BE",
+      "lat": 4.3750749,
+      "lon": 114.6192899,
+      "cities": [
+        {
+          "name": "Kuala Belait",
+          "lat": 4.58361,
+          "lon": 114.2312
+        },
+        {
+          "name": "Seria",
+          "lat": 4.60637,
+          "lon": 114.32476
+        }
+      ]
+    },
+    {
+      "name": "Brunei-Muara District",
+      "stateCode": "BM",
+      "lat": 4.9311206,
+      "lon": 114.9516869,
+      "cities": [
+        {
+          "name": "Bandar Seri Begawan",
+          "lat": 4.89035,
+          "lon": 114.94006
+        },
+        {
+          "name": "Berakas A",
+          "lat": 4.97032,
+          "lon": 114.92989
+        },
+        {
+          "name": "Kapok",
+          "lat": 5.02447,
+          "lon": 115.04664
+        },
+        {
+          "name": "Mentiri",
+          "lat": 4.97058,
+          "lon": 115.02078
+        },
+        {
+          "name": "Serasa",
+          "lat": 5.01718,
+          "lon": 115.05841
+        }
+      ]
+    },
+    {
+      "name": "Temburong District",
+      "stateCode": "TE",
+      "lat": 4.6204128,
+      "lon": 115.141484,
+      "cities": [
+        {
+          "name": "Bangar",
+          "lat": 4.70861,
+          "lon": 115.07167
+        }
+      ]
+    },
+    {
+      "name": "Tutong District",
+      "stateCode": "TU",
+      "lat": 4.7140373,
+      "lon": 114.6667939,
+      "cities": [
+        {
+          "name": "Tutong",
+          "lat": 4.80278,
+          "lon": 114.64917
+        }
+      ]
+    }
+  ]
+}

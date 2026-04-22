@@ -1,0 +1,116 @@
+{
+  "iso2": "AG",
+  "name": "Antigua And Barbuda",
+  "nativeName": "Antigua And Barbuda",
+  "lat": 17.05,
+  "lon": -61.8,
+  "states": [
+    {
+      "name": "Barbuda",
+      "stateCode": "10",
+      "lat": 17.6266242,
+      "lon": -61.7713028,
+      "cities": [
+        {
+          "name": "Codrington",
+          "lat": 17.63333,
+          "lon": -61.83333
+        }
+      ]
+    },
+    {
+      "name": "Redonda",
+      "stateCode": "11",
+      "lat": 16.938416,
+      "lon": -62.3455148,
+      "cities": []
+    },
+    {
+      "name": "Saint George Parish",
+      "stateCode": "03",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Piggotts",
+          "lat": 17.11667,
+          "lon": -61.8
+        }
+      ]
+    },
+    {
+      "name": "Saint John Parish",
+      "stateCode": "04",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Potters Village",
+          "lat": 17.11337,
+          "lon": -61.81962
+        },
+        {
+          "name": "Saint John’s",
+          "lat": 17.12096,
+          "lon": -61.84329
+        }
+      ]
+    },
+    {
+      "name": "Saint Mary Parish",
+      "stateCode": "05",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Bolands",
+          "lat": 17.06565,
+          "lon": -61.87466
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul Parish",
+      "stateCode": "06",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "Falmouth",
+          "lat": 17.02741,
+          "lon": -61.78136
+        },
+        {
+          "name": "Liberta",
+          "lat": 17.04141,
+          "lon": -61.79052
+        }
+      ]
+    },
+    {
+      "name": "Saint Peter Parish",
+      "stateCode": "07",
+      "lat": 0,
+      "lon": 0,
+      "cities": [
+        {
+          "name": "All Saints",
+          "lat": 17.06671,
+          "lon": -61.79303
+        },
+        {
+          "name": "Parham",
+          "lat": 17.09682,
+          "lon": -61.77046
+        }
+      ]
+    },
+    {
+      "name": "Saint Philip Parish",
+      "stateCode": "08",
+      "lat": 40.4368258,
+      "lon": -80.0685532,
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "iso2": "KP",
+  "name": "North Korea",
+  "nativeName": "North Korea",
+  "lat": 40,
+  "lon": 127,
+  "states": [
+    {
+      "name": "Chagang Province",
+      "stateCode": "04",
+      "lat": 40.7202809,
+      "lon": 126.5621137,
+      "cities": [
+        {
+          "name": "Changgang-gun",
+          "lat": 41.06333,
+          "lon": 126.72556
+        },
+        {
+          "name": "Chasŏng",
+          "lat": 41.46083,
+          "lon": 126.64139
+        },
+        {
+          "name": "Kanggye",
+          "lat": 40.96946,
+          "lon": 126.58523
+        },
+        {
+          "name": "Manp’o",
+          "lat": 41.15472,
+          "lon": 126.28944
+        }
+      ]
+    },
+    {
+      "name": "Kangwon Province",
+      "stateCode": "07",
+      "lat": 38.8432393,
+      "lon": 127.5597067,
+      "cities": [
+        {
+          "name": "Anbyŏn-ŭp",
+          "lat": 39.0425,
+          "lon": 127.52389
+        },
+        {
+          "name": "Hoeyang",
+          "lat": 38.71028,
+          "lon": 127.59833
+        },
+        {
+          "name": "Kosan",
+          "lat": 38.85583,
+          "lon": 127.41806
+        },
+        {
+          "name": "T’ongch’ŏn-ŭp",
+          "lat": 38.95389,
+          "lon": 127.89167
+        },
+        {
+          "name": "Wŏnsan",
+          "lat": 39.15278,
+          "lon": 127.44361
+        }
+      ]
+    },
+    {
+      "name": "North Hamgyong Province",
+      "stateCode": "09",
+      "lat": 41.8148758,
+      "lon": 129.4581955,
+      "cities": [
+        {
+          "name": "Aoji",
+          "lat": 42.52448,
+          "lon": 130.39718
+        },
+        {
+          "name": "Chongjin",
+          "lat": 41.79556,
+          "lon": 129.77583
+        },
+        {
+          "name": "Hau-ri",
+          "lat": 41.20056,
+          "lon": 129.47028
+        },
+        {
+          "name": "Hoemul-li",
+          "lat": 41.43389,
+          "lon": 129.67
+        },
+        {
+          "name": "Hoeryŏng",
+          "lat": 42.44113,
+          "lon": 129.74601
+        },
+        {
+          "name": "Kilju",
+          "lat": 40.96417,
+          "lon": 129.32778
+        },
+        {
+          "name": "Kimch’aek-si",
+          "lat": 40.66889,
+          "lon": 129.18972
+        },
+        {
+          "name": "Komusan Il-tong",
+          "lat": 42.10914,
+          "lon": 129.69997
+        },
+        {
+          "name": "Kyŏngsŏng",
+          "lat": 41.58778,
+          "lon": 129.60611
+        },
+        {
+          "name": "Kyŏngwŏn",
+          "lat": 42.81361,
+          "lon": 130.15278
+        },
+        {
+          "name": "Musan-ŭp",
+          "lat": 42.22609,
+          "lon": 129.20776
+        },
+        {
+          "name": "Namyang-dong",
+          "lat": 42.95,
+          "lon": 129.86667
+        },
+        {
+          "name": "Nanam",
+          "lat": 41.71361,
+          "lon": 129.68444
+        },
+        {
+          "name": "Onsŏng",
+          "lat": 42.95722,
+          "lon": 129.99333
+        },
+        {
+          "name": "Puryŏng",
+          "lat": 42.06056,
+          "lon": 129.71167
+        },
+        {
+          "name": "Sŭngam-nodongjagu",
+          "lat": 41.66972,
+          "lon": 129.66889
+        }
+      ]
+    },
+    {
+      "name": "North Hwanghae Province",
+      "stateCode": "06",
+      "lat": 38.3786085,
+      "lon": 126.4364363,
+      "cities": [
+        {
+          "name": "Anak",
+          "lat": 38.51083,
+          "lon": 125.49417
+        },
+        {
+          "name": "Hŭkkyo-ri",
+          "lat": 38.79861,
+          "lon": 125.79194
+        },
+        {
+          "name": "Hwangju-ŭp",
+          "lat": 38.67028,
+          "lon": 125.77611
+        },
+        {
+          "name": "Koksan",
+          "lat": 38.78194,
+          "lon": 126.66639
+        },
+        {
+          "name": "Sariwŏn",
+          "lat": 38.50722,
+          "lon": 125.75583
+        },
+        {
+          "name": "Sinmak",
+          "lat": 38.41667,
+          "lon": 126.23333
+        },
+        {
+          "name": "Songnim",
+          "lat": 38.75417,
+          "lon": 125.645
+        }
+      ]
+    },
+    {
+      "name": "North Pyongan Province",
+      "stateCode": "03",
+      "lat": 39.9255618,
+      "lon": 125.3928025,
+      "cities": [
+        {
+          "name": "Chŏngju",
+          "lat": 39.69333,
+          "lon": 125.21028
+        },
+        {
+          "name": "Chŏngju-gun",
+          "lat": 39.70944,
+          "lon": 125.25278
+        },
+        {
+          "name": "Kujang-ŭp",
+          "lat": 39.86722,
+          "lon": 126.03028
+        },
+        {
+          "name": "Kusŏng",
+          "lat": 39.98111,
+          "lon": 125.24472
+        },
+        {
+          "name": "Kwaksan",
+          "lat": 39.6875,
+          "lon": 125.08278
+        },
+        {
+          "name": "Panghyŏn-dong",
+          "lat": 39.88722,
+          "lon": 125.24139
+        },
+        {
+          "name": "Pukchil-lodongjagu",
+          "lat": 40.20194,
+          "lon": 125.74833
+        },
+        {
+          "name": "Sakchu-ŭp",
+          "lat": 40.38944,
+          "lon": 125.04667
+        },
+        {
+          "name": "Sinŭiju",
+          "lat": 40.10056,
+          "lon": 124.39806
+        },
+        {
+          "name": "Ŭiju",
+          "lat": 40.19944,
+          "lon": 124.53167
+        },
+        {
+          "name": "Yŏmju-ŭp",
+          "lat": 39.89333,
+          "lon": 124.59806
+        },
+        {
+          "name": "Yŏngbyŏn",
+          "lat": 39.81333,
+          "lon": 125.80417
+        }
+      ]
+    },
+    {
+      "name": "Pyongyang",
+      "stateCode": "01",
+      "lat": 39.0392193,
+      "lon": 125.7625241,
+      "cities": [
+        {
+          "name": "Chunghwa",
+          "lat": 38.86389,
+          "lon": 125.8
+        },
+        {
+          "name": "Kangdong-ŭp",
+          "lat": 39.1425,
+          "lon": 126.09611
+        },
+        {
+          "name": "Pyongyang",
+          "lat": 39.03385,
+          "lon": 125.75432
+        },
+        {
+          "name": "Sunan",
+          "lat": 39.19833,
+          "lon": 125.69
+        },
+        {
+          "name": "Sŭngho 1-tong",
+          "lat": 38.99139,
+          "lon": 125.97778
+        }
+      ]
+    },
+    {
+      "name": "Rason",
+      "stateCode": "13",
+      "lat": 42.2569063,
+      "lon": 130.2977186,
+      "cities": [
+        {
+          "name": "Sŏnbong",
+          "lat": 42.35118,
+          "lon": 130.38307
+        },
+        {
+          "name": "Ungsang-nodongjagu",
+          "lat": 42.35778,
+          "lon": 130.46222
+        }
+      ]
+    },
+    {
+      "name": "Ryanggang Province",
+      "stateCode": "10",
+      "lat": 41.2318921,
+      "lon": 128.5076359,
+      "cities": [
+        {
+          "name": "Hyesan",
+          "lat": 41.40167,
+          "lon": 128.17778
+        },
+        {
+          "name": "Hyesan-dong",
+          "lat": 41.39756,
+          "lon": 128.17873
+        },
+        {
+          "name": "Kapsan-ŭp",
+          "lat": 41.09028,
+          "lon": 128.29333
+        },
+        {
+          "name": "Sŭngjibaegam",
+          "lat": 41.24278,
+          "lon": 128.79889
+        }
+      ]
+    },
+    {
+      "name": "South Hamgyong Province",
+      "stateCode": "08",
+      "lat": 40.3725339,
+      "lon": 128.298884,
+      "cities": [
+        {
+          "name": "Hamhŭng",
+          "lat": 39.91833,
+          "lon": 127.53639
+        },
+        {
+          "name": "Hongwŏn",
+          "lat": 40.02528,
+          "lon": 127.95583
+        },
+        {
+          "name": "Hŭngnam",
+          "lat": 39.83167,
+          "lon": 127.61861
+        },
+        {
+          "name": "Iwŏn-ŭp",
+          "lat": 40.32306,
+          "lon": 128.65528
+        },
+        {
+          "name": "Kowŏn-ŭp",
+          "lat": 39.43806,
+          "lon": 127.24306
+        },
+        {
+          "name": "Samho-rodongjagu",
+          "lat": 39.9475,
+          "lon": 127.87111
+        },
+        {
+          "name": "Sinsang-ni",
+          "lat": 39.65028,
+          "lon": 127.40583
+        },
+        {
+          "name": "Yŏnggwang-ŭp",
+          "lat": 40.01833,
+          "lon": 127.45472
+        },
+        {
+          "name": "Yuktae-dong",
+          "lat": 40.02472,
+          "lon": 128.15972
+        }
+      ]
+    },
+    {
+      "name": "South Hwanghae Province",
+      "stateCode": "05",
+      "lat": 38.2007215,
+      "lon": 125.4781926,
+      "cities": [
+        {
+          "name": "Ayang-ni",
+          "lat": 38.24306,
+          "lon": 125.78
+        },
+        {
+          "name": "Chaeryŏng-ŭp",
+          "lat": 38.39917,
+          "lon": 125.61556
+        },
+        {
+          "name": "Changyŏn",
+          "lat": 38.25083,
+          "lon": 125.09611
+        },
+        {
+          "name": "Haeju",
+          "lat": 38.04056,
+          "lon": 125.71472
+        },
+        {
+          "name": "Kaesŏng",
+          "lat": 37.97083,
+          "lon": 126.55444
+        },
+        {
+          "name": "Ongjin",
+          "lat": 37.93472,
+          "lon": 125.36194
+        },
+        {
+          "name": "Pyŏksŏng-ŭp",
+          "lat": 38.0475,
+          "lon": 125.55667
+        },
+        {
+          "name": "Yŏnan-ŭp",
+          "lat": 37.90889,
+          "lon": 126.16111
+        }
+      ]
+    },
+    {
+      "name": "South Pyongan Province",
+      "stateCode": "02",
+      "lat": 39.3539178,
+      "lon": 126.168271,
+      "cities": [
+        {
+          "name": "Anju",
+          "lat": 39.61778,
+          "lon": 125.66472
+        },
+        {
+          "name": "Namp’o",
+          "lat": 38.7375,
+          "lon": 125.40778
+        },
+        {
+          "name": "P’yŏngsŏng",
+          "lat": 39.24639,
+          "lon": 125.87194
+        },
+        {
+          "name": "Sangsŏng-ni",
+          "lat": 39.16944,
+          "lon": 126.88556
+        },
+        {
+          "name": "Sil-li",
+          "lat": 39.49472,
+          "lon": 125.47361
+        },
+        {
+          "name": "Sinanju",
+          "lat": 39.59806,
+          "lon": 125.60972
+        },
+        {
+          "name": "Sunch’ŏn",
+          "lat": 39.43167,
+          "lon": 125.93278
+        },
+        {
+          "name": "Yonggang-ŭp",
+          "lat": 38.85611,
+          "lon": 125.42444
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "iso2": "GW",
+  "name": "Guinea-Bissau",
+  "nativeName": "Guinea-Bissau",
+  "lat": 12,
+  "lon": -15,
+  "states": [
+    {
+      "name": "Bafatá",
+      "stateCode": "BA",
+      "lat": 12.1735243,
+      "lon": -14.652952,
+      "cities": [
+        {
+          "name": "Bafatá",
+          "lat": 12.16583,
+          "lon": -14.66167
+        },
+        {
+          "name": "Contuboel Sector",
+          "lat": 12.555,
+          "lon": -14.641
+        }
+      ]
+    },
+    {
+      "name": "Biombo Region",
+      "stateCode": "BM",
+      "lat": 11.8529061,
+      "lon": -15.7351171,
+      "cities": [
+        {
+          "name": "Quinhámel",
+          "lat": 11.88694,
+          "lon": -15.85556
+        }
+      ]
+    },
+    {
+      "name": "Bolama Region",
+      "stateCode": "BL",
+      "lat": 11.1480591,
+      "lon": -16.1345705,
+      "cities": [
+        {
+          "name": "Bolama",
+          "lat": 11.57694,
+          "lon": -15.47611
+        },
+        {
+          "name": "Bubaque",
+          "lat": 11.28333,
+          "lon": -15.83333
+        }
+      ]
+    },
+    {
+      "name": "Cacheu Region",
+      "stateCode": "CA",
+      "lat": 12.0551416,
+      "lon": -16.0640179,
+      "cities": [
+        {
+          "name": "Cacheu",
+          "lat": 12.27444,
+          "lon": -16.16528
+        },
+        {
+          "name": "Canchungo",
+          "lat": 12.06722,
+          "lon": -16.03333
+        }
+      ]
+    },
+    {
+      "name": "Gabú Region",
+      "stateCode": "GA",
+      "lat": 11.8962488,
+      "lon": -14.1001326,
+      "cities": [
+        {
+          "name": "Gabú",
+          "lat": 12.28,
+          "lon": -14.22222
+        }
+      ]
+    },
+    {
+      "name": "Leste Province",
+      "stateCode": "L",
+      "lat": 0,
+      "lon": 0,
+      "cities": []
+    },
+    {
+      "name": "Norte Province",
+      "stateCode": "N",
+      "lat": 7.8721811,
+      "lon": 123.8857747,
+      "cities": []
+    },
+    {
+      "name": "Oio Region",
+      "stateCode": "OI",
+      "lat": 12.2760709,
+      "lon": -15.3131185,
+      "cities": [
+        {
+          "name": "Bissorã",
+          "lat": 12.22306,
+          "lon": -15.4475
+        },
+        {
+          "name": "Farim",
+          "lat": 12.48389,
+          "lon": -15.22167
+        },
+        {
+          "name": "Mansôa",
+          "lat": 12.07333,
+          "lon": -15.31889
+        }
+      ]
+    },
+    {
+      "name": "Quinara Region",
+      "stateCode": "QU",
+      "lat": 11.795562,
+      "lon": -15.1726816,
+      "cities": [
+        {
+          "name": "Buba",
+          "lat": 11.58889,
+          "lon": -14.99583
+        }
+      ]
+    },
+    {
+      "name": "Sul Province",
+      "stateCode": "S",
+      "lat": -10.2866578,
+      "lon": 20.7122465,
+      "cities": []
+    },
+    {
+      "name": "Tombali Region",
+      "stateCode": "TO",
+      "lat": 11.3632696,
+      "lon": -14.9856176,
+      "cities": [
+        {
+          "name": "Catió",
+          "lat": 11.2825,
+          "lon": -15.25472
+        },
+        {
+          "name": "Quebo",
+          "lat": 11.33333,
+          "lon": -14.93333
+        }
+      ]
+    }
+  ]
+}

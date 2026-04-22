@@ -1,0 +1,72 @@
+{
+  "iso2": "BM",
+  "name": "Bermuda",
+  "nativeName": "Bermuda",
+  "lat": 32.33333333,
+  "lon": -64.75,
+  "states": [
+    {
+      "name": "Devonshire Parish",
+      "stateCode": "DEV",
+      "lat": 32.3038062,
+      "lon": -64.7606954,
+      "cities": []
+    },
+    {
+      "name": "Hamilton Parish",
+      "stateCode": "HA",
+      "lat": 32.3449432,
+      "lon": -64.72365,
+      "cities": []
+    },
+    {
+      "name": "Paget Parish",
+      "stateCode": "PAG",
+      "lat": 32.281074,
+      "lon": -64.7784787,
+      "cities": []
+    },
+    {
+      "name": "Pembroke Parish",
+      "stateCode": "PEM",
+      "lat": 32.3007672,
+      "lon": -64.796263,
+      "cities": []
+    },
+    {
+      "name": "Saint George's Parish",
+      "stateCode": "SGE",
+      "lat": 17.1257759,
+      "lon": -62.5619811,
+      "cities": []
+    },
+    {
+      "name": "Sandys Parish",
+      "stateCode": "SAN",
+      "lat": 32.2999528,
+      "lon": -64.8674103,
+      "cities": []
+    },
+    {
+      "name": "Smith's Parish,",
+      "stateCode": "SMI",
+      "lat": 32.3133966,
+      "lon": -64.7310588,
+      "cities": []
+    },
+    {
+      "name": "Southampton Parish",
+      "stateCode": "SOU",
+      "lat": 32.2540095,
+      "lon": -64.8259058,
+      "cities": []
+    },
+    {
+      "name": "Warwick Parish",
+      "stateCode": "WAR",
+      "lat": 32.2661534,
+      "lon": -64.8081198,
+      "cities": []
+    }
+  ]
+}

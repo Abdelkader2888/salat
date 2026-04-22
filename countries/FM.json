@@ -1,0 +1,446 @@
+{
+  "iso2": "FM",
+  "name": "Micronesia",
+  "nativeName": "Micronesia",
+  "lat": 6.91666666,
+  "lon": 158.25,
+  "states": [
+    {
+      "name": "Chuuk State",
+      "stateCode": "TRK",
+      "lat": 7.1386759,
+      "lon": 151.5593065,
+      "cities": [
+        {
+          "name": "Eot Municipality",
+          "lat": 7.3854,
+          "lon": 151.7392
+        },
+        {
+          "name": "Ettal Municipality",
+          "lat": 5.592,
+          "lon": 153.56
+        },
+        {
+          "name": "Fananu Municipality",
+          "lat": 8.55811,
+          "lon": 151.90822
+        },
+        {
+          "name": "Fanapanges Municipality",
+          "lat": 7.353,
+          "lon": 151.6676
+        },
+        {
+          "name": "Fefen Municipality",
+          "lat": 7.353,
+          "lon": 151.831
+        },
+        {
+          "name": "Fonoton Municipality",
+          "lat": 7.486,
+          "lon": 151.8794
+        },
+        {
+          "name": "Houk Municipality",
+          "lat": 6.683,
+          "lon": 149.3
+        },
+        {
+          "name": "Kuttu Municipality",
+          "lat": 5.453,
+          "lon": 153.456
+        },
+        {
+          "name": "Lekinioch Municipality",
+          "lat": 5.507,
+          "lon": 153.819
+        },
+        {
+          "name": "Losap Municipality",
+          "lat": 6.894,
+          "lon": 152.739
+        },
+        {
+          "name": "Makur Municipality",
+          "lat": 8.985,
+          "lon": 150.126
+        },
+        {
+          "name": "Moch Municipality",
+          "lat": 5.4918,
+          "lon": 153.5385
+        },
+        {
+          "name": "Murilo",
+          "lat": 8.69242,
+          "lon": 152.33934
+        },
+        {
+          "name": "Murilo Municipality",
+          "lat": 8.692,
+          "lon": 152.342
+        },
+        {
+          "name": "Namoluk Municipality",
+          "lat": 5.915,
+          "lon": 153.136
+        },
+        {
+          "name": "Nema",
+          "lat": 6.98922,
+          "lon": 152.57377
+        },
+        {
+          "name": "Nema Municipality",
+          "lat": 6.993,
+          "lon": 152.574
+        },
+        {
+          "name": "Nomwin Municipality",
+          "lat": 8.43,
+          "lon": 151.745
+        },
+        {
+          "name": "Oneop Municipality",
+          "lat": 5.5066,
+          "lon": 153.709
+        },
+        {
+          "name": "Onou Municipality",
+          "lat": 8.799,
+          "lon": 150.29
+        },
+        {
+          "name": "Onoun Municipality",
+          "lat": 8.575,
+          "lon": 149.6855
+        },
+        {
+          "name": "Paata-Tupunion Municipality",
+          "lat": 7.376,
+          "lon": 151.583
+        },
+        {
+          "name": "Parem Municipality",
+          "lat": 7.362,
+          "lon": 151.789
+        },
+        {
+          "name": "Piherarh Municipality",
+          "lat": 8.569,
+          "lon": 150.418
+        },
+        {
+          "name": "Piis-Emwar Municipality",
+          "lat": 6.834,
+          "lon": 152.7
+        },
+        {
+          "name": "Piis-Panewu Municipality",
+          "lat": 7.678,
+          "lon": 151.7634
+        },
+        {
+          "name": "Pollap Municipality",
+          "lat": 7.63971,
+          "lon": 149.43011
+        },
+        {
+          "name": "Polowat Municipality",
+          "lat": 7.355,
+          "lon": 149.182
+        },
+        {
+          "name": "Pwene Municipality",
+          "lat": 7.337,
+          "lon": 151.584
+        },
+        {
+          "name": "Ramanum Municipality",
+          "lat": 7.4135,
+          "lon": 151.6646
+        },
+        {
+          "name": "Ruo Municipality",
+          "lat": 8.609,
+          "lon": 152.244
+        },
+        {
+          "name": "Satowan Municipality",
+          "lat": 5.334,
+          "lon": 153.7365
+        },
+        {
+          "name": "Siis Municipality",
+          "lat": 7.295,
+          "lon": 151.8246
+        },
+        {
+          "name": "Ta Municipality",
+          "lat": 5.2842,
+          "lon": 153.6465
+        },
+        {
+          "name": "Tamatam Municipality",
+          "lat": 7.53898,
+          "lon": 149.41175
+        },
+        {
+          "name": "Tolensom Municipality",
+          "lat": 7.333,
+          "lon": 151.623
+        },
+        {
+          "name": "Tonoas Municipality",
+          "lat": 7.381,
+          "lon": 151.89
+        },
+        {
+          "name": "Udot-Fonuweisom Municipality",
+          "lat": 7.389,
+          "lon": 151.708
+        },
+        {
+          "name": "Uman-Fonuweisom Municipality",
+          "lat": 7.299,
+          "lon": 151.877
+        },
+        {
+          "name": "Unanu Municipality",
+          "lat": 8.75,
+          "lon": 150.3395
+        },
+        {
+          "name": "Weno",
+          "lat": 7.44648,
+          "lon": 151.84135
+        },
+        {
+          "name": "Weno Municipality",
+          "lat": 7.44,
+          "lon": 151.881
+        },
+        {
+          "name": "Wonei Municipality",
+          "lat": 7.387,
+          "lon": 151.601
+        }
+      ]
+    },
+    {
+      "name": "Kosrae State",
+      "stateCode": "KSA",
+      "lat": 5.3095618,
+      "lon": 162.9814877,
+      "cities": [
+        {
+          "name": "Lelu Municipality",
+          "lat": 5.34865,
+          "lon": 163.01917
+        },
+        {
+          "name": "Malem Municipality",
+          "lat": 5.27507,
+          "lon": 163.01685
+        },
+        {
+          "name": "Tafunsak Municipality",
+          "lat": 5.34993,
+          "lon": 162.96965
+        },
+        {
+          "name": "Tofol",
+          "lat": 5.32479,
+          "lon": 163.00781
+        },
+        {
+          "name": "Utwe Municipality",
+          "lat": 5.27511,
+          "lon": 162.95617
+        }
+      ]
+    },
+    {
+      "name": "Pohnpei State",
+      "stateCode": "PNI",
+      "lat": 6.8541254,
+      "lon": 158.2623822,
+      "cities": [
+        {
+          "name": "Kitti Municipality",
+          "lat": 6.8249,
+          "lon": 158.16081
+        },
+        {
+          "name": "Kolonia",
+          "lat": 6.964,
+          "lon": 158.2062
+        },
+        {
+          "name": "Kolonia Municipality",
+          "lat": 6.964,
+          "lon": 158.2058
+        },
+        {
+          "name": "Kolonia Town",
+          "lat": 6.964,
+          "lon": 158.206
+        },
+        {
+          "name": "Madolenihm Municipality",
+          "lat": 6.86759,
+          "lon": 158.31277
+        },
+        {
+          "name": "Mokil Municipality",
+          "lat": 6.68916,
+          "lon": 159.7661
+        },
+        {
+          "name": "Nett Municipality",
+          "lat": 6.95152,
+          "lon": 158.22437
+        },
+        {
+          "name": "Ngatik",
+          "lat": 5.78849,
+          "lon": 157.15954
+        },
+        {
+          "name": "Nukuoro Municipality",
+          "lat": 3.841,
+          "lon": 154.93
+        },
+        {
+          "name": "Palikir - National Government Center",
+          "lat": 6.92477,
+          "lon": 158.16109
+        },
+        {
+          "name": "Pingelap Municipality",
+          "lat": 6.20908,
+          "lon": 160.71033
+        },
+        {
+          "name": "Sapwuahfik Municipality",
+          "lat": 5.815,
+          "lon": 157.28
+        },
+        {
+          "name": "Sokehs Municipality",
+          "lat": 6.93273,
+          "lon": 158.1427
+        },
+        {
+          "name": "U Municipality",
+          "lat": 6.94972,
+          "lon": 158.27361
+        }
+      ]
+    },
+    {
+      "name": "Yap State",
+      "stateCode": "YAP",
+      "lat": 8.671649,
+      "lon": 142.8439335,
+      "cities": [
+        {
+          "name": "Colonia",
+          "lat": 9.51638,
+          "lon": 138.12167
+        },
+        {
+          "name": "Dalipebinaw Municipality",
+          "lat": 9.52229,
+          "lon": 138.0854
+        },
+        {
+          "name": "Fais",
+          "lat": 9.766,
+          "lon": 140.52
+        },
+        {
+          "name": "Fais Municipality",
+          "lat": 9.766,
+          "lon": 140.519
+        },
+        {
+          "name": "Fanif Municipality",
+          "lat": 9.56056,
+          "lon": 138.11333
+        },
+        {
+          "name": "Faraulep Municipality",
+          "lat": 8.588,
+          "lon": 144.5065
+        },
+        {
+          "name": "Gagil Municipality",
+          "lat": 9.54722,
+          "lon": 138.19028
+        },
+        {
+          "name": "Gilman Municipality",
+          "lat": 9.44611,
+          "lon": 138.06389
+        },
+        {
+          "name": "Kanifay Municipality",
+          "lat": 9.46735,
+          "lon": 138.05935
+        },
+        {
+          "name": "Lamotrek Municipality",
+          "lat": 7.491,
+          "lon": 146.303
+        },
+        {
+          "name": "Maap Municipality",
+          "lat": 9.58975,
+          "lon": 138.17119
+        },
+        {
+          "name": "Ngulu Municipality",
+          "lat": 8.45,
+          "lon": 137.481
+        },
+        {
+          "name": "Rull Municipality",
+          "lat": 9.50773,
+          "lon": 138.1154
+        },
+        {
+          "name": "Rumung Municipality",
+          "lat": 9.62428,
+          "lon": 138.15745
+        },
+        {
+          "name": "Satawal Municipality",
+          "lat": 7.382,
+          "lon": 147.0318
+        },
+        {
+          "name": "Tomil Municipality",
+          "lat": 9.52517,
+          "lon": 138.15488
+        },
+        {
+          "name": "Ulithi Municipality",
+          "lat": 9.9,
+          "lon": 139.6
+        },
+        {
+          "name": "Weloy Municipality",
+          "lat": 9.52712,
+          "lon": 138.11909
+        },
+        {
+          "name": "Woleai Municipality",
+          "lat": 7.345,
+          "lon": 143.857
+        }
+      ]
+    }
+  ]
+}

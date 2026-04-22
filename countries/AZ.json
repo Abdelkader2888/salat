@@ -1,0 +1,1491 @@
+{
+  "iso2": "AZ",
+  "name": "Azerbaijan",
+  "nativeName": "Azerbaijan",
+  "lat": 40.5,
+  "lon": 47.5,
+  "states": [
+    {
+      "name": "Absheron District",
+      "stateCode": "ABS",
+      "lat": 40.3629693,
+      "lon": 49.2736815,
+      "cities": [
+        {
+          "name": "Ceyranbatan",
+          "lat": 40.54194,
+          "lon": 49.66073
+        },
+        {
+          "name": "Digah",
+          "lat": 40.49257,
+          "lon": 49.87477
+        },
+        {
+          "name": "Gyuzdek",
+          "lat": 40.37444,
+          "lon": 49.68194
+        },
+        {
+          "name": "Khirdalan",
+          "lat": 40.44808,
+          "lon": 49.75502
+        },
+        {
+          "name": "Qobu",
+          "lat": 40.40472,
+          "lon": 49.71306
+        },
+        {
+          "name": "Saray",
+          "lat": 40.53299,
+          "lon": 49.71681
+        }
+      ]
+    },
+    {
+      "name": "Agdam District",
+      "stateCode": "AGM",
+      "lat": 39.9931853,
+      "lon": 46.9949562,
+      "cities": [
+        {
+          "name": "Ağdam",
+          "lat": 39.99096,
+          "lon": 46.92736
+        }
+      ]
+    },
+    {
+      "name": "Agdash District",
+      "stateCode": "AGS",
+      "lat": 40.6335427,
+      "lon": 47.467431,
+      "cities": [
+        {
+          "name": "Ağdaş",
+          "lat": 40.64699,
+          "lon": 47.4738
+        }
+      ]
+    },
+    {
+      "name": "Aghjabadi District",
+      "stateCode": "AGC",
+      "lat": 28.7891841,
+      "lon": 77.5160788,
+      "cities": [
+        {
+          "name": "Agdzhabedy",
+          "lat": 40.05015,
+          "lon": 47.45937
+        },
+        {
+          "name": "Avşar",
+          "lat": 39.97389,
+          "lon": 47.42389
+        }
+      ]
+    },
+    {
+      "name": "Agstafa District",
+      "stateCode": "AGA",
+      "lat": 41.2655933,
+      "lon": 45.5134291,
+      "cities": [
+        {
+          "name": "Aghstafa",
+          "lat": 41.11889,
+          "lon": 45.45389
+        },
+        {
+          "name": "Saloğlu",
+          "lat": 41.27524,
+          "lon": 45.35293
+        },
+        {
+          "name": "Vurğun",
+          "lat": 41.09524,
+          "lon": 45.47111
+        }
+      ]
+    },
+    {
+      "name": "Agsu District",
+      "stateCode": "AGU",
+      "lat": 40.5283339,
+      "lon": 48.3650835,
+      "cities": [
+        {
+          "name": "Aghsu",
+          "lat": 40.57028,
+          "lon": 48.40087
+        }
+      ]
+    },
+    {
+      "name": "Astara District",
+      "stateCode": "AST",
+      "lat": 38.4937845,
+      "lon": 48.6944365,
+      "cities": [
+        {
+          "name": "Astara",
+          "lat": 38.45598,
+          "lon": 48.87498
+        },
+        {
+          "name": "Kizhaba",
+          "lat": 38.53461,
+          "lon": 48.80546
+        }
+      ]
+    },
+    {
+      "name": "Babek District",
+      "stateCode": "BAB",
+      "lat": 39.1507613,
+      "lon": 45.4485368,
+      "cities": []
+    },
+    {
+      "name": "Baku",
+      "stateCode": "BA",
+      "lat": 40.4092617,
+      "lon": 49.8670924,
+      "cities": [
+        {
+          "name": "Amirdzhan",
+          "lat": 40.42639,
+          "lon": 49.98361
+        },
+        {
+          "name": "Badamdar",
+          "lat": 40.34024,
+          "lon": 49.8045
+        },
+        {
+          "name": "Bakıxanov",
+          "lat": 40.41894,
+          "lon": 49.96693
+        },
+        {
+          "name": "Baku",
+          "lat": 40.37767,
+          "lon": 49.89201
+        },
+        {
+          "name": "Balakhani",
+          "lat": 40.46344,
+          "lon": 49.91893
+        },
+        {
+          "name": "Bilajari",
+          "lat": 40.4444,
+          "lon": 49.80566
+        },
+        {
+          "name": "Bilajer",
+          "lat": 40.56441,
+          "lon": 50.04002
+        },
+        {
+          "name": "Binagadi",
+          "lat": 40.46602,
+          "lon": 49.82783
+        },
+        {
+          "name": "Biny Selo",
+          "lat": 40.45076,
+          "lon": 50.08686
+        },
+        {
+          "name": "Buzovna",
+          "lat": 40.51903,
+          "lon": 50.11438
+        },
+        {
+          "name": "Hövsan",
+          "lat": 40.37444,
+          "lon": 50.08528
+        },
+        {
+          "name": "Khodzhi-Gasan",
+          "lat": 40.41293,
+          "lon": 49.76904
+        },
+        {
+          "name": "Korgöz",
+          "lat": 40.30446,
+          "lon": 49.6236
+        },
+        {
+          "name": "Lökbatan",
+          "lat": 40.3256,
+          "lon": 49.73376
+        },
+        {
+          "name": "Mardakan",
+          "lat": 40.49182,
+          "lon": 50.14292
+        },
+        {
+          "name": "Maştağa",
+          "lat": 40.52983,
+          "lon": 50.00616
+        },
+        {
+          "name": "Nardaran",
+          "lat": 40.55611,
+          "lon": 50.00556
+        },
+        {
+          "name": "Nizami Rayonu",
+          "lat": 40.4097,
+          "lon": 49.91926
+        },
+        {
+          "name": "Pirallahı",
+          "lat": 40.47013,
+          "lon": 50.32476
+        },
+        {
+          "name": "Puta",
+          "lat": 40.29667,
+          "lon": 49.66028
+        },
+        {
+          "name": "Qala",
+          "lat": 40.44256,
+          "lon": 50.16759
+        },
+        {
+          "name": "Qaraçuxur",
+          "lat": 40.39667,
+          "lon": 49.97361
+        },
+        {
+          "name": "Qobustan",
+          "lat": 40.08238,
+          "lon": 49.41205
+        },
+        {
+          "name": "Ramana",
+          "lat": 40.44222,
+          "lon": 49.98056
+        },
+        {
+          "name": "Sabunçu",
+          "lat": 40.4425,
+          "lon": 49.94806
+        },
+        {
+          "name": "Sanqaçal",
+          "lat": 40.16991,
+          "lon": 49.46394
+        },
+        {
+          "name": "Türkan",
+          "lat": 40.3646,
+          "lon": 50.22075
+        },
+        {
+          "name": "Yeni Suraxanı",
+          "lat": 40.43026,
+          "lon": 50.03598
+        },
+        {
+          "name": "Zabrat",
+          "lat": 40.47746,
+          "lon": 49.94174
+        },
+        {
+          "name": "Zyrya",
+          "lat": 40.36613,
+          "lon": 50.29198
+        }
+      ]
+    },
+    {
+      "name": "Balakan District",
+      "stateCode": "BAL",
+      "lat": 41.7037509,
+      "lon": 46.4044213,
+      "cities": [
+        {
+          "name": "Belokany",
+          "lat": 41.72626,
+          "lon": 46.40478
+        },
+        {
+          "name": "Qabaqçöl",
+          "lat": 41.75259,
+          "lon": 46.27052
+        }
+      ]
+    },
+    {
+      "name": "Barda District",
+      "stateCode": "BAR",
+      "lat": 40.3706555,
+      "lon": 47.1378909,
+      "cities": [
+        {
+          "name": "Barda",
+          "lat": 40.37577,
+          "lon": 47.12619
+        },
+        {
+          "name": "Samuxlu",
+          "lat": 40.50833,
+          "lon": 47.16917
+        }
+      ]
+    },
+    {
+      "name": "Beylagan District",
+      "stateCode": "BEY",
+      "lat": 39.7723073,
+      "lon": 47.6154166,
+      "cities": [
+        {
+          "name": "Beylagan",
+          "lat": 39.77556,
+          "lon": 47.61861
+        },
+        {
+          "name": "Birinci Aşıqlı",
+          "lat": 39.81917,
+          "lon": 47.67944
+        },
+        {
+          "name": "Dünyamalılar",
+          "lat": 39.77278,
+          "lon": 47.75889
+        },
+        {
+          "name": "Orjonikidze",
+          "lat": 39.63571,
+          "lon": 47.71199
+        },
+        {
+          "name": "Yuxarı Aran",
+          "lat": 39.73361,
+          "lon": 47.655
+        }
+      ]
+    },
+    {
+      "name": "Bilasuvar District",
+      "stateCode": "BIL",
+      "lat": 39.4598833,
+      "lon": 48.5509813,
+      "cities": [
+        {
+          "name": "Pushkino",
+          "lat": 39.45833,
+          "lon": 48.545
+        }
+      ]
+    },
+    {
+      "name": "Dashkasan District",
+      "stateCode": "DAS",
+      "lat": 40.5202257,
+      "lon": 46.0779304,
+      "cities": [
+        {
+          "name": "Verkhniy Dashkesan",
+          "lat": 40.49357,
+          "lon": 46.07175
+        },
+        {
+          "name": "Yukhary-Dashkesan",
+          "lat": 40.52393,
+          "lon": 46.08186
+        }
+      ]
+    },
+    {
+      "name": "Fizuli District",
+      "stateCode": "FUZ",
+      "lat": 39.5378605,
+      "lon": 47.3033877,
+      "cities": [
+        {
+          "name": "Fizuli",
+          "lat": 39.60094,
+          "lon": 47.14529
+        },
+        {
+          "name": "Horadiz",
+          "lat": 39.45015,
+          "lon": 47.33496
+        }
+      ]
+    },
+    {
+      "name": "Ganja",
+      "stateCode": "GA",
+      "lat": 36.3687338,
+      "lon": -95.9985767,
+      "cities": [
+        {
+          "name": "Ganja",
+          "lat": 40.68278,
+          "lon": 46.36056
+        }
+      ]
+    },
+    {
+      "name": "Gədəbəy",
+      "stateCode": "GAD",
+      "lat": 40.5699639,
+      "lon": 45.8106883,
+      "cities": [
+        {
+          "name": "Arıqdam",
+          "lat": 40.59313,
+          "lon": 45.799
+        },
+        {
+          "name": "Arıqıran",
+          "lat": 40.53971,
+          "lon": 45.61414
+        },
+        {
+          "name": "Böyük Qaramurad",
+          "lat": 40.57626,
+          "lon": 45.63727
+        },
+        {
+          "name": "Kyadabek",
+          "lat": 40.57055,
+          "lon": 45.81229
+        },
+        {
+          "name": "Novosaratovka",
+          "lat": 40.59811,
+          "lon": 45.60079
+        }
+      ]
+    },
+    {
+      "name": "Gobustan District",
+      "stateCode": "QOB",
+      "lat": 40.5326104,
+      "lon": 48.927375,
+      "cities": [
+        {
+          "name": "Qobustan",
+          "lat": 40.5336,
+          "lon": 48.92819
+        }
+      ]
+    },
+    {
+      "name": "Goranboy District",
+      "stateCode": "GOR",
+      "lat": 40.5380506,
+      "lon": 46.5990891,
+      "cities": [
+        {
+          "name": "Goranboy",
+          "lat": 40.61028,
+          "lon": 46.78972
+        },
+        {
+          "name": "Qızılhacılı",
+          "lat": 40.57362,
+          "lon": 46.849
+        }
+      ]
+    },
+    {
+      "name": "Goychay",
+      "stateCode": "GOY",
+      "lat": 40.6236168,
+      "lon": 47.7403034,
+      "cities": [
+        {
+          "name": "Geoktschai",
+          "lat": 40.65055,
+          "lon": 47.74219
+        }
+      ]
+    },
+    {
+      "name": "Goygol District",
+      "stateCode": "GYG",
+      "lat": 40.5595378,
+      "lon": 46.3314953,
+      "cities": [
+        {
+          "name": "Yelenendorf",
+          "lat": 40.58584,
+          "lon": 46.3189
+        }
+      ]
+    },
+    {
+      "name": "Hajigabul District",
+      "stateCode": "HAC",
+      "lat": 40.039377,
+      "lon": 48.9202533,
+      "cities": [
+        {
+          "name": "Hacıqabul",
+          "lat": 40.03874,
+          "lon": 48.94286
+        },
+        {
+          "name": "Mughan",
+          "lat": 40.09902,
+          "lon": 48.81886
+        }
+      ]
+    },
+    {
+      "name": "Imishli District",
+      "stateCode": "IMI",
+      "lat": 39.8694686,
+      "lon": 48.0665218,
+      "cities": [
+        {
+          "name": "Imishli",
+          "lat": 39.87095,
+          "lon": 48.05995
+        }
+      ]
+    },
+    {
+      "name": "Ismailli District",
+      "stateCode": "ISM",
+      "lat": 40.7429936,
+      "lon": 48.2125556,
+      "cities": [
+        {
+          "name": "Basqal",
+          "lat": 40.7552,
+          "lon": 48.39104
+        },
+        {
+          "name": "İsmayıllı",
+          "lat": 40.78485,
+          "lon": 48.15141
+        }
+      ]
+    },
+    {
+      "name": "Jabrayil District",
+      "stateCode": "CAB",
+      "lat": 39.2645544,
+      "lon": 46.9621562,
+      "cities": [
+        {
+          "name": "Jebrail",
+          "lat": 39.39917,
+          "lon": 47.02835
+        }
+      ]
+    },
+    {
+      "name": "Jalilabad District",
+      "stateCode": "CAL",
+      "lat": 39.2051632,
+      "lon": 48.5100604,
+      "cities": [
+        {
+          "name": "Jalilabad",
+          "lat": 39.20963,
+          "lon": 48.49186
+        },
+        {
+          "name": "Prishibinskoye",
+          "lat": 39.11998,
+          "lon": 48.59383
+        }
+      ]
+    },
+    {
+      "name": "Julfa District",
+      "stateCode": "CUL",
+      "lat": 38.9604983,
+      "lon": 45.6292939,
+      "cities": []
+    },
+    {
+      "name": "Kalbajar District",
+      "stateCode": "KAL",
+      "lat": 40.1024329,
+      "lon": 46.0364872,
+      "cities": [
+        {
+          "name": "Kerbakhiar",
+          "lat": 40.10984,
+          "lon": 46.04446
+        },
+        {
+          "name": "Vank",
+          "lat": 40.05275,
+          "lon": 46.54419
+        }
+      ]
+    },
+    {
+      "name": "Kangarli District",
+      "stateCode": "KAN",
+      "lat": 39.387194,
+      "lon": 45.1639852,
+      "cities": []
+    },
+    {
+      "name": "Khachmaz District",
+      "stateCode": "XAC",
+      "lat": 41.4591168,
+      "lon": 48.8020626,
+      "cities": [
+        {
+          "name": "Xaçmaz",
+          "lat": 41.46426,
+          "lon": 48.80565
+        },
+        {
+          "name": "Xudat",
+          "lat": 41.63052,
+          "lon": 48.68161
+        }
+      ]
+    },
+    {
+      "name": "Khizi District",
+      "stateCode": "XIZ",
+      "lat": 40.9109489,
+      "lon": 49.0729264,
+      "cities": [
+        {
+          "name": "Altıağac",
+          "lat": 40.85785,
+          "lon": 48.9354
+        },
+        {
+          "name": "Khyzy",
+          "lat": 40.90847,
+          "lon": 49.07481
+        },
+        {
+          "name": "Kilyazi",
+          "lat": 40.87392,
+          "lon": 49.34376
+        },
+        {
+          "name": "Şuraabad",
+          "lat": 40.8199,
+          "lon": 49.46774
+        }
+      ]
+    },
+    {
+      "name": "Khojali District",
+      "stateCode": "XCI",
+      "lat": 39.9132553,
+      "lon": 46.794305,
+      "cities": [
+        {
+          "name": "Askyaran",
+          "lat": 39.9391,
+          "lon": 46.83161
+        },
+        {
+          "name": "Xocalı",
+          "lat": 39.91297,
+          "lon": 46.79028
+        }
+      ]
+    },
+    {
+      "name": "Kurdamir District",
+      "stateCode": "KUR",
+      "lat": 40.3698651,
+      "lon": 48.1644626,
+      "cities": [
+        {
+          "name": "Kyurdarmir",
+          "lat": 40.34257,
+          "lon": 48.15649
+        }
+      ]
+    },
+    {
+      "name": "Lachin District",
+      "stateCode": "LAC",
+      "lat": 39.6383414,
+      "lon": 46.5460853,
+      "cities": [
+        {
+          "name": "Laçın",
+          "lat": 39.59881,
+          "lon": 46.55045
+        }
+      ]
+    },
+    {
+      "name": "Lankaran",
+      "stateCode": "LAN",
+      "lat": 38.7528669,
+      "lon": 48.8475015,
+      "cities": []
+    },
+    {
+      "name": "Lankaran District",
+      "stateCode": "LA",
+      "lat": 38.7528669,
+      "lon": 48.8475015,
+      "cities": [
+        {
+          "name": "Haftoni",
+          "lat": 38.76325,
+          "lon": 48.76223
+        },
+        {
+          "name": "Lankaran",
+          "lat": 38.75428,
+          "lon": 48.85062
+        }
+      ]
+    },
+    {
+      "name": "Lerik District",
+      "stateCode": "LER",
+      "lat": 38.7736192,
+      "lon": 48.4151483,
+      "cities": [
+        {
+          "name": "Lerik",
+          "lat": 38.77388,
+          "lon": 48.41497
+        }
+      ]
+    },
+    {
+      "name": "Martuni",
+      "stateCode": "XVD",
+      "lat": 39.7914693,
+      "lon": 47.1100814,
+      "cities": [
+        {
+          "name": "Hadrut",
+          "lat": 39.52003,
+          "lon": 47.0319
+        },
+        {
+          "name": "Novyy Karanlug",
+          "lat": 39.79496,
+          "lon": 47.1117
+        },
+        {
+          "name": "Qırmızı Bazar",
+          "lat": 39.67669,
+          "lon": 46.95123
+        }
+      ]
+    },
+    {
+      "name": "Masally District",
+      "stateCode": "MAS",
+      "lat": 39.0340722,
+      "lon": 48.6589354,
+      "cities": [
+        {
+          "name": "Boradigah",
+          "lat": 38.93013,
+          "lon": 48.7092
+        },
+        {
+          "name": "Masally",
+          "lat": 39.03532,
+          "lon": 48.6654
+        }
+      ]
+    },
+    {
+      "name": "Mingachevir",
+      "stateCode": "MI",
+      "lat": 40.7702563,
+      "lon": 47.0496015,
+      "cities": [
+        {
+          "name": "Mingelchaur",
+          "lat": 40.76395,
+          "lon": 47.05953
+        }
+      ]
+    },
+    {
+      "name": "Nakhchivan Autonomous Republic",
+      "stateCode": "NX",
+      "lat": 39.3256814,
+      "lon": 45.4912648,
+      "cities": [
+        {
+          "name": "Cahri",
+          "lat": 39.34837,
+          "lon": 45.41557
+        },
+        {
+          "name": "Çalxanqala",
+          "lat": 39.44167,
+          "lon": 45.28333
+        },
+        {
+          "name": "Culfa",
+          "lat": 38.95397,
+          "lon": 45.62961
+        },
+        {
+          "name": "Deste",
+          "lat": 38.88375,
+          "lon": 45.90963
+        },
+        {
+          "name": "Heydarabad",
+          "lat": 39.72286,
+          "lon": 44.84846
+        },
+        {
+          "name": "Julfa Rayon",
+          "lat": 39.16667,
+          "lon": 45.66667
+        },
+        {
+          "name": "Nakhchivan",
+          "lat": 39.20889,
+          "lon": 45.41222
+        },
+        {
+          "name": "Oğlanqala",
+          "lat": 39.58694,
+          "lon": 45.04611
+        },
+        {
+          "name": "Ordubad",
+          "lat": 38.90961,
+          "lon": 46.02274
+        },
+        {
+          "name": "Ordubad Rayon",
+          "lat": 39.08333,
+          "lon": 45.91667
+        },
+        {
+          "name": "Qıvraq",
+          "lat": 39.39939,
+          "lon": 45.11513
+        },
+        {
+          "name": "Şahbuz",
+          "lat": 39.40722,
+          "lon": 45.57389
+        },
+        {
+          "name": "Sedarak",
+          "lat": 39.71427,
+          "lon": 44.88455
+        },
+        {
+          "name": "Shahbuz Rayon",
+          "lat": 39.41667,
+          "lon": 45.58333
+        },
+        {
+          "name": "Sharur City",
+          "lat": 39.55298,
+          "lon": 44.97993
+        },
+        {
+          "name": "Sumbatan-diza",
+          "lat": 38.94804,
+          "lon": 45.82572
+        },
+        {
+          "name": "Tazakend",
+          "lat": 39.15459,
+          "lon": 45.44282
+        },
+        {
+          "name": "Yaycı",
+          "lat": 38.94052,
+          "lon": 45.73244
+        }
+      ]
+    },
+    {
+      "name": "Neftchala District",
+      "stateCode": "NEF",
+      "lat": 39.3881052,
+      "lon": 49.2413743,
+      "cities": [
+        {
+          "name": "Neftçala",
+          "lat": 39.3768,
+          "lon": 49.247
+        },
+        {
+          "name": "Severo-Vostotchnyi Bank",
+          "lat": 39.41117,
+          "lon": 49.24792
+        },
+        {
+          "name": "Sovetabad",
+          "lat": 39.33667,
+          "lon": 49.21414
+        },
+        {
+          "name": "Xıllı",
+          "lat": 39.43012,
+          "lon": 49.10166
+        }
+      ]
+    },
+    {
+      "name": "Oghuz District",
+      "stateCode": "OGU",
+      "lat": 41.0727924,
+      "lon": 47.4650672,
+      "cities": [
+        {
+          "name": "Oğuz",
+          "lat": 41.07128,
+          "lon": 47.46528
+        }
+      ]
+    },
+    {
+      "name": "Ordubad District",
+      "stateCode": "ORD",
+      "lat": 38.9021622,
+      "lon": 46.0237625,
+      "cities": []
+    },
+    {
+      "name": "Qabala District",
+      "stateCode": "QAB",
+      "lat": 40.9253925,
+      "lon": 47.8016106,
+      "cities": [
+        {
+          "name": "Qutqashen",
+          "lat": 40.98247,
+          "lon": 47.84909
+        }
+      ]
+    },
+    {
+      "name": "Qakh District",
+      "stateCode": "QAX",
+      "lat": 41.4206827,
+      "lon": 46.9320184,
+      "cities": [
+        {
+          "name": "Çinarlı",
+          "lat": 41.46965,
+          "lon": 46.91582
+        },
+        {
+          "name": "Qax",
+          "lat": 41.41826,
+          "lon": 46.92043
+        },
+        {
+          "name": "Qax İngiloy",
+          "lat": 41.42412,
+          "lon": 46.93859
+        },
+        {
+          "name": "Qaxbaş",
+          "lat": 41.43254,
+          "lon": 46.9646
+        }
+      ]
+    },
+    {
+      "name": "Qazakh District",
+      "stateCode": "QAZ",
+      "lat": 41.0971074,
+      "lon": 45.3516331,
+      "cities": [
+        {
+          "name": "Qazax",
+          "lat": 41.09246,
+          "lon": 45.36561
+        }
+      ]
+    },
+    {
+      "name": "Quba District",
+      "stateCode": "QBA",
+      "lat": 41.1564242,
+      "lon": 48.4135021,
+      "cities": [
+        {
+          "name": "Hacıhüseynli",
+          "lat": 41.45639,
+          "lon": 48.64889
+        },
+        {
+          "name": "Quba",
+          "lat": 41.36108,
+          "lon": 48.51341
+        }
+      ]
+    },
+    {
+      "name": "Qubadli District",
+      "stateCode": "QBI",
+      "lat": 39.2713996,
+      "lon": 46.6354312,
+      "cities": [
+        {
+          "name": "Qubadlı",
+          "lat": 39.34441,
+          "lon": 46.58183
+        }
+      ]
+    },
+    {
+      "name": "Qusar District",
+      "stateCode": "QUS",
+      "lat": 41.4266886,
+      "lon": 48.4345577,
+      "cities": [
+        {
+          "name": "Qusar",
+          "lat": 41.4275,
+          "lon": 48.4302
+        },
+        {
+          "name": "Samur",
+          "lat": 41.63671,
+          "lon": 48.43028
+        }
+      ]
+    },
+    {
+      "name": "Saatly District",
+      "stateCode": "SAT",
+      "lat": 39.9095503,
+      "lon": 48.3595122,
+      "cities": [
+        {
+          "name": "Əhmədbəyli",
+          "lat": 39.88074,
+          "lon": 48.39158
+        },
+        {
+          "name": "Saatlı",
+          "lat": 39.93214,
+          "lon": 48.36892
+        }
+      ]
+    },
+    {
+      "name": "Sabirabad District",
+      "stateCode": "SAB",
+      "lat": 39.9870663,
+      "lon": 48.4692545,
+      "cities": [
+        {
+          "name": "Sabirabad",
+          "lat": 40.00869,
+          "lon": 48.47701
+        }
+      ]
+    },
+    {
+      "name": "Sadarak District",
+      "stateCode": "SAD",
+      "lat": 39.7105114,
+      "lon": 44.8864277,
+      "cities": []
+    },
+    {
+      "name": "Salyan District",
+      "stateCode": "SAL",
+      "lat": 28.3524811,
+      "lon": 82.12784,
+      "cities": [
+        {
+          "name": "Qaraçala",
+          "lat": 39.81614,
+          "lon": 48.93792
+        },
+        {
+          "name": "Salyan",
+          "lat": 39.59621,
+          "lon": 48.98479
+        }
+      ]
+    },
+    {
+      "name": "Samukh District",
+      "stateCode": "SMX",
+      "lat": 40.7604631,
+      "lon": 46.4063181,
+      "cities": [
+        {
+          "name": "Qarayeri",
+          "lat": 40.78674,
+          "lon": 46.31365
+        },
+        {
+          "name": "Qırmızı Samux",
+          "lat": 40.93972,
+          "lon": 46.37889
+        },
+        {
+          "name": "Samux",
+          "lat": 40.76485,
+          "lon": 46.40868
+        }
+      ]
+    },
+    {
+      "name": "Shabran District",
+      "stateCode": "SBN",
+      "lat": 41.2228376,
+      "lon": 48.8457304,
+      "cities": [
+        {
+          "name": "Divichibazar",
+          "lat": 41.20117,
+          "lon": 48.98712
+        }
+      ]
+    },
+    {
+      "name": "Shahbuz District",
+      "stateCode": "SAH",
+      "lat": 39.4452103,
+      "lon": 45.6568009,
+      "cities": []
+    },
+    {
+      "name": "Shaki",
+      "stateCode": "SA",
+      "lat": 41.1974753,
+      "lon": 47.1571241,
+      "cities": [
+        {
+          "name": "Sheki",
+          "lat": 41.19194,
+          "lon": 47.17056
+        }
+      ]
+    },
+    {
+      "name": "Shaki District",
+      "stateCode": "SAK",
+      "lat": 41.1134662,
+      "lon": 47.1316927,
+      "cities": [
+        {
+          "name": "Baş Göynük",
+          "lat": 41.32582,
+          "lon": 47.11357
+        }
+      ]
+    },
+    {
+      "name": "Shamakhi District",
+      "stateCode": "SMI",
+      "lat": 40.6318731,
+      "lon": 48.6363801,
+      "cities": [
+        {
+          "name": "Shamakhi",
+          "lat": 40.63141,
+          "lon": 48.64137
+        }
+      ]
+    },
+    {
+      "name": "Shamkir District",
+      "stateCode": "SKR",
+      "lat": 40.8288144,
+      "lon": 46.0166879,
+      "cities": [
+        {
+          "name": "Dolyar",
+          "lat": 40.86278,
+          "lon": 46.03493
+        },
+        {
+          "name": "Dzagam",
+          "lat": 40.9033,
+          "lon": 45.88564
+        },
+        {
+          "name": "Qasım İsmayılov",
+          "lat": 40.81243,
+          "lon": 46.25938
+        },
+        {
+          "name": "Shamkhor",
+          "lat": 40.82975,
+          "lon": 46.0178
+        }
+      ]
+    },
+    {
+      "name": "Sharur District",
+      "stateCode": "SAR",
+      "lat": 39.5536332,
+      "lon": 44.984568,
+      "cities": []
+    },
+    {
+      "name": "Shirvan",
+      "stateCode": "SR",
+      "lat": 39.9469707,
+      "lon": 48.9223919,
+      "cities": [
+        {
+          "name": "Şirvan",
+          "lat": 39.93778,
+          "lon": 48.929
+        }
+      ]
+    },
+    {
+      "name": "Shusha District",
+      "stateCode": "SUS",
+      "lat": 39.7537438,
+      "lon": 46.7464755,
+      "cities": [
+        {
+          "name": "Shushi",
+          "lat": 39.76006,
+          "lon": 46.74989
+        }
+      ]
+    },
+    {
+      "name": "Siazan District",
+      "stateCode": "SIY",
+      "lat": 41.0783833,
+      "lon": 49.1118477,
+      "cities": [
+        {
+          "name": "Gilgilçay",
+          "lat": 41.13932,
+          "lon": 49.09038
+        },
+        {
+          "name": "Kyzyl-Burun",
+          "lat": 41.07811,
+          "lon": 49.11564
+        }
+      ]
+    },
+    {
+      "name": "Sumqayit",
+      "stateCode": "SM",
+      "lat": 40.5854765,
+      "lon": 49.6317411,
+      "cities": [
+        {
+          "name": "Corat",
+          "lat": 40.57176,
+          "lon": 49.70509
+        },
+        {
+          "name": "Hacı Zeynalabdin",
+          "lat": 40.62333,
+          "lon": 49.55861
+        },
+        {
+          "name": "Sumqayıt",
+          "lat": 40.58972,
+          "lon": 49.66861
+        }
+      ]
+    },
+    {
+      "name": "Tartar District",
+      "stateCode": "TAR",
+      "lat": 40.3443875,
+      "lon": 46.9376519,
+      "cities": [
+        {
+          "name": "Martakert",
+          "lat": 40.21127,
+          "lon": 46.82135
+        },
+        {
+          "name": "Terter",
+          "lat": 40.34201,
+          "lon": 46.93161
+        }
+      ]
+    },
+    {
+      "name": "Tovuz District",
+      "stateCode": "TOV",
+      "lat": 40.9954523,
+      "lon": 45.6165907,
+      "cities": [
+        {
+          "name": "Çatax",
+          "lat": 40.72622,
+          "lon": 45.55919
+        },
+        {
+          "name": "Çobansığnaq",
+          "lat": 40.75244,
+          "lon": 45.70645
+        },
+        {
+          "name": "Dondar Quşçu",
+          "lat": 40.9539,
+          "lon": 45.61942
+        },
+        {
+          "name": "Qaraxanlı",
+          "lat": 41.04358,
+          "lon": 45.65527
+        },
+        {
+          "name": "Tovuz",
+          "lat": 40.99249,
+          "lon": 45.62838
+        },
+        {
+          "name": "Yanıqlı",
+          "lat": 40.8432,
+          "lon": 45.6803
+        }
+      ]
+    },
+    {
+      "name": "Ujar District",
+      "stateCode": "UCA",
+      "lat": 40.5067525,
+      "lon": 47.6489641,
+      "cities": [
+        {
+          "name": "Ujar",
+          "lat": 40.51902,
+          "lon": 47.65423
+        }
+      ]
+    },
+    {
+      "name": "Yardymli District",
+      "stateCode": "YAR",
+      "lat": 38.9058917,
+      "lon": 48.2496127,
+      "cities": [
+        {
+          "name": "Yardımlı",
+          "lat": 38.90771,
+          "lon": 48.24052
+        }
+      ]
+    },
+    {
+      "name": "Yevlakh",
+      "stateCode": "YE",
+      "lat": 40.6196638,
+      "lon": 47.1500324,
+      "cities": [
+        {
+          "name": "Yevlakh",
+          "lat": 40.61832,
+          "lon": 47.15014
+        }
+      ]
+    },
+    {
+      "name": "Yevlakh District",
+      "stateCode": "YEV",
+      "lat": 40.6196638,
+      "lon": 47.1500324,
+      "cities": [
+        {
+          "name": "Aran",
+          "lat": 40.62528,
+          "lon": 46.97556
+        },
+        {
+          "name": "Qaramanlı",
+          "lat": 40.48135,
+          "lon": 46.99339
+        }
+      ]
+    },
+    {
+      "name": "Zangilan District",
+      "stateCode": "ZAN",
+      "lat": 39.0856899,
+      "lon": 46.6524728,
+      "cities": [
+        {
+          "name": "Mincivan",
+          "lat": 39.03023,
+          "lon": 46.72329
+        },
+        {
+          "name": "Zangilan",
+          "lat": 39.08371,
+          "lon": 46.65988
+        }
+      ]
+    },
+    {
+      "name": "Zaqatala District",
+      "stateCode": "ZAQ",
+      "lat": 41.5906889,
+      "lon": 46.7240373,
+      "cities": [
+        {
+          "name": "Aliabad",
+          "lat": 41.4829,
+          "lon": 46.63483
+        },
+        {
+          "name": "Faldarlı",
+          "lat": 41.46868,
+          "lon": 46.51579
+        },
+        {
+          "name": "Mamrux",
+          "lat": 41.54243,
+          "lon": 46.767
+        },
+        {
+          "name": "Qandax",
+          "lat": 41.47546,
+          "lon": 46.54128
+        },
+        {
+          "name": "Zaqatala",
+          "lat": 41.6316,
+          "lon": 46.64479
+        }
+      ]
+    },
+    {
+      "name": "Zardab District",
+      "stateCode": "ZAR",
+      "lat": 40.2148114,
+      "lon": 47.714944,
+      "cities": [
+        {
+          "name": "Zardob",
+          "lat": 40.2184,
+          "lon": 47.71214
+        }
+      ]
+    }
+  ]
+}
